@@ -383,10 +383,7 @@ favicons:
 fb-admins:
 code:
   meta_pixel_code:
-  hellobar_code: >-
-    <script
-    src="https://my.hellobar.com/3637f5c1b3822971be9cc062632ab7c7c1b1e46b.js"
-    type="text/javascript" charset="utf-8" async="async"> </script>
+  hellobar_code:
 _inputs:
   REQUIRED_bottom_mobile:
     comment: REQUIRED. This must be filled out.
