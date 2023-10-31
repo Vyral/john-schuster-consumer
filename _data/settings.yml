@@ -383,7 +383,6 @@ favicons:
 fb-admins:
 code:
   meta_pixel_code:
-  hellobar_code:
 _inputs:
   REQUIRED_bottom_mobile:
     comment: REQUIRED. This must be filled out.
@@ -409,9 +408,6 @@ _inputs:
   code.meta_pixel_code:
     type: textarea
     comment: (Optional) Paste your pixel code here
-  code.hellobar_code:
-    type: textarea
-    comment: Paste your hellobar.com code here
   favicons:
     comment: >-
       Place all resulting files from realfavicongenerator.net here (use high res
