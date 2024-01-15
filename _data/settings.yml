@@ -458,3 +458,6 @@ _inputs:
       uploads_dir: /
   hero.hero_tabs.tabs:
     comment: 4 tabs max.
+  fonts.google_fonts_link_code:
+    type: textarea
+    comment: "Google fonts link code for ALL fonts used. Required weights - Body and header: 100, 300, 400, 500, 700, including italics. Blog: 400, 700, no italics."
