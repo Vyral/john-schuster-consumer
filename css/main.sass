@@ -9,10 +9,11 @@ $sidenav-width: 415px
 
 li
 	font-size: 18px
+
 //fonts
-$bodyfont: 'Roboto', helvetica, arial, sans-serif
-$headerfont: 'Roboto', helvetica, arial, sans-serif
-$blogfont: 'Gelasio', serif
+$bodyfont: {{ site.data.settings.fonts.body_CSS | remove: 'font-family: ' | remove: ';' }}
+$headerfont: {{ site.data.settings.fonts.header_CSS | remove: 'font-family: ' | remove: ';' }}
+$blogfont: {{ site.data.settings.fonts.blog_CSS | remove: 'font-family: ' | remove: ';' }}
 
 //colors
 // If this is a really light color, you're going to have to mess around with some other settings.
