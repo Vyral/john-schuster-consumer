@@ -189,7 +189,7 @@ blog:
           when they click the call to action button.
 about:
   enabled: true
-  text_align: left
+  text_align: center
   background_image:
     enabled: true
     image: /img/stone-wall.jpg
@@ -303,12 +303,13 @@ site_colors:
   sidenav_font_color: '#ffffff'
 fonts:
   google_fonts_link_code: >-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Gelasio:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
-  body_CSS: "font-family: 'Roboto', sans-serif;"
-  header_CSS: "font-family: 'Roboto', sans-serif;"
-  blog_CSS: "font-family: 'Gelasio', serif"
+    <link rel="preconnect" href="https://fonts.googleapis.com"> <link
+    rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link
+    href="https://fonts.googleapis.com/css2?family=Gelasio:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap"
+    rel="stylesheet">
+  body_CSS: 'font-family: ''Roboto'', sans-serif;'
+  header_CSS: 'font-family: ''Roboto'', sans-serif;'
+  blog_CSS: 'font-family: ''Gelasio'', serif'
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
@@ -468,4 +469,7 @@ _inputs:
     comment: 4 tabs max.
   fonts.google_fonts_link_code:
     type: textarea
-    comment: "Google fonts link code for ALL fonts used. Required weights - Body and header: 100, 300, 400, 500, 700, including italics. Blog: 400, 700, no italics."
+    comment: >-
+      Google fonts link code for ALL fonts used. Required weights - Body and
+      header: 100, 300, 400, 500, 700, including italics. Blog: 400, 700, no
+      italics.
