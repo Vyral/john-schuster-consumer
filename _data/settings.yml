@@ -475,3 +475,6 @@ _inputs:
       Google fonts link code for ALL fonts used. Required weights - Body and
       header: 100, 300, 400, 500, 700, including italics. Blog: 400, 700, no
       italics.
+  testimonials.quotes.markdown_quote:
+    type: html
+  
