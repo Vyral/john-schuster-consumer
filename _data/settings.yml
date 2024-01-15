@@ -255,7 +255,7 @@ testimonials:
   background_color_2: white
   font_color: '#000'
   quotes:
-    - markdown_quote: >-
+    - markdown: |
         ### "You'll put a client testimonial here of one of your best customers
         that shares the problem they had before they hired you **and the
         benefits of you solving it."**
@@ -265,7 +265,7 @@ testimonials:
         path: /uploads/testimonial-1.mp4
       image: /img/16x9-placeholder.png
       link: '#'
-    - markdown_quote: >-
+    - markdown: |
         ### "You'll put a client testimonial here of one of your best customers
         that shares the problem they had before they hired you **and the
         benefits of you solving it."**
@@ -275,7 +275,7 @@ testimonials:
         path: /uploads/testimonial-2.mp4
       image: /img/16x9-placeholder.png
       link: '#'
-    - markdown_quote: >-
+    - markdown: |
         ### "You'll put a client testimonial here of one of your best customers
         that shares the problem they had before they hired you **and the
         benefits of you solving it."**
