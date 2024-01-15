@@ -189,6 +189,7 @@ blog:
           when they click the call to action button.
 about:
   enabled: true
+  text_align: left
   background_image:
     enabled: true
     image: /img/stone-wall.jpg
@@ -411,6 +412,12 @@ _inputs:
       alpha: true
   about.image.file:
     type: file
+  about.text_align:
+    type: select
+    options:
+      - left
+      - center
+      - right
   footer.socials:
     comment: Leave the URL blank to hide that specific social network
   code.meta_pixel_code:
