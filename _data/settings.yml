@@ -415,9 +415,10 @@ _inputs:
   about.text_align:
     type: select
     options:
-      - left
-      - center
-      - right
+      values:
+        - left
+        - center
+        - right
   footer.socials:
     comment: Leave the URL blank to hide that specific social network
   code.meta_pixel_code:
