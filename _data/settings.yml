@@ -205,16 +205,16 @@ about:
     path: /img/why-hire-us-thumbnail.jpg
     width: 800
   markdown: >-
-    Do you have this specific problem? Are you struggling to find a solution to
-    your pain? Well, you're not alone - 57% of people in your situation feel the
-    same way. In fact, you can expect a lot of bad things to happen to you if
-    you don't solve this problem. You may find yourself dealing with this bad
-    thing or that bad thing. I've heard stories even that this terrible,
-    terrible thing has happened when the problem does not go unsolved. My name
-    is Bob and I'm here to help you solve this problem. This is what makes my
-    solution different from everyone else's. I have a story here where I can
-    relate to your situation and it's why I do what I do. Here is a list of the
-    specific things we'll do for you:
+    ***Do you have this specific problem?*** Are you struggling to find a
+    solution to your pain? Well, you're not alone - 57% of people in your
+    situation feel the same way. In fact, you can expect a lot of bad things to
+    happen to you if you don't solve this problem. You may find yourself dealing
+    with this bad thing or that bad thing. I've heard stories even that this
+    terrible, terrible thing has happened when the problem does not go unsolved.
+    My name is Bob and I'm here to help you solve this problem. This is what
+    makes my solution different from everyone else's. I have a story here where
+    I can relate to your situation and it's why I do what I do. Here is a list
+    of the specific things we'll do for you:
 
 
     1. Killer benefit goes here.
@@ -321,21 +321,21 @@ buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
-  button_border_color: '#fff'
-  button_background_color: '#000'
-  button_text_color: '#fff'
+  button_border_color: '#ffffff'
+  button_background_color: '#000000'
+  button_text_color: '#ffffff'
   button_hover_border_color: '#e0e0e0'
-  button_hover_background_color: '#333'
+  button_hover_background_color: '#333333'
   button_hover_text_color: '#e0e0e0'
-  light_button_border_color: '#000'
-  light_button_background_color: '#fff'
-  light_button_text_color: '#000'
-  light_button_hover_border_color: '#000'
+  light_button_border_color: '#000000'
+  light_button_background_color: '#ffffff'
+  light_button_text_color: '#000000'
+  light_button_hover_border_color: '#000000'
   light_button_hover_background_color: '#e0e0e0'
-  light_button_hover_text_color: '#000'
-  scroll_to_top_button_background_color: '#000'
-  scroll_to_top_button_border_color: '#000'
-  scroll_to_top_button_arrow_color: '#fff'
+  light_button_hover_text_color: '#000000'
+  scroll_to_top_button_background_color: '#000000'
+  scroll_to_top_button_border_color: '#000000'
+  scroll_to_top_button_arrow_color: '#ffffff'
   transition: all 0.3s ease
 sidenav:
   transparency: 0.96
