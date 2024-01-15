@@ -189,7 +189,7 @@ blog:
           when they click the call to action button.
 about:
   enabled: true
-  text_align: center
+  text_align: left
   background_image:
     enabled: true
     image: /img/stone-wall.jpg
