@@ -1,5 +1,11 @@
 <div class="cta-button">
+
+  {% if site.data.settings.hero.open_in_new_tab == true %}
+  <a href="{{ site.data.settings.hero.button_link }}" target="_blank" rel="noreferrer noopener">
+  {% else %}
   <a href="{{ site.data.settings.hero.button_link }}">
+  {% endif %}
+
     <button>{{ site.data.settings.hero.button_text }}</button>
   </a>
 </div>

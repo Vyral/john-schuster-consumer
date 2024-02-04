@@ -55,11 +55,12 @@ sidebar_CTAs:
       You have under 160 characters to explain exactly what someone will get
       when they take your call to an action.
     button-text: 'CTA Button #2'
-    url: '#'
+    url: 'https://vyraltemplate.paperform.co/'
+    open_in_new_tab: true
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
-  - title: 'Call to Action #3'
+  - title: 'Video e-Newsletter'
     video:
       enabled: true
       path: /uploads/CTA3.mp4
@@ -68,7 +69,8 @@ sidebar_CTAs:
       You have under 160 characters to explain exactly what someone will get
       when they take your call to an action.
     button-text: 'CTA Button #3'
-    url: '#'
+    url: 'https://app.e2ma.net/app2/audience/signup/1996181/1954053/'
+    open_in_new_tab: true
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
@@ -131,7 +133,8 @@ hero:
     should click the call to action button below.
   subheader_color: '#ffffff'
   button_text: 'Call to Action #1'
-  button_link: '#'
+  button_link: 'https://vyraltemplate.paperform.co/'
+  open_in_new_tab: true
   show_sidenav_link: true
   show_footer_link: true
   add_button_to_hero: false
