@@ -439,6 +439,7 @@ _inputs:
   fb-admins:
     comment: (Optional) Facebook Admin ID
   about_me.image.align:
+    comment: "'end' = bottom of the section (default)"
     type: select
     options:
       values:
