@@ -1,0 +1,17 @@
+{% if site.data.settings.photo_wall.enabled %}
+
+<div class="photo-wall-section">
+    <div class="masonry-container">
+
+        {% for item in site.data.settings.photo_wall.images %}
+
+        <div class="item">
+            <img src="{{ site.baseurl }}{{ item.path }}" alt="{{ item.alt }}" loading="lazy">
+        </div>
+
+        {% endfor %}
+
+    </div>
+</div>
+
+{% endif %}
