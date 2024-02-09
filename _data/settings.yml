@@ -429,10 +429,6 @@ favicons:
 fb-admins:
 code:
   meta_pixel_code:
-_select_data:
-  about_me.image.align:
-    - bottom: end
-    - center: center
 _inputs:
   REQUIRED_bottom_mobile:
     comment: REQUIRED. This must be filled out.
@@ -442,6 +438,12 @@ _inputs:
     comment: 0.0 - 1.0 (0.96 default, 1.0 for solid color/no transparency)
   fb-admins:
     comment: (Optional) Facebook Admin ID
+  about_me.image.align:
+    type: select
+    options:
+      values:
+        - center
+        - end
   about_me.background_image.overlay_color:
     comment: Overlay color & opacity (0.0 - 1.0)
     type: color
