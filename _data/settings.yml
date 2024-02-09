@@ -311,6 +311,7 @@ testimonials:
           link: "#"
 photo_wall:
     enabled: true
+    gap_size: 11
     images:
         - path: /img/photo-wall/photo-wall-1.jpg
           alt: Photo Wall Image 1
