@@ -575,6 +575,8 @@ _inputs:
       uploads_dir: /
   hero.hero_tabs.tabs:
     comment: 4 tabs max.
+  photo_wall.images:
+    comment: Resize to 1500px or smaller, and run images through tinypng.com before uploading for website performance. 
   fonts.google_fonts_link_code:
     type: textarea
     comment: >-
