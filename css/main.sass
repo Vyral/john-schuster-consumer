@@ -99,6 +99,14 @@ $form-border-color: gray
 $form-focus-outline: $brand-light
 $benefits-font-color: {{site.data.settings.benefits_section.font_color}}
 $testimonials_font_color: {{site.data.settings.testimonials.font_color}}
+
+$about-me-section-image-width: {{site.data.settings.about_me.image.width}}px
+$about-me-section-image-align: {{ site.data.settings.about_me.image.align }}
+$about-me-section-bg-color: {{site.data.settings.about_me.background_color}}
+$about-me-section-bg-image: url({{site.data.settings.about_me.background_image.image}})
+$about-me-section-bg-image-overlay-color: {{site.data.settings.about_me.background_image.overlay_color}}
+$about-me-section-text-color: {{site.data.settings.about_me.text_color}}
+
 $about-section-image-width: {{site.data.settings.about.image.width}}px
 $about-section-bg-color: {{site.data.settings.about.background_color}}
 $about-section-bg-image: url({{site.data.settings.about.background_image.image}})
@@ -157,6 +165,7 @@ $icon-fill: $light-text
 @import "search"
 @import "reviews"
 @import "about"
+@import "about_me"
 @import "footer"
 @import "testimonials"
 @import "forms"

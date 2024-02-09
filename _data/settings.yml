@@ -190,6 +190,37 @@ blog:
         markdown: >-
           **Call to Action #3** is where you can explain what someone will get
           when they click the call to action button.
+about_me:
+  enabled: true
+  text_color: '#000000'
+  background_image:
+    enabled: true
+    image: /img/about-me-bg-placeholder.jpg
+    overlay_color: rgba(255, 255, 255, 0.9)
+  background_color: '#fff'
+  headline: Why Hire Us Headline
+  subheadline: Explain what you do in 1 short sentence
+  markdown: >-
+    ***Do you have this specific problem?*** Are you struggling to find a
+    solution to your pain? Well, you're not alone - 57% of people in your
+    situation feel the same way. In fact, you can expect a lot of bad things to
+    happen to you if you don't solve this problem. You may find yourself dealing
+    with this bad thing or that bad thing. I've heard stories even that this
+    terrible, terrible thing has happened when the problem does not go unsolved.
+    My name is Bob and I'm here to help you solve this problem. This is what
+    makes my solution different from everyone else's. I have a story here where
+    I can relate to your situation and it's why I do what I do. Here is a list
+    of the specific things we'll do for you:
+  button:
+    text: 'Check Out My Story'
+    link: 'https://google.com'
+    open_in_new_tab: true
+  image: 
+    path: /img/about-me-placeholder.png
+    alt: Why Hire Us Thumbnail
+    align: end
+  show_sidenav_link: false
+  show_footer_link: false
 about:
   enabled: true
   text_align: left
@@ -398,6 +429,10 @@ favicons:
 fb-admins:
 code:
   meta_pixel_code:
+_select_data:
+  about_me.image.align:
+    - bottom: end
+    - center: center
 _inputs:
   REQUIRED_bottom_mobile:
     comment: REQUIRED. This must be filled out.

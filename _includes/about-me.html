@@ -1,0 +1,38 @@
+{% if site.data.settings.about_me.enabled %}
+
+{% if site.data.settings.about_me.background_image.enabled %}
+<div class="container-fluid about-me-section-bg-image">
+	{% else %}
+	<div class="container-fluid about-me-section">
+		{% endif %}
+
+		<div class="row">
+			<div class="about-me-container">
+				<div class="about-me-content about-me-text">
+					<h4>{{site.data.settings.about_me.headline}}</h4>
+					<h5>{{site.data.settings.about_me.subheadline}}</h5>
+					{{site.data.settings.about_me.markdown | markdownify }}
+					<div class="cta-button">
+
+						{% if site.data.settings.about_me.button.open_in_new_tab %}
+							{% assign target = "_blank" %}
+						{% else %}
+							{% assign target = "_self" %}
+						{% endif %}
+
+						<a href=" {{ site.data.settings.about_me.button.link }}" target="{{ target }}"">
+							<button>{{ site.data.settings.about_me.button.text }}</button>
+						</a>
+					</div>
+				</div>
+				<div class="about-me-image">
+					<div class="about-me-image-container">
+						<img src="{{ site.baseurl }}{{ site.data.settings.about_me.image.path }}"
+							alt="{{ site.data.settings.about_me.image.alt }}">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	{% endif %}

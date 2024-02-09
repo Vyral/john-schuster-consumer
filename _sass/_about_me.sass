@@ -1,0 +1,254 @@
+.about-me-container
+	display: flex
+	padding: 1% 10% 0 17%
+
+.about-me-content
+	width: 50%
+
+.about-me-image
+	width: 50%
+	display: flex
+	justify-content: center
+	align-items: $about-me-section-image-align
+	
+	.about-me-image-container
+		margin: 0
+
+		img
+			width: 100%
+			height: auto
+	
+
+	
+	
+.client-image-container
+	border-radius: 50%
+	border: 3px solid $brand
+	overflow: hidden
+	display: inline-block
+	margin: 1rem 0 2rem
+	width: 20rem
+	height: 20rem
+	box-shadow: rgba(99, 99, 99, 0.2) 0rem 0.2rem 0.8rem 0rem
+
+.client-image
+	max-width: 20rem
+
+.about-me-text
+	text-align: $about-text-align
+
+	p
+		font-size: 1.9rem
+		font-weight: 300
+		line-height: 1.4
+		vertical-align: middle
+		margin: 0 0 2.5rem
+		padding: 0 2rem 0 0
+
+	ol, ul 
+
+		li p
+			margin: 0
+			padding: 0
+			display: inline
+
+		li
+			margin-bottom: 1.5rem
+
+.about-me-section
+	position: relative
+	padding: 6.5rem 1.5rem 0
+	background-color: $about-me-section-bg-color
+	color: $theme-body-color
+	margin-top: 5rem
+	margin-bottom: 15.5rem
+
+	.main-container
+		padding: 0 2rem
+
+	.fluid-about-vid, .image-container
+		padding: 0
+		margin: 1.5rem auto 3rem
+		max-width: 105rem
+		position: relative
+		border: 3px solid white
+
+	div
+		div
+			h4
+				font-size: 4.2rem
+				font-weight: bold
+				text-align: left
+				margin: 0
+			h5
+				font-size: 2.6rem
+				font-weight: normal
+				text-align: left
+				margin: 0 0 3rem
+
+	.cta-button
+		margin-top: 3.5rem
+
+		&.inverted
+			margin-top: 4.1rem
+			
+			button
+				color: $light-button-text
+				background: $light-button-background
+				border: 1px solid $light-button-border
+				transition: $button-transition
+				border-radius: $button-radius
+
+				&:hover
+					color: $light-button-hover-text
+					background: $light-button-hover-background
+					border: 1px solid $light-button-hover-border
+
+.about-me-section-bg-image
+	position: relative
+	padding: 6.5rem 1.5rem 0
+	color: $about-me-section-text-color
+	margin-top: 5rem
+	margin-bottom: 15.5rem
+	background-image: $about-me-section-bg-image
+	background-size: cover
+	background-attachment: fixed
+	background-repeat: no-repeat
+	background-color: $about-me-section-bg-image-overlay-color
+	background-blend-mode: color
+
+	.main-container
+		padding: 0 2rem
+
+	.fluid-about-vid, .image-container
+		padding: 0
+		margin: 1.5rem auto 3rem
+		max-width: 105rem
+		position: relative
+		border: 3px solid white
+
+	div
+		div
+			h4
+				font-family: $bodyfont
+				font-size: 4.2rem
+				font-weight: bold
+				text-align: left
+				margin: 0
+			h5
+				font-family: $bodyfont
+				font-size: 2.6rem
+				font-weight: normal
+				text-align: left
+				margin: 0 0 3rem
+
+	.cta-button
+		margin-top: 3.5rem
+
+		&.inverted
+			margin-top: 4.1rem
+			
+			button
+				color: $light-button-text
+				background: $light-button-background
+				border: 1px solid $light-button-border
+				transition: $button-transition
+				border-radius: $button-radius
+
+				&:hover
+					color: $light-button-hover-text
+					background: $light-button-hover-background
+					border: 1px solid $light-button-hover-border
+
+.image-container
+	max-width: $about-me-section-image-width !important
+
+	img
+		width: 100%
+		height: auto
+
+.contact-text
+	margin: auto
+	margin-bottom: 2.5rem
+
+.contact-text-container
+	width: 100%
+	text-align: left
+
+@media only screen and (max-width : 1200px)
+	.contact-text-container
+		text-align: center
+
+@media only screen and (max-width : 1190px)
+	.about-me-section, .about-me-section-bg-image
+		div
+			div
+				h4, h5
+					text-align: center
+
+	.about-me-container
+		flex-direction: column
+		align-items: center
+		padding: 0 5% 0 5%
+
+		.about-me-content
+			width: 100%
+			margin-bottom: 3rem
+
+		.about-me-text
+			text-align: center	
+
+		.about-me-image
+			width: 100%
+
+@media only screen and (max-width : 992px)
+	.about-me-section
+		.fluid-about-vid, .image-container
+			width: 100%
+			max-width: none
+			margin: 1.5rem 0 3rem
+			height: auto
+
+@media only screen and (max-width : 768px)
+	.about-me-text
+		margin-bottom: 0
+
+	.about-me-section
+		padding: 1rem 1.5rem 2.5rem
+		background-color: $brand
+		color: $theme-body-color
+
+		div
+			div
+				h4
+					font-size: 2.8rem
+					font-weight: 500
+					line-height: 1.2
+					text-align: center
+					margin: 0 0 0.5rem
+				h5
+					font-size: 1.9rem
+					font-weight: 300
+					text-align: center
+					margin: 0 0 2.5rem
+					line-height: 1.2
+
+@media(max-width: 480px)
+
+	.about-me-section
+		margin: 0
+		padding: 2rem 1.5rem 2.5rem
+
+		.cta-button
+			margin-top: 3.5rem
+
+			&.inverted
+				margin-top: 0.8rem
+
+	.about-me-text
+		display: flex
+		flex-direction: column
+		padding: 0 2rem
+		
+		p
+			vertical-align: middle

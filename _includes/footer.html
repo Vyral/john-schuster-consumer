@@ -28,6 +28,17 @@
 			{% endif %}
 			{% endfor %}
 
+			{% if site.data.settings.about_me.show_footer_link %}
+				{% if site.data.settings.about_me.button.open_in_new_tab %}
+					{% assign target = "_blank" %}
+				{% else %}
+					{% assign target = "_self" %}
+				{% endif %}
+			<div class="link">
+				<a href="{{ site.baseurl }}{{ site.data.settings.about_me.button.link }}" aria-label="{{ site.data.settings.about_me.button.text }}" target="{{ target }}">{{ site.data.settings.about_me.button.text }}</a>
+			</div>
+			{% endif %}
+
 			{% for item in site.data.settings.CTAS %}
 			{% if item.show_footer_link %}
 			<div class="link">

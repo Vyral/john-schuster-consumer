@@ -45,6 +45,16 @@
 		{% endif %}
 		{% endfor %}
 
+		{% if site.data.settings.about_me.show_sidenav_link %}
+			{% if site.data.settings.about_me.button.open_in_new_tab %}
+				{% assign target = "_blank" %}
+			{% else %}
+				{% assign target = "_self" %}
+			{% endif %}
+
+		<a href="{{ site.baseurl }}{{ site.data.settings.about_me.button.link }}" aria-label="{{ site.data.settings.about_me.button.text }}" target="{{ target }}">{{ site.data.settings.about_me.button.text }}</a>
+		{% endif %}
+
 		{% for item in site.data.settings.CTAS %}
 		{% if item.show_sidenav_link %}
 		<a href="{{ site.baseurl }}{{ item.url }}" aria-label="{{ item.title }}">{{ item.title }}</a>
