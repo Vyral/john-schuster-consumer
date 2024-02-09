@@ -442,6 +442,14 @@ _inputs:
     comment: 0.0 - 1.0 (0.96 default, 1.0 for solid color/no transparency)
   fb-admins:
     comment: (Optional) Facebook Admin ID
+  about_me.background_image.overlay_color:
+    comment: Overlay color & opacity (0.0 - 1.0)
+    type: color
+    options:
+      format: rgb
+      alpha: true
+  about_me.background_color:
+    comment: If no background image is set, this color will be used.
   about.background_image.image:
     type: file
     comment: Background image for About Us section
