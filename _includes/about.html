@@ -18,7 +18,7 @@
 
 			{% elsif site.data.settings.about.image.enabled == true and site.data.settings.about.image.path != null %}
 			<div class="image-container">
-				<img src="{{ site.baseurl }}{{ site.data.settings.about.image.path }}" alt="Why Hire Us">
+				<img src="{{ site.baseurl }}{{ site.data.settings.about.image.path }}" alt="Why Hire Us" loading="lazy">
 			</div>
 
 			{% endif %}
