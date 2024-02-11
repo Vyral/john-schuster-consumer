@@ -26,7 +26,7 @@
 					</div>
 
 					<div class="lightbox-{{ forloop.index }}">
-						<a class="boxclose" onClick="lightbox_close('{{ forloop.index }}');"></a>
+						<div class="boxclose" onClick="lightbox_close('{{ forloop.index }}');"></div>
 						<video class="video-{{ forloop.index }}" width="600" controls>
 							<source src="{{ item.video.path }}" type="video/mp4">
 							Your browser does not support the video tag.
