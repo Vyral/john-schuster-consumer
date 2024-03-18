@@ -39,7 +39,6 @@ exclude:
 
 sass:
     sass_dir: _sass
-    style: :nested
 
 defaults:
     - scope:
