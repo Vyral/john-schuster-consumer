@@ -195,7 +195,7 @@ about_me:
     enabled: true
     image: /img/about-me-bg-placeholder.jpg
     overlay_color: rgba(255, 255, 255, 0.9)
-  background_color: '#fff'
+  background_color: '#ffffff'
   headline: Hello! I'm Name!
   subheadline: LinkedIn Headline Goes Here
   markdown: >-
