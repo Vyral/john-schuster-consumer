@@ -54,7 +54,7 @@ sidebar_CTAs:
     text: >-
       You have under 160 characters to explain exactly what someone will get
       when they take your call to an action.
-    button-text: "CTA Button #2"
+    button_text: "CTA Button #2"
     url: https://vyraltemplate.paperform.co/
     open_in_new_tab: true
     show_sidenav_link: true
@@ -68,7 +68,7 @@ sidebar_CTAs:
     text: >-
       You have under 160 characters to explain exactly what someone will get
       when they take your call to an action.
-    button-text: "CTA Button #3"
+    button_text: "CTA Button #3"
     url: https://app.e2ma.net/app2/audience/signup/1996181/1954053/
     open_in_new_tab: true
     show_sidenav_link: true
@@ -90,7 +90,7 @@ sidebar_ads:
       text: >-
         You have under 160 characters to explain exactly what someone will get
         when they take your call to an action.
-      button-text: CTA Button
+      button_text: CTA Button
       url: "#"
 nav_USP_statement:
   text: What Makes You Unique Goes Here
@@ -156,12 +156,14 @@ hero:
         customer.
       name: John Doe
 blog:
-  CTA_main_box_markdown: >
-    **Primary Call to Action Here.** There is where you can explain your primary
-    call to action again so they see it when the website loads on mobile.
-  CTA_main_box_link:
-    title: Click Call To Action
-    url: "#"
+  CTA_main_box:
+    sync_with_CTA_1: true 
+    custom_markdown: >
+      **Primary Call to Action Here.** There is where you can explain your primary
+      call to action again so they see it when the website loads on mobile.
+    custom_link:
+      title: Click Call To Action
+      url: "#"
   author:
     name: John Doe
     name_link: mailto:johndoe@test.com
@@ -170,6 +172,7 @@ blog:
       This is where you have 1-2 sentences to explain why someone should listen
       to you.
   CTA_content_box:
+    sync_with_CTAs: true
     title_markdown: |
       **Want to work with us?** Here are some ways to get involved.
     items:
@@ -250,15 +253,15 @@ about:
     nunc convallis magna.
 
 
-    1. Lorem ipsum dolor sit.
+    1. List item.
 
-    2. Lorem ipsum dolor sit.
+    2. List item.
 
-    3. Lorem ipsum dolor sit.
+    3. List item.
 
-    4. Lorem ipsum dolor sit.
+    4. List item.
 
-    5. Lorem ipsum dolor sit.
+    5. List item.
 
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in massa id
@@ -583,3 +586,7 @@ _inputs:
   fonts.google_fonts_link_code:
     type: textarea
     comment: "Help video: vimeo.com/903816419/d10f45348e"
+  blog.CTA_main_box:
+    comment: "By default, this will sync with the first CTA in the settings file. Custom will not work if sync is enabled."
+  blog.CTA_content_box:
+    comment: "By default, this will sync with the CTAs in the settings file. Custom items and title will not appear if sync is enabled."
