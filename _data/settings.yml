@@ -60,7 +60,7 @@ sidebar_CTAs:
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
-  - title: Video e-Newsletter
+  - title: 'Call to Action #3'
     video:
       enabled: true
       path: /uploads/CTA3.mp4
