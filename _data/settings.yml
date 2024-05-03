@@ -197,7 +197,7 @@ about_me:
     overlay_color: rgba(255, 255, 255, 0.9)
   background_color: "#ffffff"
   headline: Hello! I'm Name!
-  subheadline: LinkedIn Headline Goes Here
+  subheadline: Job Title Goes Here
   markdown: >-
     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     Lorem Ipsum has been the industry's standard dummy text ever since the
