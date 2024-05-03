@@ -5,14 +5,14 @@ description: >-
 keywords: keyword1, keyword2, keyword3
 share_image: /img/share-image.jpg
 REQUIRED_bottom_mobile:
-  background_color: '#999'
-  button_color: '#0c0c0c'
-  font_color: '#fff'
+  background_color: "#999"
+  button_color: "#0c0c0c"
+  font_color: "#fff"
   CTAs:
-    cta_1_text: 'Call to Action #1'
-    cta_1_link: '#'
-    cta_2_text: 'Call to Action #2'
-    cta_2_link: '#'
+    cta_1_text: "Call to Action #1"
+    cta_1_link: "#"
+    cta_2_text: "Call to Action #2"
+    cta_2_link: "#"
 client:
   name: John Doe
   brand: Company Name, Inc.
@@ -20,33 +20,33 @@ client:
   address: 123 Elm Street
   city: Omaha
   state: Nebraska
-  zip: '68116'
+  zip: "68116"
   phone: 1-999-555-1234
   email: info@companyname.com
   url: www.clientwebsite.com
 CTAS:
   - title: YouTube Channel
-    url: '#'
+    url: "#"
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
   - title: Facebook
-    url: '#'
+    url: "#"
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
   - title: About Us
-    url: '#'
+    url: "#"
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
   - title: Reviews
-    url: '#'
+    url: "#"
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
 sidebar_CTAs:
-  - title: 'Call to Action #2 '
+  - title: "Call to Action #2 "
     video:
       enabled: true
       path: /uploads/CTA2.mp4
@@ -54,13 +54,13 @@ sidebar_CTAs:
     text: >-
       You have under 160 characters to explain exactly what someone will get
       when they take your call to an action.
-    button-text: 'CTA Button #2'
+    button-text: "CTA Button #2"
     url: https://vyraltemplate.paperform.co/
     open_in_new_tab: true
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
-  - title: 'Call to Action #3'
+  - title: "Call to Action #3"
     video:
       enabled: true
       path: /uploads/CTA3.mp4
@@ -68,7 +68,7 @@ sidebar_CTAs:
     text: >-
       You have under 160 characters to explain exactly what someone will get
       when they take your call to an action.
-    button-text: 'CTA Button #3'
+    button-text: "CTA Button #3"
     url: https://app.e2ma.net/app2/audience/signup/1996181/1954053/
     open_in_new_tab: true
     show_sidenav_link: true
@@ -79,10 +79,10 @@ sidebar_ads:
     ads_enabled: true
     border_thickness: 3
     subtext: Sponsored
-    ad_subtext_bg_color: '#e7bc25'
-    ad_subtext_font_color: '#ffffff'
+    ad_subtext_bg_color: "#e7bc25"
+    ad_subtext_font_color: "#ffffff"
   ads:
-    - title: 'Sample Ad #1'
+    - title: "Sample Ad #1"
       video:
         enabled: false
         path: /uploads/CTA2.mp4
@@ -91,7 +91,7 @@ sidebar_ads:
         You have under 160 characters to explain exactly what someone will get
         when they take your call to an action.
       button-text: CTA Button
-      url: '#'
+      url: "#"
 nav_USP_statement:
   text: What Makes You Unique Goes Here
 hero:
@@ -106,31 +106,31 @@ hero:
   hero_tabs:
     enabled: false
     tabs:
-      - title: 'Call to Action #1'
+      - title: "Call to Action #1"
         headline: A Benefit-Driven Headlines Goes Here
         subheadline: Write a sentence about what they will get from you.
-        button_text: 'CTA Button #1'
-        button_link: '#'
-      - title: 'Call to Action #2'
+        button_text: "CTA Button #1"
+        button_link: "#"
+      - title: "Call to Action #2"
         headline: Tell Them The Benefit of Your Offer
         subheadline: Write a sentence about what they will get from you.
-        button_text: 'CTA Button #2'
-        button_link: '#'
-      - title: 'Call to Action #3'
+        button_text: "CTA Button #2"
+        button_link: "#"
+      - title: "Call to Action #3"
         headline: Capture Their Attention With a Headline
         subheadline: Write a sentence about what they will get from you.
-        button_text: 'CTA Button #3'
-        button_link: '#'
-      - title: 'Call to Action #4'
+        button_text: "CTA Button #3"
+        button_link: "#"
+      - title: "Call to Action #4"
         headline: Give Them a Great Reason to Respond
         subheadline: Write a sentence about what they will get from you.
-        button_text: 'CTA Button #4'
-        button_link: '#'
+        button_text: "CTA Button #4"
+        button_link: "#"
   header: Short Headline Goes Here
-  header_color: '#ffffff'
+  header_color: "#ffffff"
   subheader: This is where you put a description for your main offer
-  subheader_color: '#ffffff'
-  button_text: 'Call to Action #1'
+  subheader_color: "#ffffff"
+  button_text: "Call to Action #1"
   button_link: https://vyraltemplate.paperform.co/
   open_in_new_tab: true
   show_sidenav_link: true
@@ -161,7 +161,7 @@ blog:
     call to action again so they see it when the website loads on mobile.
   CTA_main_box_link:
     title: Click Call To Action
-    url: '#'
+    url: "#"
   author:
     name: John Doe
     name_link: mailto:johndoe@test.com
@@ -174,28 +174,28 @@ blog:
       **Want to work with us?** Here are some ways to get involved.
     items:
       - title: How Much Is My Home Worth?
-        url: '#'
+        url: "#"
         markdown: >-
           **Call to Action #1** is where you can explain what someone will get
           when they click the call to action button.
       - title: Latest Housing Market Insights
-        url: '#'
+        url: "#"
         markdown: >-
           **Call to Action #2** is where you can explain what someone will get
           when they click the call to action button. a house.
       - title: Get a Cash Offer Now
-        url: '#'
+        url: "#"
         markdown: >-
           **Call to Action #3** is where you can explain what someone will get
           when they click the call to action button.
 about_me:
   enabled: true
-  text_color: '#000000'
+  text_color: "#000000"
   background_image:
     enabled: true
     image: /img/about-me-bg-placeholder.jpg
     overlay_color: rgba(255, 255, 255, 0.9)
-  background_color: '#ffffff'
+  background_color: "#ffffff"
   headline: Hello! I'm Name!
   subheadline: LinkedIn Headline Goes Here
   markdown: >-
@@ -224,7 +224,7 @@ about:
     enabled: true
     image: /img/stone-wall.jpg
     overlay_color: rgba(0, 0, 0, 0.8)
-  background_color: '#000000'
+  background_color: "#000000"
   headline: Why Hire Us Headline
   subheadline: Explain what you do in 1 short sentence
   video:
@@ -235,41 +235,43 @@ about:
     path: /img/placeholder-video.jpg
     width: 800
   markdown: >-
-    ***Do you have this specific problem?*** Are you struggling to find a
-    solution to your pain? Well, you're not alone - 57% of people in your
-    situation feel the same way. In fact, you can expect a lot of bad things to
-    happen to you if you don't solve this problem. You may find yourself dealing
-    with this bad thing or that bad thing. I've heard stories even that this
-    terrible, terrible thing has happened when the problem does not go unsolved.
-    My name is Bob and I'm here to help you solve this problem. This is what
-    makes my solution different from everyone else's. I have a story here where
-    I can relate to your situation and it's why I do what I do. Here is a list
-    of the specific things we'll do for you:
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in massa id
+    sem tincidunt tempor. Nunc porttitor neque convallis, pulvinar sapien sit
+    amet, interdum velit. Sed commodo eros mi, nec finibus dui dapibus ac. In
+    lobortis elit a nisl vulputate vulputate. Morbi aliquam consequat sapien
+    imperdiet pellentesque. Cras ac cursus erat. Ut non quam imperdiet, gravida
+    nisl ac, ultricies nulla. Duis pulvinar placerat mauris in iaculis. Nulla
+    nunc velit, ullamcorper ut egestas sit amet, sodales quis tortor. Nunc
+    commodo ornare commodo. In hac habitasse platea dictumst. Pellentesque
+    maximus vel elit at imperdiet. Vivamus quis bibendum metus. Curabitur ac
+    nulla quam. Donec felis nunc, interdum a turpis id, placerat vulputate
+    ipsum. Sed eu lectus tempus, congue nisl a, scelerisque dui. Praesent sed
+    elit a elit dapibus aliquam. Sed vulputate, ex quis fringilla suscipit, urna
+    nunc convallis magna.
 
 
-    1. Killer benefit goes here.
+    1. Lorem ipsum dolor sit.
 
-    2. Killer benefit goes here.
+    2. Lorem ipsum dolor sit.
 
-    3. Killer benefit goes here.
+    3. Lorem ipsum dolor sit.
 
-    4. Killer benefit goes here.
+    4. Lorem ipsum dolor sit.
 
-    5. Killer benefit goes here.
+    5. Lorem ipsum dolor sit.
 
 
-    The whole goal is for you to live a happier and easier life with less stress
-    and hassle and without any worries. Those are the benefits. But don't take
-    my word for it - we have several happy customers who have the same problem
-    you may have who hired us to solve and can vouch for our systems. In fact,
-    we even offer a 100% money-back guarantee to remove all the risk - you won't
-    lose any money. I invite you to take **Call to Action \#3** to learn more,
-    **call to action \#2** to really go deeper, or **Call to action \#1** to get
-    started on the solution to your problem.&nbsp;
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in massa id
+    sem tincidunt tempor. Nunc porttitor neque convallis, pulvinar sapien sit
+    amet, interdum velit. Sed commodo eros mi, nec finibus dui dapibus ac. In
+    lobortis elit a nisl vulputate vulputate. Morbi aliquam consequat sapien
+    imperdiet pellentesque. Cras ac cursus erat. Ut non quam imperdiet, gravida
+    nisl ac, ultricies nulla. Duis pulvinar placerat mauris in iaculis. Nulla
+    nunc velit, ullamcorper ut egestas sit amet, sodales quis tortor.
 benefits_section:
   enabled: true
   background_color: white
-  font_color: '#212121'
+  font_color: "#212121"
   header: Main Benefit Statement Goes Here
   subheader: Repeat what makes you unique to customers here in this subheadline
   benefit_1: A top benefit of your service goes here
@@ -281,9 +283,9 @@ benefits_section:
 testimonials:
   enabled: true
   header_text: Client Testimonials
-  background_color_1: '#f2f2f2'
+  background_color_1: "#f2f2f2"
   background_color_2: white
-  font_color: '#000000'
+  font_color: "#000000"
   quotes:
     - markdown: >-
         ###### "You'll put a client testimonial here of one of your best
@@ -297,7 +299,7 @@ testimonials:
         enabled: true
         path: /uploads/testimonial-1.mp4
       image: /img/16x9-placeholder.png
-      link: '#'
+      link: "#"
     - markdown: >-
         ###### "You'll put a client testimonial here of one of your best
         customers
@@ -310,7 +312,7 @@ testimonials:
         enabled: true
         path: /uploads/testimonial-2.mp4
       image: /img/16x9-placeholder.png
-      link: '#'
+      link: "#"
     - markdown: >-
         ###### "You'll put a client testimonial here of one of your best
         customers
@@ -323,7 +325,7 @@ testimonials:
         enabled: true
         path: /uploads/testimonial-3.mp4
       image: /img/16x9-placeholder.png
-      link: '#'
+      link: "#"
 photo_wall:
   enabled: true
   gap_size: 11
@@ -391,24 +393,24 @@ images:
   mobile-sidenav-logo-width: 125
   footer-logo-width: 250
 site_colors:
-  brand_color: '#0c0c0c'
-  theme_color: '#999999'
-  theme_text_color: '#000000'
-  main_body_color: '#ffffff'
-  main_body_text_color: '#212121'
-  nav_color: '#0c0c0c'
-  nav_font_color: '#ffffff'
-  sidenav_color: '#0c0c0c'
-  sidenav_font_color: '#ffffff'
+  brand_color: "#0c0c0c"
+  theme_color: "#999999"
+  theme_text_color: "#000000"
+  main_body_color: "#ffffff"
+  main_body_text_color: "#212121"
+  nav_color: "#0c0c0c"
+  nav_font_color: "#ffffff"
+  sidenav_color: "#0c0c0c"
+  sidenav_font_color: "#ffffff"
 fonts:
   google_fonts_link_code: >-
     <link rel="preconnect" href="https://fonts.googleapis.com"> <link
     rel="preconnect" href="https://fonts.gstatic.com" crossorigin> <link
     href="https://fonts.googleapis.com/css2?family=Gelasio:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap"
     rel="stylesheet">
-  body_CSS: 'font-family: ''Roboto'', sans-serif;'
-  header_CSS: 'font-family: ''Roboto'', sans-serif;'
-  blog_CSS: 'font-family: ''Gelasio'', serif'
+  body_CSS: "font-family: 'Roboto', sans-serif;"
+  header_CSS: "font-family: 'Roboto', sans-serif;"
+  blog_CSS: "font-family: 'Gelasio', serif"
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
@@ -418,27 +420,27 @@ buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
-  button_border_color: '#ffffff'
-  button_background_color: '#000000'
-  button_text_color: '#ffffff'
-  button_hover_border_color: '#e0e0e0'
-  button_hover_background_color: '#333333'
-  button_hover_text_color: '#e0e0e0'
-  light_button_border_color: '#000000'
-  light_button_background_color: '#ffffff'
-  light_button_text_color: '#000000'
-  light_button_hover_border_color: '#000000'
-  light_button_hover_background_color: '#e0e0e0'
-  light_button_hover_text_color: '#000000'
-  scroll_to_top_button_background_color: '#000000'
-  scroll_to_top_button_border_color: '#000000'
-  scroll_to_top_button_arrow_color: '#ffffff'
+  button_border_color: "#ffffff"
+  button_background_color: "#000000"
+  button_text_color: "#ffffff"
+  button_hover_border_color: "#e0e0e0"
+  button_hover_background_color: "#333333"
+  button_hover_text_color: "#e0e0e0"
+  light_button_border_color: "#000000"
+  light_button_background_color: "#ffffff"
+  light_button_text_color: "#000000"
+  light_button_hover_border_color: "#000000"
+  light_button_hover_background_color: "#e0e0e0"
+  light_button_hover_text_color: "#000000"
+  scroll_to_top_button_background_color: "#000000"
+  scroll_to_top_button_border_color: "#000000"
+  scroll_to_top_button_arrow_color: "#ffffff"
   transition: all 0.3s ease
 sidenav:
   transparency: 0.96
 footer:
-  background_color: '#0c0c0c'
-  font_color: '#fff'
+  background_color: "#0c0c0c"
+  font_color: "#fff"
   socials:
     - icon: /img/icons/youtube.png
       url: https://www.youtube.com/
@@ -504,7 +506,7 @@ _inputs:
   about_me.image:
     comment: 650px height with transparent background works best.
   about_me.image.align:
-    comment: '''end'' = bottom of the section (default)'
+    comment: "'end' = bottom of the section (default)"
     type: select
     options:
       values:
@@ -589,4 +591,4 @@ _inputs:
       uploading for website performance.
   fonts.google_fonts_link_code:
     type: textarea
-    comment: 'Help video: vimeo.com/903816419/d10f45348e'
+    comment: "Help video: vimeo.com/903816419/d10f45348e"
