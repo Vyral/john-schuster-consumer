@@ -586,7 +586,7 @@ _inputs:
   fonts.google_fonts_link_code:
     type: textarea
     comment: "Help video: vimeo.com/903816419/d10f45348e"
-  blog.CTA_main_box:
-    comment: "By default, this will sync with the first CTA in the settings file. Custom will not work if sync is enabled."
-  blog.CTA_content_box:
-    comment: "By default, this will sync with the CTAs in the settings file. Custom items and title will not appear if sync is enabled."
+  blog.CTA_main_box.sync_with_CTA_1:
+    comment: "By default, this section will sync with the first CTA in the settings file. Custom will not work if sync is enabled."
+  blog.CTA_content_box.sync_with_CTAs:
+    comment: "By default, this section will sync with the CTAs in the settings file. Custom items and title will not appear if sync is enabled."
