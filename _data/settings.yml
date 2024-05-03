@@ -588,5 +588,14 @@ _inputs:
     comment: "Help video: vimeo.com/903816419/d10f45348e"
   blog.CTA_main_box.sync_with_CTA_1:
     comment: "By default, this section will sync with the first CTA in the settings file. Custom will not work if sync is enabled."
+  blog.CTA_main_box.custom_markdown:
+    comment: "This will only appear if sync is disabled."
+  blog.CTA_main_box.custom_link:
+    comment: "This will only appear if sync is disabled."
   blog.CTA_content_box.sync_with_CTAs:
     comment: "By default, this section will sync with the CTAs in the settings file. Custom items and title will not appear if sync is enabled."
+  blog.CTA_content_box.title_markdown:
+    comment: "This will only appear if sync is disabled."
+  blog.CTA_content_box.items:
+    comment: "These will only appear if sync is disabled."
+  
