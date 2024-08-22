@@ -12,7 +12,7 @@
 			{% if site.data.settings.hero.show_footer_link %}
 			<div class="link">
 				<a href="{{ site.data.settings.hero.button_link }}"
-					aria-label="{{ site.data.settings.hero.button_text }}">
+					aria-label="{{ site.data.settings.hero.button_text }}" target="_blank">
 					<p>{{ site.data.settings.hero.button_text }}</p>
 				</a>
 			</div>
@@ -21,7 +21,7 @@
 			{% for item in site.data.settings.sidebar_CTAs %}
 			{% if item.show_footer_link %}
 			<div class="link">
-				<a href="{{ site.baseurl }}{{ item.url}}" aria-label="{{ item.title }}">
+				<a href="{{ site.baseurl }}{{ item.url}}" aria-label="{{ item.title }}" target="_blank">
 					<p>{{ item.title}}</p>
 				</a>
 			</div>
@@ -42,7 +42,7 @@
 			{% for item in site.data.settings.CTAS %}
 			{% if item.show_footer_link %}
 			<div class="link">
-				<a href="{{ site.baseurl }}{{ item.url}}" aria-label="{{ item.title }}">
+				<a href="{{ site.baseurl }}{{ item.url}}" aria-label="{{ item.title }}" target="_blank">
 					<p>{{ item.title}}</p>
 				</a>
 			</div>
@@ -52,7 +52,7 @@
 			{% for page in site.custom_pages %}
 			{% if page.has_footer_link == true %}
 			<div class="link">
-				<a href="{{ site.baseurl }}{{ page.url }}" aria-label="{{ page.title }}">
+				<a href="{{ site.baseurl }}{{ page.url }}" aria-label="{{ page.title }}" target="_blank">
 					<p>{{ page.title }}</p>
 				</a>
 			</div>
@@ -112,7 +112,7 @@
 				<div class="icons">
 					{% for social in site.data.settings.footer.socials %}
 					{% if social.url %}
-					<a href="{{ social.url }}" aria-label="Link to {{ social.url }}">
+					<a href="{{ social.url }}" aria-label="Link to {{ social.url }}" target="_blank">
 						<img src="{{ site.baseurl }}{{ social.icon }}" alt="" width="35" height="35" loading="lazy" />
 					</a>
 					{% endif %}
@@ -124,7 +124,7 @@
 				{% if site.data.settings.footer.custom_policies.privacy.enabled == true %}
 				<div class="policy">
 					<a href="{{ site.data.settings.footer.custom_policies.privacy.url }}"
-						aria-label="{{ site.data.settings.footer.custom_policies.privacy.title }}">{{
+						aria-label="{{ site.data.settings.footer.custom_policies.privacy.title }}" target="_blank">{{
 						site.data.settings.footer.custom_policies.privacy.title }}</a>
 				</div>
 				{% endif %}
@@ -137,7 +137,7 @@
 				{% if site.data.settings.footer.custom_policies.terms.enabled == true %}
 				<div class="policy">
 					<a href="{{ site.data.settings.footer.custom_policies.terms.url }}"
-						aria-label="{{ site.data.settings.footer.custom_policies.terms.title }}">{{
+						aria-label="{{ site.data.settings.footer.custom_policies.terms.title }}" target="_blank">{{
 						site.data.settings.footer.custom_policies.terms.title }}</a>
 				</div>
 				{% endif %}
@@ -146,7 +146,7 @@
 				{% for policy in site.data.settings.footer.client_policies %}
 				{% if policy.enabled == true %}
 				<div class="policy">
-					<a href="{{ policy.url }}" aria-label="{{ policy.title }}">{{ policy.title }}</a> {% unless
+					<a href="{{ policy.url }}" aria-label="{{ policy.title }}" target="_blank">{{ policy.title }}</a> {% unless
 					forloop.last %}|{% endunless %}
 				</div>
 				{% endif %}
@@ -157,7 +157,7 @@
 		</div>
 
 		<div class="vyral-container">
-			<p>Video Blog Website by <a href="https://www.getvyral.com" aria-label="Vyral Marketing">Vyral Marketing</a>
+			<p>Video Blog Website by <a href="https://www.getvyral.com" aria-label="Vyral Marketing" target="_blank">Vyral Marketing</a>
 			</p>
 		</div>
 
