@@ -34,14 +34,14 @@
 		<a href="{{ site.baseurl }}/" aria-label="Home">Home</a>
 
 		{% if site.data.settings.hero.show_sidenav_link %}
-		<a href="{{ site.data.settings.hero.button_link }}" aria-label="{{ site.data.settings.hero.button_text }}">{{
+		<a href="{{ site.data.settings.hero.button_link }}" aria-label="{{ site.data.settings.hero.button_text }}" target="_blank">{{
 			site.data.settings.hero.button_text }}</a>
 		{% endif %}
 
 
 		{% for item in site.data.settings.sidebar_CTAs %}
 		{% if item.show_sidenav_link %}
-		<a href="{{ site.baseurl }}{{ item.url }}" aria-label="{{ item.title }}">{{ item.title }}</a>
+		<a href="{{ site.baseurl }}{{ item.url }}" aria-label="{{ item.title }}" target="_blank">{{ item.title }}</a>
 		{% endif %}
 		{% endfor %}
 
@@ -57,13 +57,13 @@
 
 		{% for item in site.data.settings.CTAS %}
 		{% if item.show_sidenav_link %}
-		<a href="{{ site.baseurl }}{{ item.url }}" aria-label="{{ item.title }}">{{ item.title }}</a>
+		<a href="{{ site.baseurl }}{{ item.url }}" aria-label="{{ item.title }}" target="_blank">{{ item.title }}</a>
 		{% endif %}
 		{% endfor %}
 
 		{% for page in site.custom_pages %}
 		{% if page.has_sidenav_link == true %}
-		<a href="{{ site.baseurl }}{{ page.url }}" aria-label="{{ page.title }}">{{ page.title }}</a>
+		<a href="{{ site.baseurl }}{{ page.url }}" aria-label="{{ page.title }}" target="_blank">{{ page.title }}</a>
 		{% endif %}
 		{% endfor %}
 
