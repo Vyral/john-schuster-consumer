@@ -5,7 +5,7 @@
         <li>
             <p>
                 <strong>{{ site.data.settings.hero.header }}.</strong> {{ site.data.settings.hero.subheader }}. 
-                <a href="{{ site.data.settings.hero.button_link }}">
+                <a href="{{ site.data.settings.hero.button_link }}" target="_blank">
                 {{ site.data.settings.hero.button_text }}
                 </a>
             </p>
@@ -15,7 +15,7 @@
         <li>
             <p>
                 <strong>{{ item.title }}.</strong> {{ item.text }}. 
-                <a href="{{ item.url }}">
+                <a href="{{ item.url }}" target="_blank">
                 {{ item.button_text }}
                 </a>
             </p>
@@ -32,7 +32,7 @@
         <li>
             <p>
                 {{ item.markdown | markdownify | remove: '<p>' | remove: '</p>' }}
-                <a href="{{ item.url }}">
+                <a href="{{ item.url }}" target="_blank">
                     {{ item.title }}
                 </a>
             </p>
