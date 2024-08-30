@@ -5,7 +5,7 @@
 
     <div class="author-info">
         {% if site.data.settings.blog.author.name_link != null %}
-        <p class="name">By <a href="{{ site.data.settings.blog.author.name_link }}">{{ site.data.settings.blog.author.name }}</a></p>
+        <p class="name">By <a href="{{ site.data.settings.blog.author.name_link }}" target="_blank">{{ site.data.settings.blog.author.name }}</a></p>
         {% else %}
         <p class="name">By {{ site.data.settings.blog.author.name }}</p>
         {% endif %}
