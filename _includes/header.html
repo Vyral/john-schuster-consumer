@@ -48,7 +48,7 @@
           <h1>{{ tab.headline }}</h1>
           <p>{{ tab.subheadline }}</p>
           <div class="cta-button">
-            <a href="{{ tab.button_link }}">
+            <a href="{{ tab.button_link }}" target="_blank">
               <button>{{ tab.button_text }}</button>
             </a>
           </div>
@@ -71,7 +71,7 @@
         {% for item in site.data.settings.CTAS %}
           {% if item.add_button_to_hero == true %}
             <div class="cta-button">
-              <a href="{{ item.url }}">
+              <a href="{{ item.url }}" target="_blank">
                 <button>{{ item.title }}</button>
               </a>
             </div>
@@ -81,7 +81,7 @@
         {% for page in site.custom_pages %}
             {% if page.has_hero_button == true %}
               <div class="cta-button">
-                <a href="{{ page.url }}">
+                <a href="{{ page.url }}" target="_blank">
                   <button>{{ page.hero_button_text }}</button>
                 </a>
               </div>
