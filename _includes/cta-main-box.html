@@ -5,7 +5,7 @@
         <strong>{{ site.data.settings.hero.header }}.</strong> {{ site.data.settings.hero.subheader }}. 
 
         <strong>
-            <a class="cta" href="{{ site.data.settings.hero.button_link }}">
+            <a class="cta" href="{{ site.data.settings.hero.button_link }}" target="_blank">
             {{ site.data.settings.hero.button_text }}
             </a>
         </strong>
@@ -16,7 +16,7 @@
     <p>
         {{ site.data.settings.blog.CTA_main_box.custom_markdown | markdownify | remove: '<p>' | remove: '</p>' }}
 
-        <a class="cta" href="{{ site.data.settings.blog.CTA_main_box.custom_link.url }}">
+        <a class="cta" href="{{ site.data.settings.blog.CTA_main_box.custom_link.url }}" target="_blank">
             {{ site.data.settings.blog.CTA_main_box.custom_link.title }}
         </a>
     </p>
