@@ -34,7 +34,11 @@ layout: default
 			</div>
 			<div class="col-lg-6">
 				{{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "</p>" | truncate: 160 }}
-				<p class="readlink"><a href="{{ site.baseurl }}{{post.url}}" aria-label="Watch More">Watch More</a></p>
+				{% if post.youtube_code != null %}
+					<p class="readlink"><a href="{{ site.baseurl }}{{post.url}}" aria-label="Watch More">Watch More</a></p>
+				{% else %}
+					<p class="readlink"><a href="{{ site.baseurl }}{{post.url}}" aria-label="Read More">Read More</a></p>
+				{% endif %}
 			</div>
 		</li>
 	</ul>
