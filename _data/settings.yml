@@ -489,7 +489,26 @@ favicons:
 fb-admins:
 code:
   meta_pixel_code:
+podcast:
+  title: Podcast Title
+  subtitle: Podcast Subtitle
+  description: >-
+    This is where you put a description of your podcast. 
+  author: John Doe
+  image: /img/podcast-placeholder.jpg
+  keywords: keyword1, keyword2, keyword3
+  categories:
+    - category: Category 1
+    - category: Category 2
+    - category: Category 3
+
 _inputs:
+  podcast.description:
+    type: textarea
+    comment: Recomended length is between 600-900 characters, with a max size of 4000 characters.
+  podcast.image:
+    type: file
+    comment: JPG or PNG, minimum size of 1400 x 1400, maximum size of 3000 x 3000
   REQUIRED_bottom_mobile:
     comment: REQUIRED. This must be filled out.
   footer.custom_policies.REQUIRED_client_info:
