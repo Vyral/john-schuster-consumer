@@ -495,8 +495,7 @@ podcast:
   description: >-
     This is where you put a description of your podcast. 
   author: John Doe
-  image: /img/podcast-placeholder.jpg
-  keywords: keyword1, keyword2, keyword3
+  image: /img/podcast-placeholder.png
   categories:
     - Category 1
     - Category 2
