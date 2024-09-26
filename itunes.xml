@@ -13,7 +13,6 @@ layout: null
     <lastBuildDate>{{site.time}}</lastBuildDate>
     <media:copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</media:copyright>
     <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.url}}"/>
-    <media:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</media:keywords>
     {% for category in site.data.settings.podcast.categories %}
       <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{category}}</media:category>
     {% endfor %}
@@ -24,7 +23,6 @@ layout: null
     <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
-    <itunes:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:keywords>
     <itunes:subtitle>{{site.data.settings.podcast.subtitle | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:subtitle>
     <itunes:summary>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</itunes:summary>
     {% for category in site.data.settings.podcast.categories %}
@@ -48,7 +46,6 @@ layout: null
         <itunes:subtitle>{{post.excerpt | strip_html}}</itunes:subtitle>
         <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
         <itunes:summary>{{post.excerpt | strip_html}}</itunes:summary>
-        <itunes:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:keywords>
       </item>
       {% endfor %}
     <copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</copyright>
