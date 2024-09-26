@@ -498,9 +498,9 @@ podcast:
   image: /img/podcast-placeholder.jpg
   keywords: keyword1, keyword2, keyword3
   categories:
-    - category: Category 1
-    - category: Category 2
-    - category: Category 3
+    - Category 1
+    - Category 2
+    - Category 3
 
 _inputs:
   podcast.description:
