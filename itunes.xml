@@ -29,6 +29,7 @@ layout: null
       <itunes:category text="{{category}}"/>
     {% endfor %}
     {% for post in site.posts %}
+      {% if post.publish_as_a_podcast == true %}
       <item>
         <title>{{post.title | replace: '&', '&amp;'}}</title>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
@@ -47,7 +48,8 @@ layout: null
         <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
         <itunes:summary>{{post.excerpt | strip_html}}</itunes:summary>
       </item>
-      {% endfor %}
+      {% endif %}
+    {% endfor %}
     <copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</copyright>
     <media:credit role="author">{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</media:credit>
     <media:rating>nonadult</media:rating>
