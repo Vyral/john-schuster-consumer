@@ -507,7 +507,7 @@ _inputs:
     comment: Recomended length is between 600-900 characters, with a max size of 4000 characters.
   podcast.image:
     type: file
-    comment: JPG or PNG, minimum size of 1400 x 1400, maximum size of 3000 x 3000
+    comment: JPG or PNG, minimum dimensions of 1400 x 1400, max of 3000 x 3000. File size must be under 500 KB. 
   REQUIRED_bottom_mobile:
     comment: REQUIRED. This must be filled out.
   footer.custom_policies.REQUIRED_client_info:
