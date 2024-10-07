@@ -47,6 +47,9 @@ layout: null
         <itunes:subtitle>{{post.excerpt | strip_html}}</itunes:subtitle>
         <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
         <itunes:summary>{{post.excerpt | strip_html}}</itunes:summary>
+        {% for category in site.data.settings.podcast.categories %}
+          <itunes:category text="{{category}}"/>
+        {% endfor %}
       </item>
       {% endif %}
     {% endfor %}
