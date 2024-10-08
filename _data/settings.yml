@@ -500,6 +500,7 @@ podcast:
     - Category 1
     - Category 2
     - Category 3
+  apple_podcast_link:  
 
 _inputs:
   podcast.description:

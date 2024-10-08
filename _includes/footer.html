@@ -105,6 +105,12 @@
 			<img src="{{ site.baseurl }}{{ site.data.settings.images.footer_logo_path }}" alt="Company logo" />
 		</div>
 
+		{% if site.data.settings.podcast.apple_podcast_link != null %}
+			<div class="podcasts">
+				<a href="{{ site.data.settings.podcast.apple_podcast_link }}" target="_blank"><img src="/uploads/vyral-podcast.webp" alt="Apple Podcasts" width="100"/></a>
+			</div>
+		{% endif %}
+
 		<div class="socials-policy-container">
 
 			<div class="socials">
