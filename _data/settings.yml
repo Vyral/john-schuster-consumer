@@ -506,7 +506,7 @@ podcast:
 _inputs:
   # set the default to Business
   podcast.categories:
-    type: multiselect
+    type: select
     options:
       values:
         - Arts
