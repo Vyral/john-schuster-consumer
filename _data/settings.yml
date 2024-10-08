@@ -497,14 +497,16 @@ podcast:
   author: John Doe
   image: /img/podcast-placeholder.png
   category: Business
-  apple_podcast_link:  
+  apple_podcast_link: 
+  client_website_URL: https://www.clientwebsite.com 
   host:
     image:
     first_name: Jacqueline
     last_name: Smith
 
 _inputs:
-  # set the default to Business
+  podcast.client_website_URL:
+    comment: REQUIRED. This must be filled out for /itunes.xml to work. Do not end with a slash. 
   podcast.category:
     type: select
     options:

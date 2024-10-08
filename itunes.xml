@@ -12,7 +12,7 @@ layout: null
     <managingEditor>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;'}}</managingEditor>
     <lastBuildDate>{{site.time}}</lastBuildDate>
     <media:copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;'}}</media:copyright>
-    <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.url}}"/>
+    <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.data.settings.podcast.client_website_URL }}"/>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{site.data.settings.podcast.category}}</media:category>
     <itunes:owner>
       <itunes:email>{{site.data.settings.client.email}}</itunes:email>
@@ -20,7 +20,7 @@ layout: null
     </itunes:owner>
     <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;' }}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
+    <itunes:image href="{{site.data.settings.podcast.image | prepend: site.data.settings.podcast.client_website_URL }}"/>
     <itunes:subtitle>{{site.data.settings.podcast.subtitle | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand | replace: '&', '&amp;'}}</itunes:subtitle>
     <itunes:summary>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand | replace: '&', '&amp;'}}</itunes:summary>
     <itunes:category text="{{site.data.settings.podcast.category | replace: '&', '&amp;'}}" />
@@ -28,7 +28,7 @@ layout: null
       {% if post.publish_as_a_podcast == true %}
       <item>
         <title>{{post.title | replace: '&', '&amp;'}}</title>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.data.settings.podcast.client_website_URL  }}</link>
         {% for tag in post.tags %}
           <category>{{tag}}</category>
         {% endfor %}
@@ -37,7 +37,7 @@ layout: null
         <guid>{{post.enclosure}}</guid>
         <description>{{post.episode_description | strip_html | replace: '&', '&amp;'}}</description>
         <enclosure url="{{post.enclosure}}" length="{{post.enclosure_time}}" type="{{post.enclosure_type}}"/>
-        <media:thumbnail url="{{post.image | prepend: site.url}}" height="72" width="72"/>
+        <media:thumbnail url="{{post.image | prepend: site.data.settings.podcast.client_website_URL }}" height="72" width="72"/>
         <media:content url="{{post.enclosure}}" type="{{post.enclosure_type}}"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>{{post.excerpt | strip_html}}</itunes:subtitle>
