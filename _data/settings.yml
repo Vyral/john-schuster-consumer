@@ -497,12 +497,43 @@ podcast:
   author: John Doe
   image: /img/podcast-placeholder.png
   categories:
-    - Category 1
-    - Category 2
-    - Category 3
   apple_podcast_link:  
+  host:
+    image:
+    first_name: Jacqueline
+    last_name: Smith
 
 _inputs:
+  # set the default to Business
+  podcast.categories:
+    type: multiselect
+    options:
+      values:
+        - Arts
+        - Business
+        - Comedy
+        - Education
+        - Fiction
+        - Government
+        - History
+        - Health & Fitness
+        - Kids & Family
+        - Leisure
+        - Music
+        - News
+        - Religion & Spirituality
+        - Science
+        - Society & Culture
+        - Sports
+        - Technology
+        - True Crime
+        - TV & Film
+      default: Business
+  podcast.host.image:
+    type: file
+    comment: >-
+      NOTE: STRICT GUIDELINES APPLY. See
+      https://podcasters.apple.com/support/847-hosts-and-guests
   podcast.description:
     type: textarea
     comment: Recomended length is between 600-900 characters, with a max size of 4000 characters.
