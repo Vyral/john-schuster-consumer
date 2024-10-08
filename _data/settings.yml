@@ -528,7 +528,7 @@ _inputs:
         - Technology
         - True Crime
         - TV & Film
-      default: Business
+    default: Business
   podcast.host.image:
     type: file
     comment: >-
