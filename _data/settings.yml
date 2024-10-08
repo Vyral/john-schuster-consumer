@@ -496,7 +496,7 @@ podcast:
     This is where you put a description of your podcast. 
   author: John Doe
   image: /img/podcast-placeholder.png
-  categories:
+  category: Business
   apple_podcast_link:  
   host:
     image:
@@ -505,7 +505,7 @@ podcast:
 
 _inputs:
   # set the default to Business
-  podcast.categories:
+  podcast.category:
     type: select
     options:
       values:
@@ -528,7 +528,6 @@ _inputs:
         - Technology
         - True Crime
         - TV & Film
-    default: Business
   podcast.host.image:
     type: file
     comment: >-
