@@ -13,9 +13,7 @@ layout: null
     <lastBuildDate>{{site.time}}</lastBuildDate>
     <media:copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;'}}</media:copyright>
     <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.url}}"/>
-    {% for category in site.data.settings.podcast.categories %}
-      <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{category}}</media:category>
-    {% endfor %}
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{site.data.settings.podcast.category}}</media:category>
     <itunes:owner>
       <itunes:email>{{site.data.settings.client.email}}</itunes:email>
       <itunes:name>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;' }}</itunes:name>
@@ -25,9 +23,7 @@ layout: null
     <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
     <itunes:subtitle>{{site.data.settings.podcast.subtitle | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand | replace: '&', '&amp;'}}</itunes:subtitle>
     <itunes:summary>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand | replace: '&', '&amp;'}}</itunes:summary>
-    {% for category in site.data.settings.podcast.categories %}
-      <itunes:category text="{{category | replace: '&', '&amp;'}}" />
-    {% endfor %}
+    <itunes:category text="{{site.data.settings.podcast.category | replace: '&', '&amp;'}}" />
     {% for post in site.posts %}
       {% if post.publish_as_a_podcast == true %}
       <item>
