@@ -4,6 +4,7 @@ layout: post
 title: Draft
 episode_description:
 hidden: false
+date: 2024-10-03 07:00:00
 tags:
 subtitle:
 excerpt:
