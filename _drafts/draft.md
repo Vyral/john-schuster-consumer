@@ -3,7 +3,6 @@ publish_as_a_podcast: false
 layout: post
 title: Draft
 episode_description:
-date:
 hidden: false
 tags:
 subtitle:
