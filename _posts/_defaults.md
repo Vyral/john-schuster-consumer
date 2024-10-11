@@ -2,6 +2,7 @@
 publish_as_a_podcast: false
 layout: post
 title:
+episode_description:
 date:
 hidden: false
 tags:

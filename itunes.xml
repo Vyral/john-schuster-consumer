@@ -5,41 +5,46 @@ layout: null
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>{{site.data.settings.podcast.title | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;'}}</title>
-    <link>{{site.url}}</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{site.url}}"/>
+    <link>{{site.data.settings.podcast.client_website_URL}}</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{ "/itunes.xml" | prepend: site.baseurl | prepend: site.data.settings.podcast.client_website_URL }}" />
+    <atom:link rel="self" type="application/rss+xml" href="{{ "/itunes.xml" | prepend: site.baseurl | prepend: site.data.settings.podcast.client_website_URL }}" />
     <description>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand | replace: '&', '&amp;' }}</description>
     <language>en</language>
-    <managingEditor>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;'}}</managingEditor>
-    <lastBuildDate>{{site.time}}</lastBuildDate>
+    <managingEditor>{{ site.data.settings.podcast.author_email }}</managingEditor>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <media:copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;'}}</media:copyright>
-    <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.data.settings.podcast.client_website_URL }}"/>
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{site.data.settings.podcast.category}}</media:category>
+    <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.data.settings.podcast.client_website_URL}}"/>
+    {% for category in site.data.settings.podcast.categories %}
+      <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{category}}</media:category>
+    {% endfor %}
     <itunes:owner>
       <itunes:email>{{site.data.settings.client.email}}</itunes:email>
       <itunes:name>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;' }}</itunes:name>
     </itunes:owner>
     <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;' }}</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{site.data.settings.podcast.image | prepend: site.data.settings.podcast.client_website_URL }}"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="{{site.data.settings.podcast.image | prepend: site.data.settings.podcast.client_website_URL}}"/>
     <itunes:subtitle>{{site.data.settings.podcast.subtitle | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand | replace: '&', '&amp;'}}</itunes:subtitle>
     <itunes:summary>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand | replace: '&', '&amp;'}}</itunes:summary>
-    <itunes:category text="{{site.data.settings.podcast.category | replace: '&', '&amp;'}}" />
+    {% for category in site.data.settings.podcast.categories %}
+      <itunes:category text="{{category}}" />
+    {% endfor %}
     {% for post in site.posts %}
       {% if post.publish_as_a_podcast == true %}
       <item>
         <title>{{post.title | replace: '&', '&amp;'}}</title>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.data.settings.podcast.client_website_URL  }}</link>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.data.settings.podcast.client_website_URL }}</link>
         {% for tag in post.tags %}
           <category>{{tag}}</category>
         {% endfor %}
-        <author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;'}}</author>
-        <pubDate>{{post.date}}</pubDate>
+        <author>{{ site.data.settings.podcast.author_email }}</author>
+        <pubDate>{{post.date | date_to_rfc822 }}</pubDate>
         <guid>{{post.enclosure}}</guid>
         <description>{{post.episode_description | strip_html | replace: '&', '&amp;'}}</description>
         <enclosure url="{{post.enclosure}}" length="{{post.enclosure_time}}" type="{{post.enclosure_type}}"/>
-        <media:thumbnail url="{{post.image | prepend: site.data.settings.podcast.client_website_URL }}" height="72" width="72"/>
+        <media:thumbnail url="{{post.image | prepend: site.data.settings.podcast.client_website_URL}}" height="72" width="72"/>
         <media:content url="{{post.enclosure}}" type="{{post.enclosure_type}}"/>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:subtitle>{{post.excerpt | strip_html}}</itunes:subtitle>
         <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name | replace: '&', '&amp;'}}</itunes:author>
         <itunes:summary>{{post.excerpt | strip_html}}</itunes:summary>

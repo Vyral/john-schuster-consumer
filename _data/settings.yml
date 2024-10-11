@@ -495,8 +495,10 @@ podcast:
   description: >-
     This is where you put a description of your podcast. 
   author: John Doe
+  author_email: johndoe@website.com
   image: /img/podcast-placeholder.png
-  category: Business
+  categories:
+    - Business
   apple_podcast_link: 
   client_website_URL: https://www.clientwebsite.com 
   host:
