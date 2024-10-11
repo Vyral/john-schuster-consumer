@@ -503,12 +503,14 @@ podcast:
   client_website_URL: https://www.clientwebsite.com 
   host:
     image:
-    first_name: Jacqueline
-    last_name: Smith
+    first_name: John
+    last_name: Doe
 
 _inputs:
+  podcast.host: 
+    comment: This currently does not affect /itunes.xml
   podcast.client_website_URL:
-    comment: REQUIRED. This must be filled out for /itunes.xml to work. Do not end with a slash. 
+    comment: Full website URL - do not end with a slash. 
   podcast.category:
     type: select
     options:
