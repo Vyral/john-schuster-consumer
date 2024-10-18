@@ -508,7 +508,7 @@ podcast:
 
 _inputs:
   podcast.apple_podcast_link:
-    comment: "Full URL. Example: https://podcasts.apple.com/us/podcast/jacqueline-smiths-leadership-podcast/id1772323308"
+    comment: "Full URL. Example: https://podcasts.apple.com/us/podcast/account-name-podcast/id1772323308"
   podcast.host: 
     comment: This currently does not affect /itunes.xml
   podcast.client_website_URL:
