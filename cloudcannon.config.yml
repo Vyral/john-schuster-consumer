@@ -8,3 +8,25 @@ _inputs:
   enclosure_time:
     type: text
     comment: "File size in bytes. Example: 5650889"
+
+_snippets:
+  jekyll_include:
+    snippet: '{% include [[include_name]] %}'
+    preview:
+      text:
+        - template: 'Include {name_of_include}'
+        - 'Include'
+    _inputs:
+      name_of_include:
+        type: disabled
+    params:
+      include_name:
+        parser: argument
+        options:
+          model:
+            editor_key: name_of_include
+          format:
+            string_boundary:
+              - ''
+            forbidden_tokens:
+              - '%'
