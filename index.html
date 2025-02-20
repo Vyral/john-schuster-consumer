@@ -33,7 +33,7 @@ layout: default
 				</div>
 			</div>
 			<div class="col-lg-6">
-				{{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "</p>" | truncate: 160 }}
+				{{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "</p>" | truncate: 220 }}
 				{% if post.youtube_code != null %}
 					<p class="readlink"><a href="{{ site.baseurl }}{{post.url}}" aria-label="Watch More">Watch More</a></p>
 				{% else %}
