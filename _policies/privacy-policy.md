@@ -6,7 +6,7 @@ title: Privacy Policy
 
 **1\. OVERVIEW OF THIS POLICY**
 
-This Privacy Policy (this "Policy") relates to the personal information that you submit when you access and use our website and other information we automatically collect when you access the website. This Policy explains all activities regarding your information, including but not limited to how we collect, use, disclose, and secure it and the rights available to you.
+This Privacy Policy (this “Policy”) relates to the personal information that you submit when you access and use our website and other information we automatically collect when you access the website. This Policy explains all activities regarding your information, including but not limited to how we collect, use, disclose, and secure it and the rights available to you.
 
 You are required to read, understand, and agree to how we process (collection, use, disclosure, security, etc.) your information in this Policy. You are also required to read our Terms and Conditions and print a copy each for future reference. By using the website and submitting the requested personal information, you agree to how we process your information as described in this Policy. If you disagree, you should not submit information.
 
@@ -29,7 +29,7 @@ You are required to read, understand, and agree to how we process (collection, u
 * Sexual orientation or practices
 * Biometric information&nbsp;
 
-**2\.3** Information that you provide to us ("personal information") when you register or join our website may include:&nbsp;
+**2\.3** Information that you provide to us (“personal information”) when you register or join our website may include:&nbsp;
 
 **Information we collect during user registration:**
 
@@ -39,7 +39,7 @@ You are required to read, understand, and agree to how we process (collection, u
 
 **2\.4** This information may also include:
 
-* Information you provide by registering on the website, such as first name, last name, e-mail address, telephone number and address ("Contact Information"). This includes information provided when registering for the website and requesting further services.&nbsp;
+* Information you provide by registering on the website, such as first name, last name, e-mail address, telephone number and address (“Contact Information”). This includes information provided when registering for the website and requesting further services.&nbsp;
 * Information you provide us when you complete user surveys or surveys for research purposes, such as your Contact Information.
 * Information you provide us when you report a problem with the website, such as your first name, last name and e-mail address.
 * Records and copies of your correspondence (including e-mail addresses and phone numbers) if you contact us.
@@ -58,7 +58,7 @@ Any information collected by us is for a purpose in relation to your use of our 
 
 **4\. HOW PERSONAL INFORMATION COLLECTED.**
 
-**4\.1** **Automatic Information Collection and Tracking.****&nbsp; &nbsp;**
+**4\.1** **Automatic Information Collection and Tracking.**&nbsp; &nbsp;
 
 When you access and use the website, it may use technology to collect automatically:
 
@@ -74,14 +74,14 @@ The technologies we use for automatic information collection may include the fol
 
 * **Cookies (or mobile cookies).** A cookie is a small file placed on your smartphone or device. It may be possible to refuse to accept mobile cookies by activating the setting on your browser. However, if you select this setting, you may be unable to access certain parts of our website.
 
-The cookies we use include "analytical" cookies. They allow us to recognize and count the number of visitors and see how they move around the website. This helps us improve how our website works, for example, by ensuring that users find what they are looking for easily.
+The cookies we use include “analytical” cookies. They allow us to recognize and count the number of visitors and see how they move around the website. This helps us improve how our website works, for example, by ensuring that users find what they are looking for easily.
 
 These cookies are used to collect information about how visitors use our website. We use the information to compile reports on general user traffic and conversion statistics and to help us improve the site. The cookies collect information anonymously.
 
 Please note that our advertisers may also use cookies, over which we have no control.
 
-* **Web Beacons*.*** Pages of the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related Website statistics (for example, recording the popularity of certain Website content and verifying system and server integrity).
-* **Third-Party Cookies*.*** The website may link to other websites owned and operated by certain trusted third parties (for example, Facebook) who, for example, collect data that helps us to track conversions from Facebook ads. These other third-party websites may also use cookies or similar technologies in accordance with their separate policies. Please note that our advertisers may also use cookies, over which we have no control. For privacy information relating to these other third-party websites, please consult their policies as Appropriate.
+* **Web Beacons*****.*** Pages of the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related Website statistics (for example, recording the popularity of certain Website content and verifying system and server integrity).
+* **Third-Party Cookies*****.*** The website may link to other websites owned and operated by certain trusted third parties (for example, Facebook) who, for example, collect data that helps us to track conversions from Facebook ads. These other third-party websites may also use cookies or similar technologies in accordance with their separate policies. Please note that our advertisers may also use cookies, over which we have no control. For privacy information relating to these other third-party websites, please consult their policies as Appropriate.
 
 **5\. HOW DO WE USE PERSONAL DATA AND LAWFUL BASES FOR PROCESSING**
 
@@ -92,7 +92,7 @@ What are the lawful bases for processing personal data? The lawful grounds for p
 * **Consent:** the individual has given explicit consent for us to process their data for a specific purpose.&nbsp;
 * **Contract:** the processing is necessary for a contract we have with the individual or because they have asked us to take specific steps before entering into a contract.&nbsp;
 * **Legal obligation:** the processing is necessary for us to comply with the law (not including contractual obligations).&nbsp;
-* **Legitimate interests:** the processing is necessary for our legitimate interests or the legitimate interests of a third party unless there is an excellent reason to protect the individual's data, which overrides those legitimate interests.
+* **Legitimate interests:** the processing is necessary for our legitimate interests or the legitimate interests of a third party unless there is an excellent reason to protect the individual’s data, which overrides those legitimate interests.
 
 **5\.2** We use information that we collect about you or that you provide to us, including any personal information, to:
 
@@ -102,6 +102,7 @@ What are the lawful bases for processing personal data? The lawful grounds for p
 * Give you notices about your account and the account you create (such processing is necessary for the performance of our contract with you and for us to comply with a legal obligation).
 * Ensure that content from our website is presented most effectively for you and your computer or device for accessing the website (such processing is necessary for the performance of our contract with you).
 * Carry out our obligations and enforce our rights arising from any contracts between you and us, including billing and collection (such processing is necessary for our legitimate interests).
+* Data will not be sold or shared with third parties for promotional or marketing purposes.
 
 **5\.3** The usage information we collect helps us to improve our website and to deliver a better and more personalized experience by enabling us to:
 
@@ -119,13 +120,13 @@ What are the lawful bases for processing personal data? The lawful grounds for p
 
 **5\.7** Unfortunately, the transmission of information via the internet and mobile platforms is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your information transmitted through our website. Any transmission of personal information is at your own risk. We are not responsible for circumventing any privacy settings or security measures we provide.&nbsp;
 
-**5\.8** If you suspect that there has been a breach of the security of your data, you should contact us at: [{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}](mailto:{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}) and include details of:&nbsp;
+**5\.8** If you suspect that there has been a breach of the security of your data, you should contact us at: [{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}](mailto:<span%20data-cms-snippet-type=&quot;inline&quot;%20data-cms-snippet-id=&quot;a33fd367-dc6c-412a-b75b-da296b17114c&quot;%20data-cms-snippet-data=&quot;eyJ0cmltX2xlZnQiOmZhbHNlLCJ0ZW1wbGF0ZSI6IiBzaXRlLmRhdGEuc2V0dGluZ3MuZm9vdGVyLmN1c3RvbV9wb2xpY2llcy5SRVFVSVJFRF9jbGllbnRfaW5mby5jb21wYW55X2xlZ2FsX2VtYWlsICIsInRyaW1fcmlnaHQiOmZhbHNlLCJfaGlkZGVuIjp0cnVlLCJfc25pcHBldF90eXBlIjoiX2NjX2pla3lsbF90ZW1wbGF0ZSIsIl9tZXRhIjp7InRyaW1fbGVmdCI6e30sInRlbXBsYXRlIjp7Im9yaWdpbmFsRGF0YSI6W3siX3R5cGUiOiJ0ZXh0IiwidGV4dCI6IiBzaXRlLmRhdGEuc2V0dGluZ3MuZm9vdGVyLmN1c3RvbV9wb2xpY2llcy5SRVFVSVJFRF9jbGllbnRfaW5mby5jb21wYW55X2xlZ2FsX2VtYWlsICJ9XX0sInRyaW1fcmlnaHQiOnt9fX0=&quot;></span>) and include details of:&nbsp;
 
 * the nature of the breach;&nbsp;
 * the date of the breach; and
 * the full circumstances of the breach.&nbsp;
 
-**6\. INTERNATIONAL USE OF THE WEBSITE&nbsp;**
+**6\. INTERNATIONAL USE OF THE WEBSITE**&nbsp;
 
 This Privacy Policy is intended to cover the collection of information on our website from residents of the United States. If you are using the website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located, and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to protect your privacy. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
 
@@ -139,14 +140,14 @@ Technical data is anonymous and stored separately from Personal Data; therefore,
 
 {{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_name }} does not sell or share your personal information with third parties but may share your information if the need arises, such as the following:&nbsp;
 
-* To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by the Company about our Website users is among the assets transferred.
+* To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by the Company about our Website users is among the assets transferred.
 * For any other purpose disclosed by us when you provide the information.
 * For academic research.
 * For any other purpose with your consent.&nbsp;
 * To comply with any court order, law or legal process, including responding to any government or regulatory request.
 * To enforce our rights arising from any contracts between you and us.
 
-If we believe disclosure is necessary or appropriate to protect the Company's rights, property, or safety, our customers or others. This includes exchanging information for fraud protection and credit risk reduction with other companies and organizations.&nbsp;
+If we believe disclosure is necessary or appropriate to protect the Company’s rights, property, or safety, our customers or others. This includes exchanging information for fraud protection and credit risk reduction with other companies and organizations.&nbsp;
 
 **9\. OPTING OUT OF E-MAIL MARKETING**
 
@@ -159,15 +160,15 @@ We are committed to protecting your privacy and ensuring that your personal info
 **10\. YOUR RIGHTS WITH RESPECT TO PERSONAL DATA.**
 
 * You can review and change your personal information by logging into the website and visiting your account settings page.&nbsp;
-* You may also send us an e-mail at [{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}](mailto:{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}) to request access to, correct or delete any personal information free of charge that you have provided to us. We cannot delete your personal information except by deleting your user account.&nbsp;
+* You may also send us an e-mail at [{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}](mailto:<span%20data-cms-snippet-type=&quot;inline&quot;%20data-cms-snippet-id=&quot;0ab66e1a-2e28-48d3-b4a9-1684fd645a2f&quot;%20data-cms-snippet-data=&quot;eyJ0cmltX2xlZnQiOmZhbHNlLCJ0ZW1wbGF0ZSI6IiBzaXRlLmRhdGEuc2V0dGluZ3MuZm9vdGVyLmN1c3RvbV9wb2xpY2llcy5SRVFVSVJFRF9jbGllbnRfaW5mby5jb21wYW55X2xlZ2FsX2VtYWlsICIsInRyaW1fcmlnaHQiOmZhbHNlLCJfaGlkZGVuIjp0cnVlLCJfc25pcHBldF90eXBlIjoiX2NjX2pla3lsbF90ZW1wbGF0ZSIsIl9tZXRhIjp7InRyaW1fbGVmdCI6e30sInRlbXBsYXRlIjp7Im9yaWdpbmFsRGF0YSI6W3siX3R5cGUiOiJ0ZXh0IiwidGV4dCI6IiBzaXRlLmRhdGEuc2V0dGluZ3MuZm9vdGVyLmN1c3RvbV9wb2xpY2llcy5SRVFVSVJFRF9jbGllbnRfaW5mby5jb21wYW55X2xlZ2FsX2VtYWlsICJ9XX0sInRyaW1fcmlnaHQiOnt9fX0=&quot;></span>) to request access to, correct or delete any personal information free of charge that you have provided to us. We cannot delete your personal information except by deleting your user account.&nbsp;
 * We will respond to a request to access, correct or delete any data within 30 days of the date we receive the request.&nbsp;
 * We may not accommodate a request to change information if we believe the change would violate or breach any law or legal requirement or cause the information to be incorrect.&nbsp;
 * If, on your request, we refuse to amend, correct or delete your personal information, we will set out our reasons for not doing so and provide you with details of how you may complain about our refusal.
 * Suppose you delete your User Contributions from the website. In that case, copies of your User Contributions may remain viewable in cached and archived pages or have been copied or stored by other Website users. Our Terms and Conditions govern the proper access and use of information provided on the website, including User Contributions.
 
-**11\. CHILDREN'S PRIVACY**
+**11\. CHILDREN’S PRIVACY**
 
-The Children's Online Privacy Protection Act was created to protect children under 13 from unsuspecting acts or practices in conjunction with collecting, using, and disclosing information about them. Our Services are not intended for anyone under the age of 13. If you are under 13, do not use or provide any information on or through our Services. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you are a parent or guardian or believe we might have any information from or about a child under 13, please contact us so we can delete the child's information. The Services will never knowingly accept, collect, maintain or use any information from a child under 13. If a child whom we know to be under the age of 13 sends personal information to us online, we will only use that information to respond directly to that child or notify parents
+The Children’s Online Privacy Protection Act was created to protect children under 13 from unsuspecting acts or practices in conjunction with collecting, using, and disclosing information about them. Our Services are not intended for anyone under the age of 13. If you are under 13, do not use or provide any information on or through our Services. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you are a parent or guardian or believe we might have any information from or about a child under 13, please contact us so we can delete the child’s information. The Services will never knowingly accept, collect, maintain or use any information from a child under 13. If a child whom we know to be under the age of 13 sends personal information to us online, we will only use that information to respond directly to that child or notify parents
 
 **12\. HOW LONG IS PERSONAL DATA KEPT?**
 
@@ -175,7 +176,7 @@ We will only retain personal data for as long as is reasonably necessary. Upon d
 
 **13\. LEGAL BASIS FOR THE PROCESSING OF PERSONAL INFORMATION**
 
-**13\.1** We rely upon consent and legitimate business interests to process personal information. For example, we may process personal information with a user's consent when they agree to place cookies on their devices or process information, they enter into a form on one of our sites.
+**13\.1** We rely upon consent and legitimate business interests to process personal information. For example, we may process personal information with a user’s consent when they agree to place cookies on their devices or process information, they enter into a form on one of our sites.
 
 **13\.2** It is in our interest as a business to enhance the services that we provide, which may include processing your information to enable us to:
 
@@ -184,20 +185,20 @@ We will only retain personal data for as long as is reasonably necessary. Upon d
 * Complete transactions
 * Provide customer service
 * Send administrative information
-* Personalize Users' experiences with our sites
+* Personalize Users’ experiences with our sites
 * Do so where we are required to by law
 
-**13\.3** We may also process personal information when it is in our or a User's legitimate interests to do so and when an individual's data protection rights do not override these interests.&nbsp;
+**13\.3** We may also process personal information when it is in our or a User’s legitimate interests to do so and when an individual’s data protection rights do not override these interests.&nbsp;
 
 **14\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?**
 
-California Civil Code Section 1798.83, also known as the "Shine the Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing using the contact information provided below.
+California Civil Code Section 1798.83, also known as the “Shine the Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing using the contact information provided below.
 
 If you are under 18, reside in California, and have a registered account with the Services or Websites, you have the right to request the removal of unwanted data that you publicly post on the Services or Websites. To request the removal of such data, please contact us using the contact information below. Include the e-mail address associated with your account and a statement that you reside in California. We will ensure the data is not publicly displayed on the Services or Websites, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
 **15\. NEVADA RESIDENT RIGHTS**
 
-If you are a resident of Nevada, you have the right to opt out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at [{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}](mailto:{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}) with the subject line "Nevada Do Not Sell Request" and providing us with your name and the e-mail address associated with your account. We will not sell your Personal Data.
+If you are a resident of Nevada, you have the right to opt out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at [{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}](mailto:<span%20data-cms-snippet-type=&quot;inline&quot;%20data-cms-snippet-id=&quot;3dc40fa2-f0cb-4a3e-ad26-2e3fc9974b02&quot;%20data-cms-snippet-data=&quot;eyJ0cmltX2xlZnQiOmZhbHNlLCJ0ZW1wbGF0ZSI6IiBzaXRlLmRhdGEuc2V0dGluZ3MuZm9vdGVyLmN1c3RvbV9wb2xpY2llcy5SRVFVSVJFRF9jbGllbnRfaW5mby5jb21wYW55X2xlZ2FsX2VtYWlsICIsInRyaW1fcmlnaHQiOmZhbHNlLCJfaGlkZGVuIjp0cnVlLCJfc25pcHBldF90eXBlIjoiX2NjX2pla3lsbF90ZW1wbGF0ZSIsIl9tZXRhIjp7InRyaW1fbGVmdCI6e30sInRlbXBsYXRlIjp7Im9yaWdpbmFsRGF0YSI6W3siX3R5cGUiOiJ0ZXh0IiwidGV4dCI6IiBzaXRlLmRhdGEuc2V0dGluZ3MuZm9vdGVyLmN1c3RvbV9wb2xpY2llcy5SRVFVSVJFRF9jbGllbnRfaW5mby5jb21wYW55X2xlZ2FsX2VtYWlsICJ9XX0sInRyaW1fcmlnaHQiOnt9fX0=&quot;></span>) with the subject line “Nevada Do Not Sell Request” and providing us with your name and the e-mail address associated with your account. We will not sell your Personal Data.
 
 **16\. DATA SECURITY**
 
@@ -209,7 +210,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 **17\. CHANGES TO OUR PRIVACY POLICY**
 
-Our Policy is to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. Suppose we change how we treat our users' personal information. In that case, we will notify you by e-mail to the primary e-mail address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you and for periodically visiting our website and this privacy policy to check for any changes.
+Our Policy is to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. Suppose we change how we treat our users’ personal information. In that case, we will notify you by e-mail to the primary e-mail address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you and for periodically visiting our website and this privacy policy to check for any changes.
 
 **18\. CONTACT INFORMATION**
 
@@ -221,4 +222,5 @@ If you have any questions or comments about this Privacy Policy, how we collect 
     <p>{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.city }}, {{ site.data.settings.footer.custom_policies.REQUIRED_client_info.state }}, {{ site.data.settings.footer.custom_policies.REQUIRED_client_info.zip }}</p>
     <p>{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.country }}</p>
 </div>
-[{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}](mailto:{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }})
+
+[{{ site.data.settings.footer.custom_policies.REQUIRED_client_info.company_legal_email }}](mailto:<span%20data-cms-snippet-type=&quot;inline&quot;%20data-cms-snippet-id=&quot;5d66e6a8-0c2c-4e8e-842f-6f721390596d&quot;%20data-cms-snippet-data=&quot;eyJ0cmltX2xlZnQiOmZhbHNlLCJ0ZW1wbGF0ZSI6IiBzaXRlLmRhdGEuc2V0dGluZ3MuZm9vdGVyLmN1c3RvbV9wb2xpY2llcy5SRVFVSVJFRF9jbGllbnRfaW5mby5jb21wYW55X2xlZ2FsX2VtYWlsICIsInRyaW1fcmlnaHQiOmZhbHNlLCJfaGlkZGVuIjp0cnVlLCJfc25pcHBldF90eXBlIjoiX2NjX2pla3lsbF90ZW1wbGF0ZSIsIl9tZXRhIjp7InRyaW1fbGVmdCI6e30sInRlbXBsYXRlIjp7Im9yaWdpbmFsRGF0YSI6W3siX3R5cGUiOiJ0ZXh0IiwidGV4dCI6IiBzaXRlLmRhdGEuc2V0dGluZ3MuZm9vdGVyLmN1c3RvbV9wb2xpY2llcy5SRVFVSVJFRF9jbGllbnRfaW5mby5jb21wYW55X2xlZ2FsX2VtYWlsICJ9XX0sInRyaW1fcmlnaHQiOnt9fX0=&quot;></span>)

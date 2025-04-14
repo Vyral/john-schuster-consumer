@@ -70,7 +70,7 @@
     content="{{site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}">
 
     {% if site.data.settings.podcast.client_website_URL %}
-      <meta property="og:image" content="{{ site.data.settings.podcast.client_website_URL }}/{{site.data.settings.share_image}}">
+      <meta property="og:image" content="{{ site.data.settings.podcast.client_website_URL }}{{site.data.settings.share_image}}">
     {% else %}
       <meta property="og:image" content="{{ site.baseurl }}{{site.data.settings.share_image}}">
     {% endif %} 
