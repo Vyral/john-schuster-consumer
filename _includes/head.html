@@ -77,8 +77,11 @@
     
   {% endif %}
 
-  <meta property="og:url"
-    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  {% if site.data.settings.podcast.client_website_URL %}
+    <meta property="og:url" content="{{ site.data.settings.podcast.client_website_URL }}">
+  {% else %}
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  {% endif %} 
 
   {% if site.data.settings.fb-admins %}
   <meta property="fb:admins" content="{{ site.data.settings.fb-admins }}">
