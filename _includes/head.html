@@ -56,35 +56,91 @@
   {% endif %}
 
   <!--OPEN GRAPH TAGS FOR SOCIAL MEDIA SHARING -->
-  <meta property="og:title"
-    content="{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}">
 
   {% if page.is_post %}
-  <meta name="description"
-    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}{% endif %}">
-    
-  <meta property="og:image"
-    content="https://img.youtube.com/vi/{{page.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}/maxresdefault.jpg">
+
+    <meta name="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}{% endif %}">
+     {% if page.youtube_code %}
+      <meta property="og:image" content="https://img.youtube.com/vi/{{page.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}/maxresdefault.jpg">
+    {% else %}
+      <meta property="og:image" content="{{ site.data.settings.podcast.client_website_URL }}{{ page.youtube_alternate_image }}">
+    {% endif %}
+
+    {% if site.data.settings.podcast.client_website_URL %}
+      <meta property="og:url" content="{{ site.data.settings.podcast.client_website_URL }}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% else %}
+      <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% endif %} 
+
   {% else %}
-  <meta property="og:description"
-    content="{{site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}">
+    <meta property="og:description" content="{{site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}">
 
     {% if site.data.settings.podcast.client_website_URL %}
       <meta property="og:image" content="{{ site.data.settings.podcast.client_website_URL }}{{site.data.settings.share_image}}">
     {% else %}
       <meta property="og:image" content="{{ site.baseurl }}{{site.data.settings.share_image}}">
     {% endif %} 
-    
+
+    {% if site.data.settings.podcast.client_website_URL %}
+      <meta property="og:url" content="{{ site.data.settings.podcast.client_website_URL }}">
+    {% else %}
+      <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% endif %} 
+
   {% endif %}
 
+  {% if site.data.settings.fb-admins %}
+    <meta property="fb:admins" content="{{ site.data.settings.fb-admins }}">
+  {% endif %}
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
   {% if site.data.settings.podcast.client_website_URL %}
-    <meta property="og:url" content="{{ site.data.settings.podcast.client_website_URL }}">
+    <meta property="twitter:domain" content="{{ site.data.settings.podcast.client_website_URL | remove: 'https://' }}">
   {% else %}
-    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="twitter:domain" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   {% endif %} 
 
-  {% if site.data.settings.fb-admins %}
-  <meta property="fb:admins" content="{{ site.data.settings.fb-admins }}">
+  {% if page.is_post %}
+
+    {% if site.data.settings.podcast.client_website_URL %}
+      <meta property="twitter:url" content="{{ site.data.settings.podcast.client_website_URL | prepend: site.url }}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% else %}
+      <meta property="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% endif %} 
+
+  {% else %}
+
+    {% if site.data.settings.podcast.client_website_URL %}
+      <meta property="twitter:url" content="{{ site.data.settings.podcast.client_website_URL }}">
+    {% else %}
+      <meta property="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    {% endif %} 
+
+  {% endif %}
+ 
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}">
+  {% if page.is_post %}
+
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}{% endif %}">
+
+    {% if page.youtube_code %}
+      <meta name="twitter:image" content="https://img.youtube.com/vi/{{page.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}/maxresdefault.jpg">
+    {% else %} 
+      <meta name="twitter:image" content="{{ site.data.settings.podcast.client_website_URL }}{{ page.youtube_alternate_image }}">
+    {% endif %} 
+
+  {% else %}
+
+    <meta name="twitter:description" content="{{site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}">
+
+    {% if site.data.settings.podcast.client_website_URL %}
+      <meta name="twitter:image" content="{{ site.data.settings.podcast.client_website_URL }}{{site.data.settings.share_image}}">
+    {% else %}
+      <meta name="twitter:image" content="{{ site.baseurl }}{{site.data.settings.share_image}}">
+    {% endif %} 
+
   {% endif %}
 
   <!-- FONTS -->
