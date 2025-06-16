@@ -5,8 +5,8 @@ description: >-
 keywords: keyword1, keyword2, keyword3
 share_image: /img/share-image.jpg
 REQUIRED_bottom_mobile:
+  background_color: '#011f47'
   cta_background_color: '#ffffff'
-  background_color: '#999'
   button_color: '#0c0c0c'
   font_color: '#fff'
   CTAs:
