@@ -67,12 +67,8 @@
       <meta property="og:image" content="{{ site.data.settings.podcast.client_website_URL }}{{ page.youtube_alternate_image }}">
     {% endif %}
 
-    {% if site.data.settings.podcast.client_website_URL %}
-      <meta property="og:url" content="{{ site.data.settings.podcast.client_website_URL }}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    {% else %}
-      <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    {% endif %} 
-
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    
   {% else %}
     <meta property="og:description" content="{{site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}">
 
@@ -103,12 +99,7 @@
   {% endif %} 
 
   {% if page.is_post %}
-
-    {% if site.data.settings.podcast.client_website_URL %}
-      <meta property="twitter:url" content="{{ site.data.settings.podcast.client_website_URL | prepend: site.url }}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    {% else %}
       <meta property="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    {% endif %} 
 
   {% else %}
 
