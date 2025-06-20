@@ -67,7 +67,7 @@
       <meta property="og:image" content="{{ site.data.settings.podcast.client_website_URL }}{{ page.youtube_alternate_image }}">
     {% endif %}
 
-    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:url" content="{{ site.data.settings.podcast.client_website_URL }}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     
   {% else %}
     <meta property="og:description" content="{{site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}">
