@@ -6,19 +6,20 @@
     <div class="reviews-slider">
         {% for review in site.data.settings.5star_reviews.excerpts %}
             <div class="review-card">
-            <div class="review-author">
-                <!-- <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="User" class="author-avatar"> -->
-                <div class="author-name">{{ review.name }}</div>
-            </div>
-            <div class="review-stars">
+            <!-- <div class="review-stars">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
-            </div>
+            </div> -->
+            <img src="{{ site.baseurl }}/img/5-stars.png" alt="5 star rating" width="130" height="25" />
             <div class="review-text">
                 "{{ review.text }}"
+            </div>
+            <div class="review-author">
+                <!-- <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="User" class="author-avatar"> -->
+                <div class="author-name">- {{ review.name }}</div>
             </div>
         </div>
         {% endfor %}
