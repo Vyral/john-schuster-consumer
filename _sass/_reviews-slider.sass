@@ -1,0 +1,79 @@
+ .reviews-container 
+    max-width: 100%
+    overflow: hidden
+    position: relative
+    margin: 20px auto
+        
+.reviews-slider
+    display: flex
+    transition: transform 0.5s ease
+
+.review-card 
+    min-width: 100%
+    padding: 20px
+    box-sizing: border-box
+    background: #f9f9f9
+    border-radius: 10px
+    margin: 0 5px
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1)
+        
+.review-author 
+    display: flex
+    align-items: center
+    margin-bottom: 10px
+
+.author-avatar 
+    width: 50px
+    height: 50px
+    border-radius: 50%
+    margin-right: 10px
+    object-fit: cover
+        
+.author-name 
+    font-weight: bold
+
+.review-stars 
+    color: #FFD700
+    margin-bottom: 10px
+
+.slider-nav 
+    display: flex
+    justify-content: center
+    margin-top: 15px
+
+.slider-dot
+    width: 10px
+    height: 10px
+    border-radius: 50%
+    background: #ccc
+    margin: 0 5px
+    cursor: pointer     
+
+.slider-dot.active 
+    background: #333
+        
+.slider-arrow 
+    position: absolute
+    top: 50%
+    transform: translateY(-50%)
+    background: rgba(255,255,255,0.7)
+    border: none
+    padding: 10px
+    border-radius: 50%
+    cursor: pointer
+    z-index: 10
+        
+.slider-prev 
+    left: 10px
+        
+.slider-next 
+    right: 10px
+        
+@media (min-width: 768px)
+    .review-card 
+        min-width: 50%
+
+@media (min-width: 1024px)
+    .review-card 
+        min-width: 33.33%
+        
