@@ -95,6 +95,10 @@
 				{% if site.data.settings.client.zip != null %}
 					{{ site.data.settings.client.zip }} |
 				{% endif %}
+				
+				{% if site.data.settings.client.license_number != null %}
+					License #{{ site.data.settings.client.license_number }} |
+				{% endif %}
 
 				<a href="mailto:{{ site.data.settings.client.email }}" aria-label="Email">{{
 					site.data.settings.client.email }}</a>
