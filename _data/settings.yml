@@ -509,6 +509,8 @@ podcast:
     last_name: Doe
 
 _inputs:
+  client.license_number:
+    type: text
   podcast.apple_podcast_link:
     comment: "Full URL. Example: https://podcasts.apple.com/us/podcast/account-name-podcast/id1772323308"
   podcast.host: 
