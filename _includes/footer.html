@@ -199,83 +199,118 @@
 	}
 </script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script>
-        $(document).ready(function() {
-            const slider = $('.reviews-slider');
-            const cards = $('.review-card');
-            const dots = $('.slider-dot');
-            const cardWidth = cards.outerWidth(true);
-            let currentIndex = 0;
-            
-            // Set initial position
+<script>
+    $(document).ready(function() {
+        const slider = $('.reviews-slider');
+        const cards = $('.review-card');
+        const dots = $('.slider-dot');
+        let cardWidth = cards.outerWidth(true);
+        let currentIndex = 0;
+        let autoSlideInterval;
+        const autoSlideDelay = 5000; // 5 seconds delay between slides
+        
+        // Set initial position
+        updateSlider();
+        startAutoSlide();
+        
+        // Next button click
+        $('.slider-next').click(function() {
+            resetAutoSlide();
+            if (currentIndex < cards.length - 1) {
+                currentIndex++;
+                updateSlider();
+            }
+        });
+        
+        // Prev button click
+        $('.slider-prev').click(function() {
+            resetAutoSlide();
+            if (currentIndex > 0) {
+                currentIndex--;
+                updateSlider();
+            }
+        });
+        
+        // Dot navigation click
+        dots.click(function() {
+            resetAutoSlide();
+            currentIndex = $(this).index();
             updateSlider();
+        });
+        
+        // Swipe functionality for mobile
+        let touchStartX = 0;
+        let touchEndX = 0;
+        
+        slider.on('touchstart', function(e) {
+            resetAutoSlide();
+            touchStartX = e.changedTouches[0].screenX;
+        });
+        
+        slider.on('touchend', function(e) {
+            touchEndX = e.changedTouches[0].screenX;
+            handleSwipe();
+            startAutoSlide();
+        });
+        
+        function handleSwipe() {
+            if (touchEndX < touchStartX - 50 && currentIndex < cards.length - 1) {
+                // Swipe left
+                currentIndex++;
+                updateSlider();
+            }
             
-            // Next button click
-            $('.slider-next').click(function() {
+            if (touchEndX > touchStartX + 50 && currentIndex > 0) {
+                // Swipe right
+                currentIndex--;
+                updateSlider();
+            }
+        }
+        
+        function updateSlider() {
+            const translateX = -currentIndex * cardWidth;
+            slider.css('transform', `translateX(${translateX}px)`);
+            
+            // Update dots
+            dots.removeClass('active');
+            dots.eq(currentIndex).addClass('active');
+            
+            // Hide/show arrows
+            $('.slider-prev').toggle(currentIndex > 0);
+            $('.slider-next').toggle(currentIndex < cards.length - 1);
+        }
+        
+        // Auto-slide functions
+        function startAutoSlide() {
+            clearInterval(autoSlideInterval);
+            autoSlideInterval = setInterval(() => {
                 if (currentIndex < cards.length - 1) {
                     currentIndex++;
-                    updateSlider();
+                } else {
+                    currentIndex = 0; // Loop back to first slide
                 }
-            });
-            
-            // Prev button click
-            $('.slider-prev').click(function() {
-                if (currentIndex > 0) {
-                    currentIndex--;
-                    updateSlider();
-                }
-            });
-            
-            // Dot navigation click
-            dots.click(function() {
-                currentIndex = $(this).index();
                 updateSlider();
-            });
-            
-            // Swipe functionality for mobile
-            let touchStartX = 0;
-            let touchEndX = 0;
-            
-            slider.on('touchstart', function(e) {
-                touchStartX = e.changedTouches[0].screenX;
-            });
-            
-            slider.on('touchend', function(e) {
-                touchEndX = e.changedTouches[0].screenX;
-                handleSwipe();
-            });
-            
-            function handleSwipe() {
-                if (touchEndX < touchStartX - 50 && currentIndex < cards.length - 1) {
-                    // Swipe left
-                    currentIndex++;
-                    updateSlider();
-                }
-                
-                if (touchEndX > touchStartX + 50 && currentIndex > 0) {
-                    // Swipe right
-                    currentIndex--;
-                    updateSlider();
-                }
-            }
-            
-            function updateSlider() {
-                const translateX = -currentIndex * cardWidth;
-                slider.css('transform', `translateX(${translateX}px)`);
-                
-                // Update dots
-                dots.removeClass('active');
-                dots.eq(currentIndex).addClass('active');
-                
-                // Hide/show arrows
-                $('.slider-prev').toggle(currentIndex > 0);
-                $('.slider-next').toggle(currentIndex < cards.length - 1);
-            }
-            
-            // Make responsive on window resize
-            $(window).resize(function() {
-                cardWidth = cards.outerWidth(true);
-                updateSlider();
-            });
+            }, autoSlideDelay);
+        }
+        
+        function resetAutoSlide() {
+            clearInterval(autoSlideInterval);
+        }
+        
+        // Make responsive on window resize
+        $(window).resize(function() {
+            cardWidth = cards.outerWidth(true);
+            updateSlider();
         });
-    </script>
+        
+        // Pause auto-slide when hovering over slider
+        slider.hover(
+            function() {
+                resetAutoSlide();
+            },
+            function() {
+                startAutoSlide();
+            }
+        );
+    });
+</script>
