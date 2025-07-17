@@ -8,17 +8,17 @@ REQUIRED_bottom_mobile:
   background_color: '#011f47'
   cta_background_color: '#ffffff'
   button_color: '#0c0c0c'
-  font_color: '#fff'
+  font_color: '#ffffff'
   CTAs:
     cta_1_text: 'Call to Action #1'
     cta_1_link: '#'
-    cta_2_text: 'Call to Action #2'
+    cta_2_text: Newsletter Signup
     cta_2_link: '#'
 client:
   name: John Doe
   brand: Company Name, Inc.
   market: Test Market
-  license_number: 000000
+  license_number: 0
   address: 123 Elm Street
   city: Omaha
   state: Nebraska
@@ -494,29 +494,29 @@ code:
 podcast:
   title: Podcast Title
   subtitle: Podcast Subtitle
-  description: >-
-    This is where you put a description of your podcast. 
+  description: 'This is where you put a description of your podcast. '
   author: John Doe
   author_email: johndoe@website.com
   image: /img/podcast-placeholder.png
   categories:
     - Business
-  apple_podcast_link: 
-  client_website_URL: https://www.clientwebsite.com 
+  apple_podcast_link:
+  client_website_URL: https://www.clientwebsite.com
   host:
     image:
     first_name: John
     last_name: Doe
-
 _inputs:
   client.license_number:
     type: text
   podcast.apple_podcast_link:
-    comment: "Full URL. Example: https://podcasts.apple.com/us/podcast/account-name-podcast/id1772323308"
-  podcast.host: 
+    comment: >-
+      Full URL. Example:
+      https://podcasts.apple.com/us/podcast/account-name-podcast/id1772323308
+  podcast.host:
     comment: This currently does not affect /itunes.xml
   podcast.client_website_URL:
-    comment: Full website URL - do not end with a slash. 
+    comment: Full website URL - do not end with a slash.
   podcast.category:
     type: select
     options:
@@ -547,10 +547,14 @@ _inputs:
       https://podcasters.apple.com/support/847-hosts-and-guests
   podcast.description:
     type: textarea
-    comment: Recomended length is between 600-900 characters, with a max size of 4000 characters.
+    comment: >-
+      Recomended length is between 600-900 characters, with a max size of 4000
+      characters.
   podcast.image:
     type: file
-    comment: JPG or PNG, minimum dimensions of 1400 x 1400, max of 3000 x 3000. File size must be under 500 KB. 
+    comment: >-
+      JPG or PNG, minimum dimensions of 1400 x 1400, max of 3000 x 3000. File
+      size must be under 500 KB.
   REQUIRED_bottom_mobile:
     comment: REQUIRED. This must be filled out.
   footer.custom_policies.REQUIRED_client_info:
