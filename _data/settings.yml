@@ -133,12 +133,12 @@ hero:
         subheadline: Write a sentence about what they will get from you.
         button_text: 'CTA Button #4'
         button_link: '#'
-  header: Short Headline Goes Here
+  header: Let’s Explore Your Selling Options
   header_color: '#ffffff'
-  subheader: This is where you put a description for your main offer
+  subheader: We will help you sell your home at the price and terms you want
   subheader_color: '#ffffff'
-  button_text: 'Call to Action #1'
-  button_link: https://vyraltemplate.paperform.co/
+  button_text: Free Selling Strategy Call
+  button_link: '#'
   open_in_new_tab: true
   show_sidenav_link: true
   show_footer_link: true
