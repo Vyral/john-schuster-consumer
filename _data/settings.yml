@@ -501,9 +501,9 @@ footer:
       title: Terms of Use
       url: /test-url
 favicons:
-  android-chrome-192x192.png: /android-chrome-192x192.png
-  android-chrome-512x512.png: /android-chrome-512x512.png
-  apple-touch-icon.png: /apple-touch-icon.png
+  android-chrome-192x192.png: /android-icon-192x192.png
+  android-chrome-512x512.png: /ms-icon-310x310.png
+  apple-touch-icon.png: /apple-icon.png
   browserconfig.xml: /browserconfig.xml
   favicon-16x16.png: /favicon-16x16.png
   favicon-32x32.png: /favicon-32x32.png
