@@ -353,35 +353,35 @@ photo_wall:
   images:
     - path: /uploads/001.webp
       alt: Photo Wall Image 1
-    - path:/uploads/002.webp
+    - path: /uploads/002.webp
       alt: Photo Wall Image 2
-    - path:/uploads/003.webp
+    - path: /uploads/003.webp
       alt: Photo Wall Image 3
-    - path:/uploads/004.webp
+    - path: /uploads/004.webp
       alt: Photo Wall Image 4
-    - path:/uploads/005.webp
+    - path: /uploads/005.webp
       alt: Photo Wall Image 5
-    - path:/uploads/006.webp
+    - path: /uploads/006.webp
       alt: Photo Wall Image 6
-    - path:/uploads/007.webp
+    - path: /uploads/007.webp
       alt: Photo Wall Image 7
-    - path:/uploads/008.webp
+    - path: /uploads/008.webp
       alt: Photo Wall Image 8
-    - path:/uploads/009.webp
+    - path: /uploads/009.webp
       alt: Photo Wall Image 9
-    - path:/uploads/010.webp
+    - path: /uploads/010.webp
       alt: Photo Wall Image 10
-    - path:/uploads/011.webp
+    - path: /uploads/011.webp
       alt: Photo Wall Image 11
-    - path:/uploads/012.webp
+    - path: /uploads/012.webp
       alt: Photo Wall Image 12
-    - path:/uploads/013.webp
+    - path: /uploads/013.webp
       alt: Photo Wall Image 13
-    - path:/uploads/014.webp
+    - path: /uploads/014.webp
       alt: Photo Wall Image 14
-    - path:/uploads/015.webp
+    - path: /uploads/015.webp
       alt: Photo Wall Image 15
-    - path:/uploads/016.webp
+    - path: /uploads/016.webp
       alt: Photo Wall Image 16
 images:
   navbar_logo_path: /uploads/john-schuster-logo-white.webp
