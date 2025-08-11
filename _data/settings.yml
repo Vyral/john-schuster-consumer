@@ -240,9 +240,9 @@ about_me:
     link: https://www.linkedin.com/in/johnschustergroup/
     open_in_new_tab: true
   image:
-    path: /img/about-me-placeholder.png
+    path: /uploads/john-schuster-aboutme-img.webp
     alt: John Schuster
-    align: end
+    align: center
   show_sidenav_link: false
   show_footer_link: false
 about:
