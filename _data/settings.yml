@@ -394,9 +394,9 @@ photo_wall:
     - path: /img/photo-wall/photo-wall-27.jpg
       alt: Photo Wall Image 27
 images:
-  navbar_logo_path: /img/logo-light.png
-  sidenav_logo_path: /img/logo-light.png
-  footer_logo_path: /img/logo-light.png
+  navbar_logo_path: /uploads/john-schuster-logo-white.webp
+  sidenav_logo_path: /uploads/john-schuster-logo-white.webp
+  footer_logo_path: /uploads/john-schuster-logo-white.webp
   navbar-logo-width: 129
   desktop-sidenav-logo-width: 200
   mobile-sidenav-logo-width: 125
