@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-screenshot-template-yt.jpeg
 youtube_code: isWSZ5sM6gE
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 More and more, we’ve had clients reach out to us saying that they don’t want to list their homes because they feel like they won’t be able to buy another house with our record low inventory. We recognize your concern, so we’ve come up with three programs to help you find that perfect home:
 

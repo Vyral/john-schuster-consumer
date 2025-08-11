@@ -16,6 +16,7 @@ youtube_alternate_image:
 youtube_code: b3UDHlI9gAU
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We absolutely love the holiday season, and we want to take this time to wish you and your family a fantastic one as we end this hectic year. Amid the craziness, there’s much to be thankful for. Happy holidays to you and your family from the John Schuster Group\! We hope you have a great end to your year and an even better start to 2021. Our team members recorded messages of thanks to share with all of you.&nbsp;

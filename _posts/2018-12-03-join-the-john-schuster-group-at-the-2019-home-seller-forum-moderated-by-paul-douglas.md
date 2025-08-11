@@ -26,7 +26,8 @@ youtube_alternate_image:
 youtube_code: lXpKarBbpc4
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 [http://www.johnschustergroup.com/home-seller-forum.php](http://www.johnschustergroup.com/home-seller-forum.php){: target="_blank"}
 

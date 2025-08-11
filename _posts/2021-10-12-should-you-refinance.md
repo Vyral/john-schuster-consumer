@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---oct-2021---1---youtube.jpg
 youtube_code: p6P6c4Oc870
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Today we'll discuss whether or not it's a good idea to refinance. But before we go over that, we need to understand what's happened in the past 18 months.
 

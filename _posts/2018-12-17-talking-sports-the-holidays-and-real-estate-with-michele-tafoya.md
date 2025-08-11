@@ -18,7 +18,8 @@ youtube_alternate_image:
 youtube_code: bYMsiyBCLjo
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 To sign up for our home seller forum, click here: [http://www.johnschustergroup.com/home-seller-forum.php](http://www.johnschustergroup.com/home-seller-forum.php){: target="_blank"}
 

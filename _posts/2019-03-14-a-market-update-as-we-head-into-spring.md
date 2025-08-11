@@ -23,7 +23,8 @@ youtube_alternate_image:
 youtube_code: 3SzadIkQtGM
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We’re here today to give you a quick real estate market update as we head into spring. Our massive weekly snowstorms and polar vortexes have slowed the start to the typically hot spring market. **New listings for the week of Feb 23 were down 25%, while pending sales were down 12%.**
 

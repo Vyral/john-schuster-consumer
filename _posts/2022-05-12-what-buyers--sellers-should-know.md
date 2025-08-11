@@ -20,9 +20,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-ss-yt.jpeg
 youtube_code: BhG5CWDRxRQ
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 What impact will rising interest rates have? These increases don't just affect real estate; they impact every aspect of the economy. We brought in our residential real estate mortgage expert Ali Reda to break it down.
 

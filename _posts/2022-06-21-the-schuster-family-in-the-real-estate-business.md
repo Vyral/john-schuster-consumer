@@ -16,9 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-screenshot-yt3.jpg
 youtube_code: v6dOXYUnTn8
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Have we ever talked about how much we love real estate? You know what they say: “If you love what you do, you'll never work a day in your life.” Real estate is in our blood—literally.&nbsp;
 

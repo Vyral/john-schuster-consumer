@@ -23,7 +23,8 @@ youtube_alternate_image:
 youtube_code: o38GX18N8jM
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 I recently joined Jordana Green and Paul Douglas to talk about some things that you’ll need to do quickly if you’re thinking of selling your home next winter or spring.
 

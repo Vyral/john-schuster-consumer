@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: 1cNjx9j3IZM
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 In today’s episode of our community spotlight series, we’re visiting Unmapped Brewing and speaking with owner JD Park.&nbsp;
 

@@ -17,7 +17,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: H_dbq4P5SaI
 ---
-{% include youtube.html %}
+
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>These four tips will strengthen your offer.</em></center>
 

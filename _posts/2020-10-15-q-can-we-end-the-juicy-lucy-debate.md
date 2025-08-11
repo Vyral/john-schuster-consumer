@@ -18,7 +18,8 @@ youtube_alternate_image:
 youtube_code: mO3_am0_k-o
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Here at The John Schuster Group, our forte is real estate, but today we’re coming to you with hard-hitting journalism; we wanted to answer one of the toughest questions for a Minnesotan to answer: Who has the best Juicy Lucy Burger? For those of you who live on Mars, **a Juicy Lucy is a cheeseburger with a gooey pocket of cheese inside the meat**—a culinary masterpiece\!&nbsp;
 

@@ -25,7 +25,8 @@ youtube_alternate_image:
 youtube_code: v7iTSwexsS0
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 What is an ISA, and why is it so important that you hire an agent or a team that has one?
 

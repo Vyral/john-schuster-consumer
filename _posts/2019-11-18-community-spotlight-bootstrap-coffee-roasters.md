@@ -20,7 +20,8 @@ youtube_alternate_image: /uploads/john-schuster---nov-2019---1---youtube.jpg
 youtube_code: Pnx8yKnyKp8
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Fellow coffee lovers: Today’s business spotlight is for you\!&nbsp;
 

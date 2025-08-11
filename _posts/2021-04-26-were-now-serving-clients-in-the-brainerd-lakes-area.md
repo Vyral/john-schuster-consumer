@@ -15,7 +15,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: vzlKzNzyOqw
 ---
-{% include youtube.html %}
+
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>Our new office in the Brainerd Lakes area is officially open.</em></center>
 

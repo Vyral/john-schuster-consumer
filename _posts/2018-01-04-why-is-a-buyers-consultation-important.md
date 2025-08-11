@@ -21,8 +21,8 @@ youtube_alternate_image: /uploads/john-s-youtube-1-1.jpg
 youtube_code: B1wVCdkTTrc
 ---
 
-
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Why is a buyer’s consultation with a real estate agent important?
 

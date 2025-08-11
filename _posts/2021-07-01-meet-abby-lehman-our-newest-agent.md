@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---june-2021---2---youtube.jpeg
 youtube_code: UFUV2U6mP5c
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Being a smaller boutique real estate team means we’re only looking to grow with smart, knowledgeable, and experienced Realtors, and we’ve hit it out of the park with our newest addition: Abby Lehman. She was kind enough to join us in today’s video to share a little information about herself.&nbsp;
 

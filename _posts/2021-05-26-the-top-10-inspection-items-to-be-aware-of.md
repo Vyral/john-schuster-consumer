@@ -17,7 +17,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: YwSo4K7MzqM
 ---
-{% include youtube.html %}
+
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>Here are the most common items we see on inspection reports.&nbsp;</em></center>
 

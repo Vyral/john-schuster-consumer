@@ -27,7 +27,8 @@ youtube_alternate_image:
 youtube_code: wXoHPa6wSik
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 I recently sat down for an interview with one of our team’s rockstar agents, Jessica Wolleat, and I’d like to share some of what we spoke about with you today.&nbsp;
 

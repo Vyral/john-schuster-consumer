@@ -18,7 +18,8 @@ youtube_alternate_image:
 youtube_code: bfsDK45O-lQ
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Today we’re here with your Twin Cities summer real estate market update. We have some unusual market stats to share.&nbsp;
 

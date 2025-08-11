@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---dec-2021---1---youtube.jpg
 youtube_code: IBubyG7VnZo
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Happy holidays to you\!
 

@@ -19,9 +19,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/youtube-15.jpg
 youtube_code: 93oyFjFSSO8
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 [![](/uploads/homesellerbutton.png){: width="292" height="37"}](https://johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"}
 

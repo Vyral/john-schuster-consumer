@@ -20,7 +20,8 @@ youtube_alternate_image:
 youtube_code: M8XXALgYKlg
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We’re here today to shine a light on a wonderful lender we love working with, Ali Reda. Recently, we bought a property, and out of three lenders we consulted, Ali had the lowest rate by far and was the most fun to work with.&nbsp;
 

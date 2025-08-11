@@ -18,9 +18,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/11.jpg
 youtube_code: cpGNG-a_o_w
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

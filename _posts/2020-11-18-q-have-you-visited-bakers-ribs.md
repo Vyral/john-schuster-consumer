@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: xjPCYKTsErA
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Today we’re at one of the best barbeque restaurants in the Twin Cities: Baker’s Ribs in Eden Prairie. I had the pleasure of speaking with Al Killian, the proprietor of this great establishment, and in full disclosure, we’re very good friends. I even helped open Baker’s Ribs back in 1993\!
 

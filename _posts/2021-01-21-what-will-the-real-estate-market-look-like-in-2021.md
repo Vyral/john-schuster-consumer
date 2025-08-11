@@ -18,7 +18,8 @@ youtube_alternate_image:
 youtube_code: YQAc_K6gmTw
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>Here&rsquo;s what buyers and sellers need to know about our 2021 market.&nbsp;</em></center>
 

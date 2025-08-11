@@ -21,7 +21,8 @@ youtube_alternate_image:
 youtube_code: kR1bIxtbieE
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We loved watching WCCO Radio host Cory Hepola when he was the weekend anchor at KARE TV with his wife Camille, and we’re excited to have had him join us for a quick interview at the Minnesota State Fair.&nbsp;
 

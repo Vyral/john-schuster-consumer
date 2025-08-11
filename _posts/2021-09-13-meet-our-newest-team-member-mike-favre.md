@@ -15,9 +15,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: xH4byZ4HOhU
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We are so excited to announce that Mike Favre has joined our team. Let’s quickly put him through the lighting round now to get to know him better:
 

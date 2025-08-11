@@ -21,9 +21,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---march-2022---1---youtube.jpg
 youtube_code: AALWRAfOuRc
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Last year was one of our busiest years ever, and we knew it was time to grow. We want to make sure every one of our clients is working with the best of the best, so we only hire experienced real estate agents who have a great track record and strong ethics. So we’re excited to announce our newest team member: Steve Varhol\! Here’s our question and answer session so you can get to know him better:
 

@@ -23,7 +23,8 @@ youtube_alternate_image:
 youtube_code: pr62ug7-vqw
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 iBuyers are investors that use an automated valuation system to determine a price to offer sellers. These quick offers have become increasingly common in our Twin Cities marketplace, but is it worth selling your home to such a buyer?
 

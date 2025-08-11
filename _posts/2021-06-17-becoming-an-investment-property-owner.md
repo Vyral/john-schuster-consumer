@@ -19,9 +19,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---june-2021---1---youtube-edit.jpeg
 youtube_code: 3oHkjNhM-ho
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Today let’s dive into the world of buy-and-hold real estate investing. Some say it’s one of the best ways to get rich slowly.
 

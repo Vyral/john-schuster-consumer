@@ -18,9 +18,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: EPUs7J7jGjE
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

@@ -15,9 +15,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---dec-2021---2---youtube-edit.jpg
 youtube_code: UNrJJ51LXoc
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Today we’re speaking with Paul Douglas, known meteorologist, entrepreneur, author, and great friend. We recently helped some of his kids move closer to him, and he couldn’t be happier. In this video, we discuss the future of the Twin Cities real estate market, our upcoming home-seller forum, and much more.
 

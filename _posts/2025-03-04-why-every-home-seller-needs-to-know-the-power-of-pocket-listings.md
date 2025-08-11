@@ -17,9 +17,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/6-1.jpg
 youtube_code: vlI9NJM65bM
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

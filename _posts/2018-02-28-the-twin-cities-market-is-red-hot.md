@@ -24,7 +24,8 @@ youtube_alternate_image:
 youtube_code: SJLVgLOlPqI
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Today, I wanted to give you a quick update on what’s going on in the spring market here in the Twin Cities.
 

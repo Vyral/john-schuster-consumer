@@ -19,9 +19,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---march-2022---2---youtube.jpg
 youtube_code: '-AxJvXAE-ow'
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 It’s officially spring\! As the Minnesota winter thaws out, you have a great opportunity to maintain the outsides of your home. That’s why today we want to share five home-maintenance tips to help get your house ready for spring:
 

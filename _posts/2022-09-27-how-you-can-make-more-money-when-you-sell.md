@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-yt-1.jpg
 youtube_code: p07oDiK3Gzk
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Are you thinking of selling your home next year? If so, we have a six-month game plan. **You can act now and make more money while making the process easier for you.**
 

@@ -18,7 +18,8 @@ youtube_alternate_image:
 youtube_code: /Hrp9ZY_DQWA
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 You have to love living in a state with four distinct seasons\! However, owning a home in Minnesota as the season changes to autumn means we only have a couple of months to get our houses ready for the formidable northern winters. Today we’re sharing a checklist of the six things you must do before the snow starts falling.
 

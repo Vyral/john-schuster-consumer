@@ -19,7 +19,8 @@ youtube_alternate_image:
 youtube_code: GF_NzDq0qwQ
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Chris Neill has been with the John Schuster Group for four years, and it’s been absolutely fabulous. He recently moved to Minnetonka with his family, but there are some other things about Chris that you may not know. For example, as a former sous-chef of 10 years, he loves to cook, eat, and visit great restaurants. He’s also a huge baseball fan.
 

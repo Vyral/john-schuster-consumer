@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-yt.jpg
 youtube_code: JQMGubs7kjM
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 A lot is happening with our economy this year. We've seen interest rates go up and stocks go down on Wall Street. What does that mean if you're a homeowner or a real estate investor in our current market?&nbsp;
 

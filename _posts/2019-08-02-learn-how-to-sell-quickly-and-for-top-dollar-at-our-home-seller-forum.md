@@ -22,7 +22,8 @@ youtube_alternate_image: /uploads/john-schuster-youre-invited-youtube.jpg
 youtube_code: twkbIZSlK4w
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Putting your home on the market can be a daunting task, which is why we want to invite you to our upcoming Home Seller Forum that John and Paul Douglas will be hosting.&nbsp; This is a free, no-obligation seminar that will teach you everything you need to know to sell quickly and for top dollar.&nbsp;
 

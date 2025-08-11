@@ -19,9 +19,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---oct-2021---2---youtub-e.jpg
 youtube_code: Nq10cEkexRs
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Have you ever wondered what it takes to flip a house and make it profitable? Today we're going to walk through five things every successful real estate investor does to go from acquisition to a profitable closing:
 

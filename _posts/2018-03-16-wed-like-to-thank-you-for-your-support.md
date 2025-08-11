@@ -22,7 +22,8 @@ youtube_alternate_image:
 youtube_code: 1m90uYFk87M
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 I have some huge news to share with you today.
 

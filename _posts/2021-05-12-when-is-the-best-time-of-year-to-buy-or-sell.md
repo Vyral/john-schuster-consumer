@@ -15,7 +15,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: Sd-hto9qEIE
 ---
-{% include youtube.html %}
+
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>Here&rsquo;s my answer to the question of the best time to buy/sell in the TC.</em></center>
 

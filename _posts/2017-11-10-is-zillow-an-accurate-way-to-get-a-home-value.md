@@ -21,8 +21,8 @@ youtube_alternate_image: /uploads/john-s-youtube.jpg
 youtube_code: YL_SFvIJ6nE
 ---
 
-
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Is Zillow an accurate way to calculate your home’s value?
 

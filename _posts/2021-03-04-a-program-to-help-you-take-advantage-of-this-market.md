@@ -17,7 +17,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: dPkIcBLbiWw
 ---
-{% include youtube.html %}
+
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>Here&rsquo;s how the Weekend Listing program can help you sell in this market.</em></center>
 

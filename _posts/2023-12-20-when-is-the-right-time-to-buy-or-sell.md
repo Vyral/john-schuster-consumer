@@ -19,9 +19,9 @@ youtube_alternate_image: /uploads/12-15-23-yt.jpg
 youtube_code: h921cUMr6J8
 hidden: true
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <div class="text-center"><button type="button">See Your Home's Estimated Value Instantly</button></div>
 

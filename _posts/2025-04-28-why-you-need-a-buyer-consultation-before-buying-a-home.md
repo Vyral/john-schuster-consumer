@@ -18,9 +18,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/8-1.jpg
 youtube_code: 72-BiiyjF_o
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

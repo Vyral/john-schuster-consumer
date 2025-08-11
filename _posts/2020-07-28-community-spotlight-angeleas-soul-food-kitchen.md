@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: xQ_BVOj4sAM
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 I recently had the pleasure of meeting with Dwayne Rogers, owner/proprietor of Angelea’s Soul Food Kitchen, to talk about how his increasingly popular restaurant honors his mother's legacy by serving the community some savory soul food delights.&nbsp;
 

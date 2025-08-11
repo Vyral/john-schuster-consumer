@@ -20,7 +20,8 @@ youtube_alternate_image:
 youtube_code: d05DbTU4oXA
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 The Twin Cities real estate spring market is about to start and it’s truly the best time of the year to sell your home. Because of this, we’re holding some more Home Seller Forums this month that will once again be hosted by Paul Douglas.
 

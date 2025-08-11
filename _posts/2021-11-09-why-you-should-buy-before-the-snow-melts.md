@@ -19,9 +19,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---nov-2021---1---youtube.jpg
 youtube_code: cJA4UZm_7jc
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We bet you’ve been hearing about how crazy the market has been, but **the best time to buy will be over the next few months.** As we get into late fall and winter, buyers leave the market because many of them want to close between March and August. That means if you get in the market now, you’ll have less competition.
 

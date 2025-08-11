@@ -20,6 +20,7 @@ youtube_alternate_image:
 youtube_code: YGcn8jOfK2I
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Today on our Agent Spotlight Series, we’ve brought on the one and only Cassidy LeDuc to talk about her experience working as part of the John Schuster Group. Cassidy has been part of our team for two years now and absolutely loves it. When she’s not helping Twin Cities buyers, you can find her in the yoga studio or at one of her husband’s concerts. Like all of our agents, Cassidy is quite the character. If you have any other questions about how Cassidy or any of our other great team members can help you with your real estate needs, feel free to give us a call or send us an email. We look forward to hearing from you soon.

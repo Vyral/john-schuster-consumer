@@ -20,9 +20,9 @@ youtube_alternate_image: >-
   /uploads/top-reasons-why-the-twin-cities-are-the-best-place-to-live-in-the-us-2.png
 youtube_code: xLffhDNOT7E
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

@@ -22,7 +22,8 @@ youtube_alternate_image:
 youtube_code: 3tmmZ12VnAE
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Are you thinking of selling your home in the next two years?
 

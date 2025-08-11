@@ -16,9 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---july-2021---1---youtube.jpeg
 youtube_code: 38b0REMBnAg
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 If you're a homeowner, there’s one thing you definitely want to do this summer. When your yard and house are looking their absolute best, you want to be sure to **capture those beautiful spaces with full exterior photography.**
 

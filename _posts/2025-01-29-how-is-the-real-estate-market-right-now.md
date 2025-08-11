@@ -19,7 +19,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/john-schuster-thumbnail-2.jpg
 youtube_code:
 ---
-{% include excerpt.html %}
+
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 [**DOWNLOAD OUR 2024 TWIN CITIES ANNUAL HOUSING REPORT**](https://schuster-housingreport.paperform.co/){: target="_blank" rel="noopener"}
 

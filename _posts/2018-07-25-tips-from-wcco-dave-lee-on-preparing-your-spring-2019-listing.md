@@ -27,7 +27,8 @@ youtube_alternate_image:
 youtube_code: B7J5wFh3_OA
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Spring is one of the best times to sell your home quickly and for top dollar. If you’re thinking of listing next spring, it isn’t too soon to start getting ready. The season may seem far off, but now is actually the perfect time to prepare. 
 

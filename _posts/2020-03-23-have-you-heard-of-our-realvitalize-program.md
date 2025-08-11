@@ -19,7 +19,8 @@ youtube_alternate_image:
 youtube_code: CURX83fuO5w
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We’re joined today by Matt Baker, president of Coldwell Banker Burnet. He’s a rockstar and a Twin Cities real estate icon.
 

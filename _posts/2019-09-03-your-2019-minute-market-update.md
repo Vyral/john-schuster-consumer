@@ -19,7 +19,8 @@ youtube_alternate_image:
 youtube_code: SHjwt80ApDo
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Welcome back\! Here’s a quick update on the latest developments from our market area.
 

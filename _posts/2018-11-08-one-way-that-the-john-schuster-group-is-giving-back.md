@@ -21,7 +21,8 @@ youtube_alternate_image:
 youtube_code: Y553lu0WqcU
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 In the past, we’ve talked about how important gratitude is to us at The John Schuster Group. That's why we’ve partnered with Move Forward Minnesota, a great organization that is working to combat suburban youth homelessness. **We have committed to giving everyone who comes to that organization needing a place to live a brand-new bed. **
 

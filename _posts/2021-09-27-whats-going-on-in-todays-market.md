@@ -15,9 +15,9 @@ use_youtube_image: true
 youtube_alternate_image: /john-schuster---sept-2021---2---youtube.jpeg
 youtube_code: ACvlK9RvHWg
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Folks, 2021 has been a year for the books—**it’s been one of the hottest markets ever\!** Let’s take a look at the most recent numbers for the 13-county region:
 

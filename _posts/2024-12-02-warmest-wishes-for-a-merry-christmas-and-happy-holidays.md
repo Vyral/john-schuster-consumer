@@ -16,9 +16,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: BY0hoQ8HW4U
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Merry Christmas! We wish you and your loved ones a happy holiday season filled with joy and happiness.
 

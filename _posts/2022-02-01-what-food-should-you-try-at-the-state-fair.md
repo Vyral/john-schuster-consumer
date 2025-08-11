@@ -18,9 +18,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---jan-2022---1---youtube.jpg
 youtube_code: 9JY0QbI4WJU
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We are a little over six months away from the next great Minnesota get-together: the 2022 State Fair. Last year, we sent our resident state fair expert and Realtor extraordinaire, Tim Sabin, to try some of the worst and best foods at the 2021 fair. Let’s see how it went.
 

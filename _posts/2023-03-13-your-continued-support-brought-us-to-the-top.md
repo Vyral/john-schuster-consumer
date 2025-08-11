@@ -16,9 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/2-37.jpg
 youtube_code: qy-nRsu8C2Q
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We would like to **thank you again for helping us become the number one listing agent team within Coldwell Banker Realty statewide here in Minnesota.** Your trust and support over the years have been crucial in achieving this milestone. We are incredibly proud of everyone on our team, as many of our agents have achieved career-high sales in the past year.
 

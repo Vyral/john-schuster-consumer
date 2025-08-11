@@ -18,7 +18,8 @@ youtube_alternate_image:
 youtube_code: sYzJRllLwk8
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 At the John Schuster Group, our mission statement is to inspire, educate, and deliver exceptional services to our clients while achieving their real estate goals.&nbsp;
 

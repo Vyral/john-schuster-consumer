@@ -20,9 +20,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/youtube-1.jpg
 youtube_code: ZgNOVRdJ1LI
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

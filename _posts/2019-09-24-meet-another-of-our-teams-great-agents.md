@@ -21,7 +21,8 @@ youtube_alternate_image:
 youtube_code: DbVyQlkbe3E
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 In today’s episode of our Agent Spotlight series, we’re featuring a great team member who has been with the John Schuster Group for 11 years now: Tim Lehman.&nbsp;
 

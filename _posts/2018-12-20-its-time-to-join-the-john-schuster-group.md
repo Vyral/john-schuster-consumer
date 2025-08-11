@@ -22,7 +22,8 @@ youtube_alternate_image:
 youtube_code: niFRnPBI5Qs
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Click here to join our team:&nbsp;[http://www.johnschustergroup.com/join-our-team.php](http://www.johnschustergroup.com/join-our-team.php){: target="_blank"}
 

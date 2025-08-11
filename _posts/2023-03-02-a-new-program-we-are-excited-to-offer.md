@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/3-2-23-yt.jpg
 youtube_code: qGCvIhi0Npc
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Do you want to sell your home quickly without having to do any of the staging prep work or repairs? If so, know that we have a great new program that we're rolling out this year called our Cash Offer program, and it is perfect for you. **We have multiple investors that will give you a quick cash offer on terms you approve.&nbsp;**
 

@@ -19,7 +19,8 @@ youtube_alternate_image:
 youtube_code: Xnng7pGykgs
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 For our very first community spotlight video, we’re visiting the restaurant&nbsp;[Pizza Karma](https://pizzakarma.com/){: target="_blank"} and talking with the owner/head chef [Raghavan Iyer](http://www.raghavaniyer.com){: target="_blank"} about what makes this establishment so unique.&nbsp;
 

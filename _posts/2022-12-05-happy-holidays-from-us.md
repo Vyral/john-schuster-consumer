@@ -16,9 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-yt-2.jpg
 youtube_code: 6xq6FyT11TI
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories. We want to wish you happy holidays, a Merry Christmas, a Happy Hanukkah, and the absolute best in the New Year. From all of us here at the John Schuster group, **thank you for your trust and support over the years.** Have a fun and safe holiday season.&nbsp;
 

@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: mhF3TtN5qOo
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Are you thinking of selling your home next year? Are you planning on spending this coming fall and winter getting your home ready for the spring 2021 market? If so, then **there’s something you need to take care of right now: green photos.&nbsp;**
 

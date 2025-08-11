@@ -20,7 +20,8 @@ youtube_alternate_image:
 youtube_code: WUltDSncaqU
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 I’ve been with Coldwell Banker Burnet for my entire real estate career, and today I want to explain why.
 

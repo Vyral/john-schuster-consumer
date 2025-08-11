@@ -19,7 +19,8 @@ youtube_alternate_image:
 youtube_code: vjEcQ3plUvM
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 The spring market has finally arrived, and it’s here in full force. 
 

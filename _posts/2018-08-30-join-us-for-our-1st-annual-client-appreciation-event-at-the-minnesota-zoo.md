@@ -20,7 +20,8 @@ youtube_alternate_image:
 youtube_code: XL-8l5add_g
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 {: .present-before-paste}
 
 <center><em>Will you join us October 6 for a fun, free event at the Minnesota Zoo?</em></center>

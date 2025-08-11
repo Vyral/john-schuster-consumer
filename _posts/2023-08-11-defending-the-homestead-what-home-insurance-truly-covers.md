@@ -18,9 +18,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/email-2-3.jpg
 youtube_code: SvE6fug-xK8
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 [![](/uploads/capture-1.PNG)](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
 

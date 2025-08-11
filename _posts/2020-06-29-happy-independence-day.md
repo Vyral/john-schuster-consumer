@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: Cq85vZ0eW7w
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 From everyone on our team, we’re wishing you a happy Independence Day\! Like you, we truly enjoy this time of year and love spending time with our family and friends. **Fourth of July is a special holiday** for our nation; it celebrates our American form of government—a representative democracy. As Abraham Lincon said, “Government of the people, by the people, for the people shall not perish from the earth.”&nbsp;
 

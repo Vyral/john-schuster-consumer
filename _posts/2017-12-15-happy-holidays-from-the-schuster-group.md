@@ -20,8 +20,8 @@ youtube_alternate_image: /uploads/jds-new-youtube.jpg
 youtube_code: jWyi_Vad_uQ
 ---
 
-
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We wanted to take some today to wish you all happy holidays and a happy New Year. Thank you all so much for your love and support over the years.
 

@@ -19,9 +19,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/market-analysis-yt.jpeg
 youtube_code: HXGWC32LPE0
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 The Twin Cities real estate market is red-hot\! We’ve talked before about the extreme lack of supply and surge in buyer demand, and that’s what has created the imbalance in our current market. The question we get all the time is, “What does this mean for the value of my home?” Taking into account all the data and information available to us today, we’re going to make some predictions about the expected home price increases in the Twin Cities.&nbsp;
 

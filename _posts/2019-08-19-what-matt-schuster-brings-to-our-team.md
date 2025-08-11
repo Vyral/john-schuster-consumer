@@ -20,7 +20,8 @@ youtube_alternate_image:
 youtube_code: k2jtqajoZz0
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Matt Schuster has become one of the top agents at the John Schuster Group, and we’re excited to share his story for our latest agent spotlight.&nbsp;
 

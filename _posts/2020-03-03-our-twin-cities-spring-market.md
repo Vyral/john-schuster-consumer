@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: NXaakBdtOKU
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 This is one of our favorite times of the year—we’ve begun our spring market\! It’s a great time to sell your home for top dollar in Minnesota. Today we’re sharing a quick spring market update. 2019 was a record year, so if you’re a buyer entering this market, you have to be fully pre-approved, underwritten, and be ready to jump on a house as soon as it hits the market. Buyers: Brace yourselves for a very competitive market this spring.
 

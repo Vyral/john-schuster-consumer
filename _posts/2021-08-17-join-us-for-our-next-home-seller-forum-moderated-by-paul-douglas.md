@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /download-6.jpeg
 youtube_code: DNmzEBnrtWc
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Meteorologist Paul Douglas joins us today to share a prediction he can make with nearly 100% certainty: If you’re selling your home within the next two years and you attend The John Schuster Group’s upcoming home seller forum, **you’ll make more money from your sale and learn everything you need to know to prepare your home for the market.** You’ll also receive a roadmap with everything needed to make the process as easy as possible. We have lots of fun in our forums, and we’re excited to be hosting another virtual seller forum soon.
 

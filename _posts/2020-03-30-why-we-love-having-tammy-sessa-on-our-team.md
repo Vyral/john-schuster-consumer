@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: PFjbvsRX21w
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 **This video was shot in February prior to the current COVID-19 situation.**
 

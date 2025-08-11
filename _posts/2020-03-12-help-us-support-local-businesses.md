@@ -18,7 +18,8 @@ youtube_alternate_image:
 youtube_code: 3xcD76HnB08
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 During this uncertain and chaotic time, we want to support our local businesses\! You can still get your favorite food to enjoy at home. NorthStar Tavern is open for dinner from 4pm -9pm every day\! Call **952-405-6040** or place your order online at&nbsp;[www.northstartavernmn.com](http://www.northstartavernmn.com/){: target="_blank"}&nbsp;for curbside pickup. You can also order through Grub Hub, Uber Eats, Door Dash or Bite Squad.
 

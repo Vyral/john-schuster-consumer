@@ -21,8 +21,8 @@ youtube_alternate_image:
 youtube_code: q1ILxjuzG2w
 ---
 
-
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We get this question all the time from both buyers and sellers: How long does it take to close a home?
 

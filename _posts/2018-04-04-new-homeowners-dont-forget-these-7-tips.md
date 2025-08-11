@@ -23,7 +23,8 @@ youtube_alternate_image: /uploads/john-schuster-screenshot-march-2-no-play-1.jpg
 youtube_code: ffTWe46lHQw
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>New homeowners may be excited about finally having a place to themselves, but there are seven things they often forget to keep in mind when it comes to maintaining the home.</em></center>
 

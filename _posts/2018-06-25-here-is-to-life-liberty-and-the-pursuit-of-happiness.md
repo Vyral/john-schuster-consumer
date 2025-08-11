@@ -25,7 +25,8 @@ youtube_alternate_image:
 youtube_code: 7MId4xyOelM
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 242 years ago this July 4, our Founding Fathers took the first steps in creating American independence. 
 

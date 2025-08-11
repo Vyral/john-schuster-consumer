@@ -22,7 +22,8 @@ youtube_alternate_image:
 youtube_code: 95lBVS4mILU
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Today I'm happy to be joined by team member Kieren Evensen to pick his brain about his business, some of his hobbies, and his thoughts on the state of our current real estate market. So far in 2019, he’s been absolutely on fire—as of the first week of March, he’d already sold eight listings!
 

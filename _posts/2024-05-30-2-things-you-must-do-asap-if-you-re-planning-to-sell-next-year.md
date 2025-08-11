@@ -22,9 +22,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/yt.jpg
 youtube_code: yxUwxw8q13U
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

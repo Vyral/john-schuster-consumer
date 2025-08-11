@@ -18,9 +18,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---feb-2022---1---youtube.jpg
 youtube_code: '-NNo57wS9Nc'
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We have a real estate market alert\! Now that the Super Bowl is in the books, **the spring market has officially started,** and it’s truly one of the best times of year to sell your Twin Cities home. All the market fundamentals have started to come together. Buyer demand has stayed strong despite rising interest rates, and more and more sellers are bringing their homes to the market as they continue to sit in the driver’s seat.
 

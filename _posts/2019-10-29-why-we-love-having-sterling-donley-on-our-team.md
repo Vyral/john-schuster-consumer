@@ -18,7 +18,8 @@ youtube_alternate_image:
 youtube_code: AdBjjKwnStA
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 For today’s agent spotlight, we are joined by ISA Sterling Donley. We’ve known Sterling for quite a long time, and we love having him on the team.&nbsp;&nbsp;
 

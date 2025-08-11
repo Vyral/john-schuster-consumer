@@ -16,6 +16,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
+
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include pullquote.html %}

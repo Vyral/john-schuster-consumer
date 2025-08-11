@@ -21,7 +21,8 @@ youtube_alternate_image:
 youtube_code: esrz_QUnWaY
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We’re continuing our Community Spotlight series today at Bacon Social House. If you’re in downtown Minneapolis you have to check out this place. **It’s just a stone’s throw from U.S. Bank Stadium and they specialize in everyone’s favorite food, bacon.**
 

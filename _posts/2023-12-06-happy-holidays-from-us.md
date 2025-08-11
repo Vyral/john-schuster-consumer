@@ -17,9 +17,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/12-5-23-yt.jpg
 youtube_code: WgNBUHfXtjo
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Happy holidays to you!
 

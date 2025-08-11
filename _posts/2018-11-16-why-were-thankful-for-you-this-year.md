@@ -20,6 +20,7 @@ youtube_alternate_image:
 youtube_code: uwd50Yplu_o
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 As we’re all gearing up for the holiday season, I just wanted to take a moment to acknowledge all of our supporters and raving fans. We hope you and your family have an absolutely fabulous Thanksgiving and we wish you the best this holiday season. Gratitude is huge for our team, so we just wanted to let you know how thankful we are for your trust and support. I’m personally thankful for our amazing team and the fabulous year we’ve had in 2018. From the bottom of my heart and my team’s heart: Thank you and have a happy Thanksgiving.

@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: sdDGCFJeXfg
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>We&rsquo;d love to see you at one of our upcoming virtual Home Seller Forums.</em></center>
 

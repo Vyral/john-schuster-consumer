@@ -48,7 +48,8 @@ youtube_alternate_image: /uploads/john-s-2-youtube.jpg
 youtube_code: 9TEW1dSWtOY
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We are super excited to announce that the John Schuster Group has aligned itself with a great nonprofit organization called MoveFwd in Minnesota. The group’s aims match our mission statement and our core values, which include gratitude. Out of gratitude comes generosity, and we want to give back to the community.&nbsp;
 

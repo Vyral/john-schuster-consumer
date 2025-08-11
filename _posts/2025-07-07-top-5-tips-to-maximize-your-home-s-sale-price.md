@@ -18,9 +18,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/top-5-tips-to-maximize-your-home-s-sale-price.jpg
 youtube_code: zi-brj8Zek4
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

@@ -16,9 +16,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/john-schuster-screenshot-templateyt.jpg
 youtube_code: dFht29E1aUs
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 If you’ve been paying attention to the news, you probably know that interest rates have increased recently. The higher your mortgage rate, the higher your monthly payment will be, so what can you do? Fortunately, there’s an easy way to lower your mortgage rate, and it’s by buying discount points.&nbsp;
 

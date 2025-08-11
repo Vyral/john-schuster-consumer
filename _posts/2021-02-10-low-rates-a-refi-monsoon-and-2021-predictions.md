@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: 9qR5KyXsOTE
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>Ali Reda sums up 2020&rsquo;s mortgage market and offers a 2021 forecast.</em></center>
 

@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/2-13.jpg
 youtube_code: j5RChnb-ofM
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 [![](/uploads/capture-1.PNG){: width="346" height="35"}](https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369){: target="_blank" rel="noopener"}
 

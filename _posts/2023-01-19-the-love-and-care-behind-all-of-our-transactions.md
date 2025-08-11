@@ -16,9 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/2-9.png
 youtube_code: UQ_DkhX6VaU
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Have you ever heard the story of the John Schuster Group? Whether you have worked with us many times before or you’re still trying to decide if you want to choose us, you should know our story and what’s important to us.&nbsp;
 

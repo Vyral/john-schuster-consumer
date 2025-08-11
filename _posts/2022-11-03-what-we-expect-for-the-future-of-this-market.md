@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/email-1.jpg
 youtube_code: Q0EjsssXAns
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Today, we have three predictions for the Twin Cities real estate market for 2023:&nbsp;
 

@@ -18,8 +18,8 @@ youtube_alternate_image: /uploads/john-s-youtube-4.jpg
 youtube_code: i8bZfMErrP0
 ---
 
-
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We have a few big announcements to make today. First, I want to talk about the commercial we filmed recently out in New York with Shark Tank’s Barbara Corcoran. It starts at about 0:37 in the video above. We had a great time shooting with Barbara and can’t thank her enough for the invite.
 

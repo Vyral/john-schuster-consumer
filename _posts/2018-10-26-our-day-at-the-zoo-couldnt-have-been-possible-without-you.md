@@ -22,7 +22,8 @@ youtube_alternate_image:
 youtube_code: osAdqR0YgPE
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include pullquote.html %}
 

@@ -16,9 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/8-3-23-yt-3.jpg
 youtube_code: w1C3A6INGMM
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 ![](/uploads/capture-1.PNG)
 

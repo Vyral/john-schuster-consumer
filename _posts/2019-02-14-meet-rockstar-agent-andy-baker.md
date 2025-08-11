@@ -20,7 +20,8 @@ youtube_alternate_image:
 youtube_code: AAZBTZdprvE
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 I’m very excited to be able to introduce you to one of our rockstar agents, Andy Baker. Andy has been selling real estate for 16 years, pretty much since I developed the team all those years ago. To Andy, it just made sense for us to work together, and things have been great for us both.&nbsp;
 

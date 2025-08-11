@@ -20,9 +20,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/schuster.jpg
 youtube_code: 9o_fwI8Zrps
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <div class="text-center"><a href="https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a" target="blank"><button type="button">See Your Home's Estimated Value Instantly</button></a></div>
 

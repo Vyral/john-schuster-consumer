@@ -20,7 +20,8 @@ youtube_alternate_image:
 youtube_code: By9bTwN-qjk
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We’re continuing our Agent Spotlight Series today with rockstar agent Ben Shamrokh.
 

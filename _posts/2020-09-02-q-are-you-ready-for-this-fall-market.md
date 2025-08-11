@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: amONdwCL6Hc
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We have some very important information to share with you today. Do you know that the date on which you choose to list your home for sale can truly make you thousands more on your sale if done right?
 

@@ -15,9 +15,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-yt-1-1.jpg
 youtube_code: qGKtO66COHI
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 [![](/uploads/capture.PNG){: width="206" height="43"}](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"}
 

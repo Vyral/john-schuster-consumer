@@ -23,9 +23,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/youtube-1-john-schuster-1.jpg
 youtube_code: mGsu3dfY-0M
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

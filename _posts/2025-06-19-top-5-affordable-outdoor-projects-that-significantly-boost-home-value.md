@@ -22,9 +22,9 @@ youtube_alternate_image: >-
   /uploads/top-5-affordable-outdoor-projects-that-significantly-boost-home-value.jpg
 youtube_code: eMtC-7TCJrY
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

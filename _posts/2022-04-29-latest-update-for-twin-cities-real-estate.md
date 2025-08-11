@@ -20,9 +20,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster---april-2022---1---youtub-e.jpeg
 youtube_code: nHSU0WlcCMw
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 It’s time for another Twin Cities real estate market update. As we’re sure you’ve been hearing, the market is at an imbalance both locally and nationally. **There is much higher buyer demand than available supply**. In many areas, the average home price is up 20% in just one year. That kind of appreciation usually takes a decade to occur.
 

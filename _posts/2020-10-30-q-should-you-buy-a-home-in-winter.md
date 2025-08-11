@@ -16,7 +16,8 @@ youtube_alternate_image:
 youtube_code: 1Wt7z_xl_7A
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 This has been a bizarre year for almost everything, and that includes the real estate world. Many homes are selling with multiple bids, and **buyers can truly get discouraged in this hot housing market.** If you’re one of those buyers, don’t be dismayed\! The great news is that one of the best times of year to be a buyer is just right around the corner.&nbsp;
 

@@ -20,7 +20,8 @@ youtube_alternate_image:
 youtube_code: rDwRT7Oc58g
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We’re continuing our Agent Spotlight series today with Tim Sabin, who has been with us for over two years. He's our director of leads and client engagement and one of our inside sales agents.
 

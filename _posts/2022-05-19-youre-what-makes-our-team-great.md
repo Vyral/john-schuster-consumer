@@ -16,9 +16,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-ss-yt1.jpeg
 youtube_code: K7lGomvOLEs
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We wanted to take a quick minute to thank you for your love and support. We pride ourselves on being the best boutique real estate group in the Twin Cities. We work hard to get our clients the best possible outcome, and we judge our success based on our clients’ success.
 

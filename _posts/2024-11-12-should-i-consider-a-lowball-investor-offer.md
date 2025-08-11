@@ -18,7 +18,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/john-schuster-thumbnail-1.jpg
 youtube_code:
 ---
-{% include excerpt.html %}
+
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

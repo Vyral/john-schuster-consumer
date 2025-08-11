@@ -15,9 +15,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/move-to-minnesota---yt---john-schuster-ss.jpg
 youtube_code: mxNKA5JMkM4
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Why do we run our business in the Twin Cities area? It’s simple: it’s an incredible place to live. If you’re considering relocating, we believe you should give the Twin Cities serious consideration, and today we’re sharing five reasons why:
 

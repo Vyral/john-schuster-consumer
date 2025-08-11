@@ -23,8 +23,8 @@ youtube_alternate_image: /uploads/john-schuster-youtube-1.jpg
 youtube_code: pMbFD52_y3w
 ---
 
-
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Why are home inspections important?
 

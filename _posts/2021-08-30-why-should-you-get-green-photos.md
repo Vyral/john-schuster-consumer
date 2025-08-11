@@ -17,9 +17,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/unnamed.jpg
 youtube_code: qcnozSuC4ic
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Are you thinking of selling your home in the next 12 months? We have one simple tip that can earn you thousands of dollars more when you sell.
 

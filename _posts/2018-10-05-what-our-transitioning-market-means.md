@@ -22,7 +22,8 @@ youtube_alternate_image:
 youtube_code: obVlKtACsnc
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 It’s okay, you can rest easy—our market’s not headed for another crash. However, I believe we’re starting to transition into more of a balanced market, and there are certain trends buyers and sellers need to be aware of.
 

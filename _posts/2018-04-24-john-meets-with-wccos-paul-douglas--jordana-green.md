@@ -27,7 +27,8 @@ youtube_alternate_image:
 youtube_code: nny5MYU66ys
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 \*As WCCO Radio’s Paul Douglas and Jordanna Green can attest, our comprehensive marketing strategy helps all of our clients sell their homes quickly and for top dollar. \*
 

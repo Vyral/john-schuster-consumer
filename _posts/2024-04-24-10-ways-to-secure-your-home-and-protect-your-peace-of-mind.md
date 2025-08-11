@@ -20,9 +20,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/4-24-24-yt-john-schuster.jpg
 youtube_code: NO7gDjwZMM0
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 {% include HVButton.html %}
 

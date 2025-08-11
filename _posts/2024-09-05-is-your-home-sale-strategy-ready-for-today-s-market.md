@@ -19,9 +19,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: YavrLS3WkJg
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 
 <div class="text-center"><a href="https://www.johnschustergroup.com/home_seller_forum" target="blank"><button type="button">Register Today</button></a></div>

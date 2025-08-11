@@ -19,8 +19,8 @@ youtube_alternate_image: /uploads/john-s-youtube-1.jpg
 youtube_code: Q6qWhReX9h4
 ---
 
-
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 What can you do to increase the value of your home?
 

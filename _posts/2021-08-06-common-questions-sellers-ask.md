@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /john-schuster---aug-2021---1---youtube.jpeg
 youtube_code: Pb2xRyfbL9w
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 In the current hot seller’s market, many people have been reaching out to ask for our help with their home sales. Today I’m answering the top three questions sellers ask us before we list their homes:
 

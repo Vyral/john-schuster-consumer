@@ -17,9 +17,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/john-schuster-screenshot-yt.jpg
 youtube_code: V-QyyqACPcE
 ---
-{% include youtube.html %}
 
-{% include excerpt.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 Summer has officially started, and we need to enjoy it before the snow starts falling again. Before that happens, let’s go over our summer market update.
 

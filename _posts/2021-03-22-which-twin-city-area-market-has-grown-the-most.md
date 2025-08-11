@@ -15,7 +15,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 60YHMbvQYho
 ---
-{% include youtube.html %}
+
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 <center><em>Here are the 10 hottest markets in the Twin Cities area.</em></center>
 

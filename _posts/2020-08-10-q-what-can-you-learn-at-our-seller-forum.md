@@ -18,7 +18,8 @@ youtube_alternate_image:
 youtube_code: OM1D2HTWrgQ
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 We have another home seller forum coming up, and you’re cordially invited to learn everything you need to know to boost your home sale by thousands of dollars.&nbsp;
 

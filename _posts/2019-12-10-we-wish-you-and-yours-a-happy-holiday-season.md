@@ -18,7 +18,8 @@ youtube_alternate_image: /uploads/john-schuster---dec-2019---1---email-edit4.jpg
 youtube_code: sHpyaxIO8Bc
 ---
 
-{% include youtube.html %}
+{% include author-box.html %}
+{% include cta-main-box.html %}
 
 The holidays are our absolute favorite time of the year\! In the spirit of the season, we would like to wish you all happy holidays and **thank you for your trust and support over the years.**&nbsp;We're honored to have one of the top real estate teams in the Twin Cities and lucky to be partnered with these top agents that help make our clients No. 1.&nbsp;
 
