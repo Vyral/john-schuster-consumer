@@ -351,60 +351,38 @@ photo_wall:
   enabled: true
   gap_size: 11
   images:
-    - path: /img/photo-wall/photo-wall-1.jpg
+    - path: /uploads/001.webp
       alt: Photo Wall Image 1
-    - path: /img/photo-wall/photo-wall-2.jpg
+    - path:/uploads/002.webp
       alt: Photo Wall Image 2
-    - path: /img/photo-wall/photo-wall-3.jpg
+    - path:/uploads/003.webp
       alt: Photo Wall Image 3
-    - path: /img/photo-wall/photo-wall-4.jpg
+    - path:/uploads/004.webp
       alt: Photo Wall Image 4
-    - path: /img/photo-wall/photo-wall-5.jpg
+    - path:/uploads/005.webp
       alt: Photo Wall Image 5
-    - path: /img/photo-wall/photo-wall-6.jpg
+    - path:/uploads/006.webp
       alt: Photo Wall Image 6
-    - path: /img/photo-wall/photo-wall-7.jpg
+    - path:/uploads/007.webp
       alt: Photo Wall Image 7
-    - path: /img/photo-wall/photo-wall-8.jpg
+    - path:/uploads/008.webp
       alt: Photo Wall Image 8
-    - path: /img/photo-wall/photo-wall-9.jpg
+    - path:/uploads/009.webp
       alt: Photo Wall Image 9
-    - path: /img/photo-wall/photo-wall-10.jpg
+    - path:/uploads/010.webp
       alt: Photo Wall Image 10
-    - path: /img/photo-wall/photo-wall-11.jpg
+    - path:/uploads/011.webp
       alt: Photo Wall Image 11
-    - path: /img/photo-wall/photo-wall-12.jpg
+    - path:/uploads/012.webp
       alt: Photo Wall Image 12
-    - path: /img/photo-wall/photo-wall-13.jpg
+    - path:/uploads/013.webp
       alt: Photo Wall Image 13
-    - path: /img/photo-wall/photo-wall-14.jpg
+    - path:/uploads/014.webp
       alt: Photo Wall Image 14
-    - path: /img/photo-wall/photo-wall-15.jpg
+    - path:/uploads/015.webp
       alt: Photo Wall Image 15
-    - path: /img/photo-wall/photo-wall-16.jpg
+    - path:/uploads/016.webp
       alt: Photo Wall Image 16
-    - path: /img/photo-wall/photo-wall-17.jpg
-      alt: Photo Wall Image 17
-    - path: /img/photo-wall/photo-wall-18.jpg
-      alt: Photo Wall Image 18
-    - path: /img/photo-wall/photo-wall-19.jpg
-      alt: Photo Wall Image 19
-    - path: /img/photo-wall/photo-wall-20.jpg
-      alt: Photo Wall Image 20
-    - path: /img/photo-wall/photo-wall-21.jpg
-      alt: Photo Wall Image 21
-    - path: /img/photo-wall/photo-wall-22.jpg
-      alt: Photo Wall Image 22
-    - path: /img/photo-wall/photo-wall-23.jpg
-      alt: Photo Wall Image 23
-    - path: /img/photo-wall/photo-wall-24.jpg
-      alt: Photo Wall Image 24
-    - path: /img/photo-wall/photo-wall-25.jpg
-      alt: Photo Wall Image 25
-    - path: /img/photo-wall/photo-wall-26.jpg
-      alt: Photo Wall Image 26
-    - path: /img/photo-wall/photo-wall-27.jpg
-      alt: Photo Wall Image 27
 images:
   navbar_logo_path: /uploads/john-schuster-logo-white.webp
   sidenav_logo_path: /uploads/john-schuster-logo-white.webp
