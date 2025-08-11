@@ -14,7 +14,7 @@ REQUIRED_bottom_mobile:
   font_color: '#ffffff'
   CTAs:
     cta_1_text: Free Selling Strategy Call
-    cta_1_link: '#'
+    cta_1_link: https://john-schuster-strategy-call.paperform.co/
     cta_2_text: Newsletter Signup
     cta_2_link: https://signup.e2ma.net/signup/1998681/1808265/
 client:
@@ -150,7 +150,7 @@ hero:
   subheader: We will help you sell your home at the price and terms you want
   subheader_color: '#ffffff'
   button_text: Free Selling Strategy Call
-  button_link: '#'
+  button_link: https://john-schuster-strategy-call.paperform.co/
   open_in_new_tab: true
   show_sidenav_link: true
   show_footer_link: true
