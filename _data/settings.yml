@@ -1,7 +1,8 @@
-title: Your Website Title Goes Here
+title: John Schuster Group | Real Estate Services in the Twin Cities
 description: >-
-  This is where you put a short description of your website, between 150-160
-  characters.
+  Looking to buy or sell a home in the Twin Cities? The John Schuster Group at
+  Coldwell Banker Realty provides expert real estate services. Get a home
+  valuation today!
 keywords: keyword1, keyword2, keyword3
 share_image: /img/share-image.jpg
 REQUIRED_bottom_mobile:
@@ -101,7 +102,7 @@ nav_USP_statement:
 hero:
   video:
     enabled: true
-    path: /uploads/houses-video.mp4
+    path: /uploads/john-schuster-hero-bg.mp4
     use_overlay: true
     overlay-intensity: 0.5
   hero_image: /img/gray.png
@@ -296,12 +297,16 @@ testimonials:
   font_color: '#000000'
   quotes:
     - text: >-
-        "You'll put a client testimonial here of one of your best customers that
-        shares the problem they had before they hired you and the benefits of
-        you solving it."
-      name: John Doe
+        "Great Company and John was very helpful and knowledgeable. Selling a
+        home is a confusing and complicated process but John was there every
+        step of the way with guidance and advice, the end result was a smooth
+        and simple process that got my property sold for more than the asking
+        price in a really short amount of time. All this has convinced me that
+        when I am ready to purchase another property John and JSG will be my
+        first and only call."
+      name: Josef P.
       video:
-        enabled: true
+        enabled: false
         path: /uploads/testimonial-1.mp4
       image: /img/16x9-placeholder.png
       link: '#'
