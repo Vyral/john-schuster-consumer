@@ -506,7 +506,7 @@ podcast:
   image: /uploads/john-schuster-podcast.jpg
   categories:
     - Business
-  apple_podcast_link:
+  apple_podcast_link: https://podcasts.apple.com/us/podcast/the-john-schuster-podcast/id1832501844
   client_website_URL: https://fleek-hornet.cloudvent.net
   host:
     image:
