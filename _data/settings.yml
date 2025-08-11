@@ -100,7 +100,7 @@ sidebar_ads:
       button_text: CTA Button
       url: '#'
 nav_USP_statement:
-  text: What Makes You Unique Goes Here
+  text: A Fast, Stress-Free Home Sale
 hero:
   video:
     enabled: true
@@ -505,8 +505,14 @@ code:
   meta_pixel_code:
 podcast:
   title: The John Schuster Podcast
-  subtitle: Podcast Subtitle
-  description: 'This is where you put a description of your podcast. '
+  subtitle: >-
+    Looking to buy or sell a home in the Twin Cities? The John Schuster Group at
+    Coldwell Banker Realty provides expert real estate services. Get a home
+    valuation today!
+  description: >-
+    Looking to buy or sell a home in the Twin Cities? The John Schuster Group at
+    Coldwell Banker Realty provides expert real estate services. Get a home
+    valuation today!
   author: Realtor & Team Leader at The John Schuster Group
   author_email: john@johnschustergroup.com
   image: /uploads/john-schuster-podcast.jpg
