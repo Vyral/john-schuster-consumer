@@ -248,8 +248,8 @@ about:
     image: /img/stone-wall.jpg
     overlay_color: rgba(0, 0, 0, 0.8)
   background_color: '#000000'
-  headline: Why Hire Us Headline
-  subheadline: Explain what you do in 1 short sentence
+  headline: Honesty. Trust. Reputation.
+  subheadline: I’ll price your home competitively and attract the perfect buyer
   video:
     enabled: true
     youtube_code: J8cLpvSXnK0
@@ -258,39 +258,32 @@ about:
     path: /img/placeholder-video.jpg
     width: 800
   markdown: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in massa id
-    sem tincidunt tempor. Nunc porttitor neque convallis, pulvinar sapien sit
-    amet, interdum velit. Sed commodo eros mi, nec finibus dui dapibus ac. In
-    lobortis elit a nisl vulputate vulputate. Morbi aliquam consequat sapien
-    imperdiet pellentesque. Cras ac cursus erat. Ut non quam imperdiet, gravida
-    nisl ac, ultricies nulla. Duis pulvinar placerat mauris in iaculis. Nulla
-    nunc velit, ullamcorper ut egestas sit amet, sodales quis tortor. Nunc
-    commodo ornare commodo. In hac habitasse platea dictumst. Pellentesque
-    maximus vel elit at imperdiet. Vivamus quis bibendum metus. Curabitur ac
-    nulla quam. Donec felis nunc, interdum a turpis id, placerat vulputate
-    ipsum. Sed eu lectus tempus, congue nisl a, scelerisque dui. Praesent sed
-    elit a elit dapibus aliquam. Sed vulputate, ex quis fringilla suscipit, urna
-    nunc convallis magna.
+    Are you thinking about selling your home here in the Twin Cities? There are
+    a lot of ways to do that now, and I’ll help you understand all your options.
+    It starts with a home selling strategy call so I can better understand your
+    needs, goals, and timeline for your move. I also want to see the condition
+    and unique features of your home. Once I have that research, I can help you
+    understand what program is best for you.
 
 
-    1. List item.
-
-    2. List item.
-
-    3. List item.
-
-    4. List item.
-
-    5. List item.
+    Maybe it’s an upfront cash offer with the best terms, or possibly we remodel
+    it to attract the modern buyer, or we can list it traditionally as is with
+    beautiful marketing. I also have loan programs to help you buy your next
+    home before you sell so it’s not so stressful when it comes to timing your
+    sale.
 
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam in massa id
-    sem tincidunt tempor. Nunc porttitor neque convallis, pulvinar sapien sit
-    amet, interdum velit. Sed commodo eros mi, nec finibus dui dapibus ac. In
-    lobortis elit a nisl vulputate vulputate. Morbi aliquam consequat sapien
-    imperdiet pellentesque. Cras ac cursus erat. Ut non quam imperdiet, gravida
-    nisl ac, ultricies nulla. Duis pulvinar placerat mauris in iaculis. Nulla
-    nunc velit, ullamcorper ut egestas sit amet, sodales quis tortor.
+    I’ve been selling real estate for 15 years here in the Twin Cities area with
+    5,000 transitions under my belt and 568 reviews on Google and Zillow. If
+    it’s time to sell your home, I can deliver you a fast, stress-free home sale
+    with the confidence you need to move on with your life.
+
+
+    You can subscribe to my Twin Cities area real estate newsletter so we can
+    get to know each other, you can request a free home value estimate so we
+    know what your home will sell for today, or book a free home selling
+    strategy call with me to get the process started where I first learn all I
+    can about when and why you want to sell your home.
 benefits_section:
   enabled: true
   background_color: white
