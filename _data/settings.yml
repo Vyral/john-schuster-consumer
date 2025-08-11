@@ -53,16 +53,17 @@ CTAS:
     show_footer_link: true
     add_button_to_hero: false
 sidebar_CTAs:
-  - title: 'Call to Action #2 '
+  - title: What’s Your Twin Cities Home Worth?
     video:
-      enabled: true
+      enabled: false
       path: /uploads/CTA2.mp4
     image: /img/dummy-image.png
     text: >-
-      You have under 160 characters to explain exactly what someone will get
-      when they take your call to an action.
-    button_text: 'CTA Button #2'
-    url: https://vyraltemplate.paperform.co/
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you
+    button_text: Free Twin Cities Home Value Report
+    url: >-
+      https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369
     open_in_new_tab: true
     show_sidenav_link: true
     show_footer_link: true
