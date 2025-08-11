@@ -286,16 +286,16 @@ about:
     can about when and why you want to sell your home.
 benefits_section:
   enabled: true
-  background_color: white
+  background_color: '#ffffff'
   font_color: '#212121'
-  header: Main Benefit Statement Goes Here
-  subheader: Repeat what makes you unique to customers here in this subheadline
-  benefit_1: A top benefit of your service goes here
-  benefit_2: A top benefit of your service goes here
-  benefit_3: A top benefit of your service goes here
-  benefit_4: A top benefit of your service goes here
+  header: Sell Your Home With Confidence
+  subheader: We will handle everything to close on time at your price and terms
+  benefit_1: We will help you price your home competitively
+  benefit_2: We will help you market your home to potential buyers
+  benefit_3: We will help you sell your home within a specific timeframe
+  benefit_4: We will help you navigate the paperwork and negotiations to settlement
   icon_image: /img/checkmark.png
-  svg_icon_color: gray
+  svg_icon_color: '#808080'
 testimonials:
   enabled: true
   header_text: What Our Clients Are Saying...
