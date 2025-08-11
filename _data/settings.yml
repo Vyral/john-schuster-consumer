@@ -320,7 +320,7 @@ testimonials:
       video:
         enabled: false
         path: /uploads/testimonial-1.mp4
-      image: /img/16x9-placeholder.png
+      image: /uploads/john-schuster-testimonials1-img.webp
       link: '#'
     - text: >-
         "My husband and I worked with The John Schuster Group over the past
@@ -333,7 +333,7 @@ testimonials:
       video:
         enabled: false
         path: /uploads/testimonial-2.mp4
-      image: /img/16x9-placeholder.png
+      image: /uploads/john-schuster-testimonials2-img.webp
       link: '#'
     - text: >-
         "The John Schuster Group was really wonderful at navigating a
@@ -345,7 +345,7 @@ testimonials:
       video:
         enabled: false
         path: /uploads/testimonial-3.mp4
-      image: /img/16x9-placeholder.png
+      image: /uploads/john-schuster-testimonials3-img.webp
       link: '#'
 photo_wall:
   enabled: true
