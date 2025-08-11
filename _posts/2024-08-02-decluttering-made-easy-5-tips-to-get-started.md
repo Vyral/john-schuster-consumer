@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Decluttering Made Easy: 5 Tips to Get Started'
 date: 2024-08-02 07:00:00
 excerpt: Learn how to declutter your home for a cleaner space with these tips.

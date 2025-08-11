@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: What Are We Most Thankful for This Holiday Season?
 date: 2020-12-16 21:09:00
 tags:

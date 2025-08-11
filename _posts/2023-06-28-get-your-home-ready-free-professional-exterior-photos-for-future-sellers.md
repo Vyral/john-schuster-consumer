@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Get Your Home Ready: Free Professional Exterior Photos for Future Sellers'
 date: 2023-07-10 00:00:00
 tags:

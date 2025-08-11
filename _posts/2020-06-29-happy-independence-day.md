@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Happy Independence Day!
 date: 2020-06-29 18:31:00
 tags:

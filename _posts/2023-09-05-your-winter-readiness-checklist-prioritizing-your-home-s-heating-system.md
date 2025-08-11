@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Your Winter Readiness Checklist: Prioritizing Your Home''s Heating System'
 date: 2023-09-05 00:00:00
 tags:

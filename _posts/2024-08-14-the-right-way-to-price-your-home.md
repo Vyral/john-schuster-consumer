@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: The Right Way To Price Your Home
 date: 2024-08-14 07:00:00
 excerpt: >-

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Talking Sports, the Holidays, and Real Estate With Michele Tafoya'
 date: 2018-12-17 20:54:00
 tags:

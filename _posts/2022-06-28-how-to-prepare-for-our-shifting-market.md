@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: How To Prepare for Our Shifting Market
 date: 2022-06-28 19:39:53
 tags:

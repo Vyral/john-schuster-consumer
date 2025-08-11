@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Your 2019 Minute Market Update
 date: 2019-09-03 15:14:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why We’re Thankful for You This Year
 date: 2018-11-16 22:11:47
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: We’re Now Serving Clients in the Brainerd Lakes Area
 date: 2021-04-26 13:17:00
 tags:

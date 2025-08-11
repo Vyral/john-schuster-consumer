@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why Spring Home Values Are Soaring Right Now
 date: 2025-03-19 00:00:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Learn How to Sell Quickly and For Top Dollar at Our Home Seller Forum
 date: 2019-08-02 19:07:00
 tags:

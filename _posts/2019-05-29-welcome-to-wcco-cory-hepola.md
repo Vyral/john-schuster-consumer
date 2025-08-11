@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Welcome to WCCO Cory Hepola
 date: 2019-05-29 02:39:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: What Do Experts Forecast for the 2025 Housing Market?
 date: 2024-11-12 07:00:00
 tags:

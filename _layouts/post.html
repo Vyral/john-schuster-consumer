@@ -13,10 +13,26 @@
 				<div class="row post-container">
 
 					<h1 class="post-title" itemprop="name headline">{{page.title}}</h1>
-					<h2 class="post-subtitle" itemprop="description subheadline">{{page.subtitle}}</h2>
+
+					{% if page.subtitle != null %}
+						<h2 class="post-subtitle" itemprop="description subheadline">{{page.subtitle}}</h2>	
+					{% elsif page.subtitle == null and page.excerpt != null %}
+						<h2 class="post-subtitle" itemprop="description subheadline">{{page.excerpt}}</h2>
+					{% endif %}
+
+					{% if page.subtitle == null and page.excerpt == null %}
+						<h2 class="post-subtitle" itemprop="description subheadline">{{page.pullquote}}</h2>
+					{% endif %}		
+
 					<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 						<div class="twelve columns post-content" itemprop="articleBody">
+							{% if page.youtube_code != null %}
+								{% include youtube.html %}
+							{% endif %}	
+
 							{{ content }}
+							
+							{% include cta-content-box.html %}
 							{% include more-posts.html %}
 						</div>
 					</article>

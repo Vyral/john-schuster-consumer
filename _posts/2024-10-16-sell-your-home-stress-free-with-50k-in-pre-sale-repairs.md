@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Sell Your Home Stress-Free with up to $50,000 in Pre-Sale Repairs
 date: 2024-10-16 07:00:00
 tags:

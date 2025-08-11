@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Pizza Lovers: Have You Visited Pizza Karma Yet?'
 date: 2019-10-17 16:03:00
 tags:

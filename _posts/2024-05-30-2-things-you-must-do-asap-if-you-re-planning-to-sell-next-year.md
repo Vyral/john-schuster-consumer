@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 2 Things You Must Do ASAP If You’re Planning To Sell Next Year
 date: 2024-05-30 00:00:00
 tags:

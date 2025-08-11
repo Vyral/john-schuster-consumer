@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why Was I So Excited to See Jordana and Paul?
 date: 2019-01-29 21:49:00
 tags:

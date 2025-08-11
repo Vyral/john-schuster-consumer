@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Learn How to Maximize Your Home Sale at Our Upcoming Forum
 date: 2018-08-21 14:00:00
 tags:

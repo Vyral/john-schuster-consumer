@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Secure Your Future: Start Building Your Rental Portfolio Today'
 date: 2023-08-03 00:00:00
 tags:

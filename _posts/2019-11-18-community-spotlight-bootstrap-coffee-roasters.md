@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Community Spotlight: Bootstrap Coffee Roasters'
 date: 2019-11-18 00:00:00
 tags:

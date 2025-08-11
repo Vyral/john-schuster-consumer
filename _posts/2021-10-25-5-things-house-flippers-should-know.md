@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 5 Things House Flippers Should Know
 date: 2021-10-25 19:25:33
 tags:

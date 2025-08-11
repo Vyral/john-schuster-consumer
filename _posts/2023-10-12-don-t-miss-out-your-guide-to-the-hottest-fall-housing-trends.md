@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Don’t Miss Out: Your Guide to the Hottest Fall Housing Trends!'
 date: 2023-10-12 00:00:00
 tags:

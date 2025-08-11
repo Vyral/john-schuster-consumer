@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Making Real Estate a Family Business
 date: 2022-06-21 20:53:03
 tags:

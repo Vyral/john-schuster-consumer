@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Have You Heard of Our RealVitalize Program?
 date: 2020-03-23 18:14:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: How Can You Protect Your Home Before Winter Hits?
 date: 2024-09-03 07:00:00
 tags:

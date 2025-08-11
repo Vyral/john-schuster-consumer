@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why We Love Having Tammy Sessa on Our Team
 date: 2020-03-30 17:32:00
 tags:

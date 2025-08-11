@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Preparing for Sale: The Five Things You Need To Do'
 date: 2023-04-04 00:00:00
 tags:

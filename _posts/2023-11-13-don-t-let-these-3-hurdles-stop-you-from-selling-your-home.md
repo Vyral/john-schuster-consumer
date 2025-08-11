@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Don’t Let These 3 Hurdles Stop You From Selling Your Home
 date: 2023-11-13 10:00:00
 tags:

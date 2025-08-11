@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Get Your Tickets Now for This Month’s Home Seller Forum
 date: 2019-12-19 19:14:00
 tags:

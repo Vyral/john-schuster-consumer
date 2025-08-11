@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Your Autumn Maintenance Checklist
 date: 2020-09-25 15:18:33
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Summer-Proof Your Home: 5 Essential Tasks for a Hot Season in Minnesota!'
 date: 2023-06-13 00:00:00
 tags:

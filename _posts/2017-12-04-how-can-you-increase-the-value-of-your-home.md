@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: How Can You Increase the Value of Your Home?
 date: 2017-12-04 14:35:00
 tags:

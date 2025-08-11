@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Top 5 Tips To Maximize Your Home's Sale Price
 date: 2025-07-14 00:00:00
 tags:

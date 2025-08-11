@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: The Twin Cities Market Is Red-Hot
 date: 2018-02-28 13:55:00
 tags:

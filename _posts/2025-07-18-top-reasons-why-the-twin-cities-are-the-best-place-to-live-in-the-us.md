@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Top Reasons Why the Twin Cities Are the Best Place to Live in the US
 date: 2025-07-18 00:00:00
 tags:

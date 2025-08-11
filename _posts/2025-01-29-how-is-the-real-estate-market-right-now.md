@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 2024 Twin Cities Housing Market Recap & 2025 Outlook
 date: 2025-01-29 00:00:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why We Love Having Sterling Donley on Our Team
 date: 2019-10-29 18:27:00
 tags:

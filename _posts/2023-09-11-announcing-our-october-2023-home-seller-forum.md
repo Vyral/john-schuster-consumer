@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Announcing Our October 2023 Home Seller Forum
 date: 2023-09-19 00:00:00
 tags:

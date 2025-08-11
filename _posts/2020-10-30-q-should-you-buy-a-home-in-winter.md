@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Q: Should You Buy a Home in Winter?'
 date: 2020-10-30 21:56:00
 tags:

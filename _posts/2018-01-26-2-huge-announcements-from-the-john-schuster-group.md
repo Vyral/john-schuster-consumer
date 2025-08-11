@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 2 Huge Announcements from the John Schuster Group
 date: 2018-01-26 12:51:58
 tags:

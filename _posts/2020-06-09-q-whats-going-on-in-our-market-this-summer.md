@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Q: What’s Going on in Our Market This Summer?'
 date: 2020-06-09 20:26:00
 tags:

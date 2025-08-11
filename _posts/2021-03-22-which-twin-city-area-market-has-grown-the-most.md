@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Which Twin City Area Market Has Grown the Most?
 date: 2021-03-22 13:30:00
 tags:

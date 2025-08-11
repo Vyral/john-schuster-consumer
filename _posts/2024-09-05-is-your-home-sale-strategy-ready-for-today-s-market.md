@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: You are invited to our Home Seller Seminar hosted by Paul Douglas
 date: 2024-09-05 07:00:00
 tags:

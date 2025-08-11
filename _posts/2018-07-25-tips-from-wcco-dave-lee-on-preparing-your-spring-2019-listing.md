@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Tips From WCCO Dave Lee on Preparing Your Spring 2019 Listing
 date: 2018-07-25 12:30:00
 tags:

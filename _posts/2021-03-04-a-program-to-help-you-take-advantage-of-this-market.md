@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: A Program to Help You Take Advantage of This Market
 date: 2021-03-04 00:00:00
 tags:

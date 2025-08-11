@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Our Twin Cities Spring Market
 date: 2020-03-03 19:19:51
 tags:

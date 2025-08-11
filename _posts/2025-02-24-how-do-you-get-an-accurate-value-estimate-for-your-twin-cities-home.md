@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: How Do You Get an Accurate Value Estimate for Your Twin Cities Home?
 date: 2025-02-24 00:00:00
 tags:

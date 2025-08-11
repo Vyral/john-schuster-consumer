@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Common Questions Sellers Ask
 date: 2021-08-06 14:52:41
 excerpt: Here are the three most common questions sellers ask and what we tell them.

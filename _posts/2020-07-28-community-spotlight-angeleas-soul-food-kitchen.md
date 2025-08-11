@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Community Spotlight: Angelea’s Soul Food Kitchen'
 date: 2020-07-28 17:17:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Q: Are You Ready for This Fall Market?'
 date: 2020-09-02 18:55:13
 tags:

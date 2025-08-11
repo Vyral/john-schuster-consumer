@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Agent Spotlight: Cassidy LeDuc'
 date: 2019-06-10 00:00:00
 tags:

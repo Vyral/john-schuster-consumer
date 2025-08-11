@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: One Way That The John Schuster Group Is Giving Back
 date: 2018-11-08 19:19:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Twin Cities Homeowners: Is Now the Time to Sell?'
 date: 2024-03-22 00:00:00
 tags:

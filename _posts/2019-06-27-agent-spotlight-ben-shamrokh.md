@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Agent Spotlight: Ben Shamrokh'
 date: 2019-06-27 21:38:00
 tags:

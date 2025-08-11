@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: We Wish You and Yours a Happy Holiday Season
 date: 2019-12-10 21:43:00
 tags:

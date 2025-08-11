@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: A Quick Real Estate Market Update for You
 date: 2019-11-26 22:08:00
 tags:

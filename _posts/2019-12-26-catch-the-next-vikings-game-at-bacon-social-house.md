@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Catch the Next Vikings Game at Bacon Social House
 date: 2019-12-26 22:00:00
 tags:

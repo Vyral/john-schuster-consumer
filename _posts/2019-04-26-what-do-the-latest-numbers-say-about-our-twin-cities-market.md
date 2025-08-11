@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: What Do the Latest Numbers Say About Our Twin Cities Market?
 date: 2019-04-26 18:32:00
 tags:

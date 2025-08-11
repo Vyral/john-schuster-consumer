@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: The Benefits of ISAs to Buyers and Sellers
 date: 2018-05-23 14:35:00
 tags:

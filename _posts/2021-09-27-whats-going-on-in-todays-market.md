@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: What’s Going on in Today’s Market?
 date: 2021-09-27 14:53:27
 tags:

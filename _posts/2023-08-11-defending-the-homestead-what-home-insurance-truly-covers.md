@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Defending the Homestead: What Home Insurance Truly Covers'
 date: 2023-08-11 00:00:00
 tags:

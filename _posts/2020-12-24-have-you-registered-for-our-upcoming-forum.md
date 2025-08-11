@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Have You Registered for Our Upcoming Forum?
 date: 2020-12-24 00:29:00
 tags:

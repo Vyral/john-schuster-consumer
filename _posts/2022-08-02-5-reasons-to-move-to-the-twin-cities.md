@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 5 Reasons To Move to the Twin Cities
 date: 2022-08-02 22:58:50
 tags:

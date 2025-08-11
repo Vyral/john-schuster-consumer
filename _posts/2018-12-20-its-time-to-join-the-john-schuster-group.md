@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: It’s Time to Join the John Schuster Group
 date: 2018-12-20 23:15:06
 tags:

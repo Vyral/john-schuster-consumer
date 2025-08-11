@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: The Top 10 Inspection Items to Be Aware of
 date: 2021-05-26 12:52:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Getting to Know Kieren Evensen
 date: 2019-03-26 16:51:00
 tags:

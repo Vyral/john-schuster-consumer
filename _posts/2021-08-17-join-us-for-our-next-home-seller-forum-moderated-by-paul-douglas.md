@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Join us for our next Home Seller Forum moderated by Paul Douglas
 date: 2021-08-17 15:27:33
 tags:

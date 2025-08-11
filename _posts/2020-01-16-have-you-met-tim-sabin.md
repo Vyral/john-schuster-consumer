@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Have You Met Tim Sabin?
 date: 2020-01-16 19:50:00
 tags:

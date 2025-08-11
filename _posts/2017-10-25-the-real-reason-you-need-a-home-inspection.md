@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: The Real Reason You Need a Home Inspection
 date: 2017-10-25 13:33:00
 tags:

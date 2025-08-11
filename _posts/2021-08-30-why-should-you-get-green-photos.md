@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why Should You Get Green Photos?
 date: 2021-08-30 17:47:34
 tags:

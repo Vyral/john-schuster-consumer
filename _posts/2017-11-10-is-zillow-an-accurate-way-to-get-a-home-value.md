@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Is Zillow an Accurate Way to Get a Home Value?
 date: 2017-11-10 10:44:00
 tags:

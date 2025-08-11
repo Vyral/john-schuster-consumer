@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why Is Spring the Best Time To Sell Your Home?
 date: 2025-01-02 07:00:00
 tags:

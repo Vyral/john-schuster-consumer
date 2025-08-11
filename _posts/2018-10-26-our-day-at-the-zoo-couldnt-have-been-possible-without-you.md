@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Our Day at the Zoo Couldn’t Have Been Possible Without You
 date: 2018-10-26 20:37:58
 tags:

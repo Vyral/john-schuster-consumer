@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'New Homeowners: Don’t Forget These 7 Tips'
 date: 2018-04-04 16:22:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: When Is the Right Time To Buy or Sell?
 date: 2024-02-06 10:00:00
 tags:

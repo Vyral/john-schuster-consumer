@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Q: Are Green Photos Part of Your Home Prep Plan?'
 date: 2020-07-15 13:39:00
 tags:

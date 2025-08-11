@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: How Is the Greater Twin Cities Housing Market Performing in 2025?
 date: 2025-06-10 00:00:00
 tags:

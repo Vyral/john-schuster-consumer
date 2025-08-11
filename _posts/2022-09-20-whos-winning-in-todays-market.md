@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Who’s Winning In Today’s Market?
 date: 2022-09-20 00:00:00
 tags:

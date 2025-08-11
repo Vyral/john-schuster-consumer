@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Meet Rockstar Agent Andy Baker
 date: 2019-02-14 17:02:30
 tags:

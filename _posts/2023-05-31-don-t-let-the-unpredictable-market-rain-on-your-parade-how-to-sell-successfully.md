@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: >-
   Don’t Let the Unpredictable Market Rain on Your Parade: How To Sell
   Successfully

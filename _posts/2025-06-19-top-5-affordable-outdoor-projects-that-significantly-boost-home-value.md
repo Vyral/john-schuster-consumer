@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Top 5 Affordable Outdoor Projects That Significantly Boost Home Value
 date: 2025-06-30 00:00:00
 tags:

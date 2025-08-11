@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Latest Update for Twin Cities Real Estate
 date: 2022-04-29 15:13:15
 tags:

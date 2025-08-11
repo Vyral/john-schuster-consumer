@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Happy Holidays From the Schuster Group
 date: 2017-12-15 10:30:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: A Market Update as We Head Into Spring
 date: 2019-03-14 16:57:00
 tags:

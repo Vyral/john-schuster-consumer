@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why You Need a Buyer Consultation Before Buying a Home
 date: 2025-04-28 00:00:00
 tags:

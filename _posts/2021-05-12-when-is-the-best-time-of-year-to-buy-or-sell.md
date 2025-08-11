@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: When Is the Best Time of Year to Buy or Sell?
 date: 2021-05-12 18:25:00
 tags:

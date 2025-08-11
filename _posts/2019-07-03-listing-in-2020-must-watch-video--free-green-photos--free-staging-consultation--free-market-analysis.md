@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: >-
   Listing in 2020? Must Watch Video = Free Green Photos + Free Staging
   Consultation + Free Market Analysis

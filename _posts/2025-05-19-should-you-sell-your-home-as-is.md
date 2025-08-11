@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Should You Sell Your Home As-Is?
 date: 2025-05-19 00:00:00
 tags:

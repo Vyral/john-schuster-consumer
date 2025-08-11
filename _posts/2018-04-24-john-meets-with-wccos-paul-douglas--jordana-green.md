@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: John Meets with WCCO’s Paul Douglas & Jordana Green
 date: 2018-04-24 14:59:00
 tags:

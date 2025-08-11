@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: We'd Like to Thank You for Your Support
 date: 2018-03-16 16:20:00
 tags:

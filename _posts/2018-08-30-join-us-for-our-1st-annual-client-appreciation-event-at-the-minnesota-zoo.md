@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Join Us for Our 1st Annual Client Appreciation Event at the Minnesota Zoo
 date: 2018-08-30 13:30:00
 tags:

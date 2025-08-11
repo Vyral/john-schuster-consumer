@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: John Schuster Talks with KQRS Morning Show Co-Host Michele Tafoya
 date: 2018-05-07 15:55:00
 tags:

@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: What Our Transitioning Market Means
 date: 2018-10-05 19:52:00
 tags:

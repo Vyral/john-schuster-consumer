@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: What Will the Real Estate Market Look Like in 2021?
 date: 2021-01-21 20:11:00
 tags:

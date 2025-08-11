@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Your Simple Guide To Selling Your Home ASAP
 date: 2023-10-30 10:00:00
 tags:

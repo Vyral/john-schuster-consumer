@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Have You Heard of Our Guaranteed Sale Program?
 date: 2019-01-14 17:37:00
 tags:

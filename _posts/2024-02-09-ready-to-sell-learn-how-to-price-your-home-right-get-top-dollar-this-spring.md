@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Ready To Sell? Learn How To Price Your Home Right & Get Top Dollar This Spring
 date: 2024-02-20 00:00:00
 tags:

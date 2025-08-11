@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Get to Know Rockstar Lender Ali Reda
 date: 2020-02-14 15:17:00
 tags:

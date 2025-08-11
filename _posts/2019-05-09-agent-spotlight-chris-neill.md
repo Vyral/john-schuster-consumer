@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Agent Spotlight: Chris Neill'
 date: 2019-05-09 17:56:00
 tags:

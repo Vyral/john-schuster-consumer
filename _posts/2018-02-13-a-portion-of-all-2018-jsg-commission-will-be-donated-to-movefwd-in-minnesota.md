@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: A Portion Of All 2018 JSG Commission Will Be Donated To MoveFwd in Minnesota
 date: 2018-02-13 17:00:00
 tags:

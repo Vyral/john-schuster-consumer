@@ -28,5 +28,5 @@ First half of blog post
 
 Second half of blog post
 
-{% include cta-content-box.html %}
+
 

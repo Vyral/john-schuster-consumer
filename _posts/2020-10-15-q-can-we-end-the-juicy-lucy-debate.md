@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Q: Can We End the Juicy Lucy Debate?'
 date: 2020-10-15 14:17:00
 tags:

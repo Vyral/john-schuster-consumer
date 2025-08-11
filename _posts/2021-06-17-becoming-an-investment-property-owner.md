@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Becoming an Investment Property Owner
 date: 2021-06-17 00:00:00
 tags:

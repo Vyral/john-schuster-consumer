@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Full Exterior Photography
 date: 2021-07-19 19:48:44
 tags:

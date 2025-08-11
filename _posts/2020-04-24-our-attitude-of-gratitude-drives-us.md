@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Our Attitude of Gratitude Drives Us
 date: 2020-04-24 18:12:00
 tags:

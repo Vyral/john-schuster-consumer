@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Unmapped Brewing Is a Beer Connoisseur’s Delight
 date: 2020-02-03 15:54:00
 tags:

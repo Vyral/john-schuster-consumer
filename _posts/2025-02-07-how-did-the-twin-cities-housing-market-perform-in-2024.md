@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: How Did the Twin Cities Housing Market Perform in 2024?
 date: 2025-02-07 00:00:00
 tags:

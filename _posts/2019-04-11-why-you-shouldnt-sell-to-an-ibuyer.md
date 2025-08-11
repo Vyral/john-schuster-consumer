@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why You Shouldn’t Sell to an iBuyer
 date: 2019-04-11 19:51:00
 tags:

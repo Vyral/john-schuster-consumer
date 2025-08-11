@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Could You Be the Next Rockstar Agent to Join Our Team?
 date: 2018-07-11 10:00:00
 tags:

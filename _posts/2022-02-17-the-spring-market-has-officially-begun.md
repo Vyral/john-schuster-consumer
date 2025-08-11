@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: The Spring Market Has Officially Begun
 date: 2022-02-17 00:00:00
 tags:

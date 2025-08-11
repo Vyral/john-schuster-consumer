@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 5 Reasons Your Home Isn’t Selling
 date: 2024-08-30 07:00:00
 excerpt: Overpricing and poor timing can impact your home’s listing time.

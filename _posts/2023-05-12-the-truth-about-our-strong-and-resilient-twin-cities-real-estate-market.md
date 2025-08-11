@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: The Truth About Our Strong and Resilient Twin Cities Real Estate Market
 date: 2023-05-12 00:00:00
 tags:

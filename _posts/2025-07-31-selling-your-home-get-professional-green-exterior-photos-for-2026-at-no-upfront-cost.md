@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: >-
   Selling Your Home? Get Professional Green Exterior Photos For 2026 at No
   Upfront Cost

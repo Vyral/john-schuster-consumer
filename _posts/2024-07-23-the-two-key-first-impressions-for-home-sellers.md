@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: The Two Key First Impressions for Home Sellers
 date: 2024-07-23 07:00:00
 excerpt: Learn the two critical first impressions that can sell your home faster.

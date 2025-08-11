@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Here Is to Life, Liberty, and the Pursuit of Happiness'
 date: 2018-06-25 11:30:00
 tags:

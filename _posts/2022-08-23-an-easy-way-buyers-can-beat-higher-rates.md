@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: An Easy Way Buyers Can Beat Higher Rates
 date: 2022-08-23 00:00:00
 tags:

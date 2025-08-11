@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Getting to Know Cory Hepola at the State Fair
 date: 2019-09-13 18:36:00
 tags:

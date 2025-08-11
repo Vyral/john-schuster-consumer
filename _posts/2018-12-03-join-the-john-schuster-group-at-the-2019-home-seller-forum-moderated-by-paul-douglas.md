@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: >-
   Join The John Schuster Group at the 2019 Home Seller Forum moderated by Paul
   Douglas

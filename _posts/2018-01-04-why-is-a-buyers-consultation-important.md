@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why Is a Buyer’s Consultation Important?
 date: 2018-01-04 11:13:00
 tags:

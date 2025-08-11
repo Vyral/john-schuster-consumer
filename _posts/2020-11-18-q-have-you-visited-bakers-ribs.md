@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 'Q: Have You Visited Baker’s Ribs?'
 date: 2020-11-18 21:09:00
 tags:

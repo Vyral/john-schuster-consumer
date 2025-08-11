@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: What Food Should You Try at the State Fair?
 date: 2022-02-01 15:59:05
 tags:

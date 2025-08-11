@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Twin Cities Median Home Prices
 date: 2021-07-27 15:44:05
 tags:

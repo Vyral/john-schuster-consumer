@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Help Us Support Local Businesses!
 date: 2020-03-12 20:44:00
 tags:

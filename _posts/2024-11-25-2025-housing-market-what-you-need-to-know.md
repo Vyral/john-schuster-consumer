@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: '2025 Housing Market: What You Need to Know'
 date: 2024-11-25 07:00:00
 tags:

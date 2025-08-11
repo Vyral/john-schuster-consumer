@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: 4 Surefire Ways to Strengthen Your Offer
 date: 2021-04-02 20:32:00
 tags:

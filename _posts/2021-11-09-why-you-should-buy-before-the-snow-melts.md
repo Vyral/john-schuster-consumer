@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: Why You Should Buy Before the Snow Melts
 date: 2021-11-09 17:15:58
 tags:

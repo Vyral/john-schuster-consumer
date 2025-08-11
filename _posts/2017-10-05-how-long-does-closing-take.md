@@ -1,5 +1,8 @@
 ---
+publish_as_a_podcast: false
 layout: post
+episode_description:
+subtitle:
 title: How Long Does Closing Take?
 date: 2017-10-05 00:00:00
 tags:
