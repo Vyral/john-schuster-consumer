@@ -1,7 +1,9 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
-episode_description:
+episode_description: >-
+  Professional green exterior photos taken early help you showcase your home in
+  its best light and attract more buyers when the 2026 market opens.
 subtitle:
 title: >-
   Selling Your Home? Get Professional Green Exterior Photos For 2026 at No
@@ -12,18 +14,16 @@ tags:
 excerpt: >-
   Professional green exterior photos taken early help you showcase your home in
   its best light and attract more buyers when the 2026 market opens.
-enclosure:
+enclosure: https://example.com/podcast.mp4
 pullquote:
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '5650889'
 use_youtube_image: true
 youtube_alternate_image: >-
   /uploads/top-reasons-why-the-twin-cities-are-the-best-place-to-live-in-the-us.jpg
 youtube_code: auF58_HXiR4
 ---
-
-{% include author-box.html %}
-{% include cta-main-box.html %}
+{% include author-box.html %} {% include cta-main-box.html %}
 
 {% include HVButton.html %}
 
