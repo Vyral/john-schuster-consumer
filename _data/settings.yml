@@ -16,7 +16,7 @@ REQUIRED_bottom_mobile:
     cta_1_text: 'Call to Action #1'
     cta_1_link: '#'
     cta_2_text: Newsletter Signup
-    cta_2_link: '#'
+    cta_2_link: https://signup.e2ma.net/signup/1998681/1808265/
 client:
   name: John Schuster
   brand: The John Schuster Group
@@ -77,6 +77,18 @@ sidebar_CTAs:
     button_text: Search the MLS
     url: >-
       https://www.johnschustergroup.com/search#?q_limit=36&q_prioritize=agents.0.id=502019815&mlsId=117&price=50000:&status=1|3&q_sort=featured&q_offset=0
+    open_in_new_tab: true
+    show_sidenav_link: true
+    show_footer_link: true
+    add_button_to_hero: false
+  - title: Free Real Estate Newsletter
+    video:
+      enabled: false
+      path: ''
+    image: /img/dummy-image.png
+    text: Get our latest Q&A, insights, and market updates to make smarter decisions
+    button_text: Subscribe Now
+    url: https://signup.e2ma.net/signup/1998681/1808265/
     open_in_new_tab: true
     show_sidenav_link: true
     show_footer_link: true
