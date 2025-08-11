@@ -68,16 +68,15 @@ sidebar_CTAs:
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
-  - title: 'Call to Action #3'
+  - title: ' Looking for a Twin Cities Home?'
     video:
-      enabled: true
+      enabled: false
       path: /uploads/CTA3.mp4
     image: /img/dummy-image.png
-    text: >-
-      You have under 160 characters to explain exactly what someone will get
-      when they take your call to an action.
-    button_text: 'CTA Button #3'
-    url: https://app.e2ma.net/app2/audience/signup/1996181/1954053/
+    text: Search the entire MLS for your Twin Cities home
+    button_text: Search the MLS
+    url: >-
+      https://www.johnschustergroup.com/search#?q_limit=36&q_prioritize=agents.0.id=502019815&mlsId=117&price=50000:&status=1|3&q_sort=featured&q_offset=0
     open_in_new_tab: true
     show_sidenav_link: true
     show_footer_link: true
