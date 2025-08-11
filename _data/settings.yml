@@ -5,9 +5,9 @@ description: >-
 keywords: keyword1, keyword2, keyword3
 share_image: /img/share-image.jpg
 REQUIRED_bottom_mobile:
-  background_color: '#011f47'
+  background_color: '#286090'
   cta_background_color: '#ffffff'
-  button_color: '#0c0c0c'
+  button_color: '#286090'
   font_color: '#ffffff'
   CTAs:
     cta_1_text: 'Call to Action #1'
@@ -15,35 +15,36 @@ REQUIRED_bottom_mobile:
     cta_2_text: Newsletter Signup
     cta_2_link: '#'
 client:
-  name: John Doe
-  brand: Company Name, Inc.
-  market: Test Market
-  license_number: 0
-  address: 123 Elm Street
-  city: Omaha
-  state: Nebraska
-  zip: '68116'
+  name: John Schuster
+  brand: The John Schuster Group
+  market: Minneapolis
+  license_number: 
+  brokerage: Coldwell Banker Realty
+  address: 11455 Viking Dr, Suite 325
+  city: Minneapolis
+  state: Minnesota
+  zip: '55344'
   phone: 1-999-555-1234
-  email: info@companyname.com
-  url: www.clientwebsite.com
+  email: john@johnschustergroup.com
+  url: www.johnschustergroup.com
 CTAS:
   - title: YouTube Channel
-    url: '#'
+    url: 'https://www.youtube.com/channel/UCvuxZ5FzTydydoaXJVswlbg'
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
   - title: Facebook
-    url: '#'
+    url: 'https://www.facebook.com/JohnSchusterGroup/'
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
-  - title: About Us
-    url: '#'
+  - title: Our Team
+    url: 'https://www.johnschustergroup.com/realestateagent/search'
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
   - title: Reviews
-    url: '#'
+    url: 'https://www.google.com/search?sca_esv=7466096905fafdc9&rlz=1C5CHFA_enPH949PH949&si=AMgyJEtREmoPL4P1I5IDCfuA8gybfVI2d5Uj7QMwYCZHKDZ-E7Qibh9wDkS95iT_whRNPwALNI2KUyaAdwPd_ecPMPkyTCRD-O7HvUulqdiLlyBwYRKbSb9R8Eybbx508748i9L7A8wH1kLaYdxwBQK3M0XOlIwA2g%3D%3D&q=The+John+Schuster+Group+Reviews&sa=X&ved=2ahUKEwiq2_GfrIKPAxWvdvUHHaO5G6oQ0bkNegQIORAE'
     show_sidenav_link: true
     show_footer_link: true
     add_button_to_hero: false
@@ -168,8 +169,8 @@ blog:
       title: Click Call To Action
       url: '#'
   author:
-    name: John Doe
-    name_link: mailto:johndoe@test.com
+    name: John Schuster
+    name_link: mailto:john@johnschustergroup.com
     image: /img/john-doe.png
     bio: >-
       This is where you have 1-2 sentences to explain why someone should listen
@@ -202,8 +203,8 @@ about_me:
     image: /img/about-me-bg-placeholder.jpg
     overlay_color: rgba(255, 255, 255, 0.9)
   background_color: '#ffffff'
-  headline: Hello! I'm Name!
-  subheadline: Job Title Goes Here
+  headline: Hello! I'm John Schuster!
+  subheadline: Realtor & Team Leader
   markdown: >-
     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
     Lorem Ipsum has been the industry's standard dummy text ever since the
@@ -214,12 +215,12 @@ about_me:
     Lorem Ipsum passages, and more recently with desktop publishing software
     like Aldus PageMaker including versions of Lorem Ipsum.
   button:
-    text: Check Out My Story
-    link: https://google.com
+    text: Connect With Me
+    link: https://www.linkedin.com/in/johnschustergroup/
     open_in_new_tab: true
   image:
     path: /img/about-me-placeholder.png
-    alt: Why Hire Us Thumbnail
+    alt: John Schuster
     align: end
   show_sidenav_link: false
   show_footer_link: false
@@ -288,7 +289,7 @@ benefits_section:
   svg_icon_color: gray
 testimonials:
   enabled: true
-  header_text: Client Testimonials
+  header_text: What Our Clients Are Saying...
   background_color_1: '#f2f2f2'
   background_color_2: white
   font_color: '#000000'
@@ -395,9 +396,9 @@ site_colors:
   theme_text_color: '#000000'
   main_body_color: '#ffffff'
   main_body_text_color: '#212121'
-  nav_color: '#0c0c0c'
+  nav_color: '#000000'
   nav_font_color: '#ffffff'
-  sidenav_color: '#0c0c0c'
+  sidenav_color: '#000000'
   sidenav_font_color: '#ffffff'
 fonts:
   google_fonts_link_code: >-
@@ -417,51 +418,49 @@ buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
-  button_border_color: '#000000'
-  button_background_color: '#000000'
+  button_border_color: '#ffffff'
+  button_background_color: '#286090'
   button_text_color: '#ffffff'
-  button_hover_border_color: '#000000'
-  button_hover_background_color: '#000000'
+  button_hover_border_color: '#ffffff'
+  button_hover_background_color: '#286090'
   button_hover_text_color: '#ffffff'
-  light_button_border_color: '#000000'
-  light_button_background_color: '#000000'
+  light_button_border_color: '#ffffff'
+  light_button_background_color: '#286090'
   light_button_text_color: '#ffffff'
-  light_button_hover_border_color: '#000000'
-  light_button_hover_background_color: '#000000'
+  light_button_hover_border_color: '#ffffff'
+  light_button_hover_background_color: '#286090'
   light_button_hover_text_color: '#ffffff'
-  scroll_to_top_button_background_color: '#000000'
-  scroll_to_top_button_border_color: '#000000'
+  scroll_to_top_button_background_color: '#286090'
+  scroll_to_top_button_border_color: '#ffffff'
   scroll_to_top_button_arrow_color: '#ffffff'
   transition: all 0.3s ease
 sidenav:
   transparency: 0.96
 footer:
-  background_color: '#0c0c0c'
+  background_color: '#286090'
   font_color: '#fff'
   socials:
     - icon: /img/icons/youtube.png
-      url: https://www.youtube.com/
+      url: https://www.youtube.com/@thejohnschustergroup5204
     - icon: /img/icons/facebook.png
-      url: https://www.facebook.com/
+      url: https://www.facebook.com/JohnSchusterGroup/
     - icon: /img/icons/linkedin.png
-      url: https://www.linkedin.com/
+      url: https://www.linkedin.com/in/johnschustergroup/
     - icon: /img/icons/instagram.png
-      url: https://www.instagram.com/
-    - icon: /img/icons/tiktok.png
-      url: https://www.tiktok.com/
+      url: https://www.instagram.com/johnschustergroup
     - icon: /img/icons/twitter.png
-      url:
+      url: https://twitter.com/johnDschuster
     - icon: /img/icons/gmb.png
-      url: https://www.google.com/business
+      url: https://share.google/V1Sn192HriIn9MjIz
   custom_policies:
     REQUIRED_client_info:
-      company_name: ABC Limited
-      company_full_website: http://www.abclimited.com
-      company_legal_email: legal@abclimited.com
-      street: 12345 Main St.
-      zip: 44087-2664
-      city: Twinsburg
-      state: Ohio
+      company_name: The John Schuster Group
+      company_full_website: http://www.johnschustergroup.com
+      company_legal_email: john@johnschustergroup.com
+      street: 11455 Viking Dr, Suite 325
+      zip: 55344
+      city: Minneapolis
+      state: Minnesota
       country: United States
     privacy:
       enabled: true
@@ -492,20 +491,20 @@ fb-admins:
 code:
   meta_pixel_code:
 podcast:
-  title: Podcast Title
+  title: The John Schuster Podcast
   subtitle: Podcast Subtitle
   description: 'This is where you put a description of your podcast. '
-  author: John Doe
-  author_email: johndoe@website.com
-  image: /img/podcast-placeholder.png
+  author: Realtor & Team Leader at The John Schuster Group
+  author_email: john@johnschustergroup.com
+  image: /uploads/john-schuster-podcast.jpg
   categories:
     - Business
   apple_podcast_link:
-  client_website_URL: https://www.clientwebsite.com
+  client_website_URL: https://fleek-hornet.cloudvent.net
   host:
     image:
     first_name: John
-    last_name: Doe
+    last_name: Schuster
 _inputs:
   client.license_number:
     type: text
