@@ -217,7 +217,7 @@ about_me:
   text_color: '#000000'
   background_image:
     enabled: true
-    image: /img/about-me-bg-placeholder.jpg
+    image: /uploads/john-schuster-aboutme-bg.webp
     overlay_color: rgba(255, 255, 255, 0.9)
   background_color: '#ffffff'
   headline: Hello! I'm John Schuster!
@@ -250,7 +250,7 @@ about:
   text_align: left
   background_image:
     enabled: true
-    image: /img/stone-wall.jpg
+    image: /uploads/john-schuster-about-bg.webp
     overlay_color: rgba(0, 0, 0, 0.8)
   background_color: '#000000'
   headline: Honesty. Trust. Reputation.
