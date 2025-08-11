@@ -463,7 +463,7 @@ sidenav:
   transparency: 0.96
 footer:
   background_color: '#286090'
-  font_color: '#fff'
+  font_color: '#ffffff'
   socials:
     - icon: /img/icons/youtube.png
       url: https://www.youtube.com/@thejohnschustergroup5204
