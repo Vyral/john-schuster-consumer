@@ -324,12 +324,14 @@ testimonials:
       image: /img/16x9-placeholder.png
       link: '#'
     - text: >-
-        "You'll put a client testimonial here of one of your best customers that
-        shares the problem they had before they hired you and the benefits of
-        you solving it."
-      name: John Doe
+        "The John Schuster Group was really wonderful at navigating a
+        complicated sale for me. They were available at all times and proactive
+        in taking action to close the sale quickly. Highly recommend them for
+        any real estate needs—buying or selling! The team exhibited kindness and
+        professionalism in every interaction."
+      name: Cat R.
       video:
-        enabled: true
+        enabled: false
         path: /uploads/testimonial-3.mp4
       image: /img/16x9-placeholder.png
       link: '#'
