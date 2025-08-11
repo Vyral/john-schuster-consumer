@@ -399,10 +399,10 @@ images:
   navbar_logo_path: /uploads/john-schuster-logo-white.webp
   sidenav_logo_path: /uploads/john-schuster-logo-white.webp
   footer_logo_path: /uploads/john-schuster-logo-white.webp
-  navbar-logo-width: 129
-  desktop-sidenav-logo-width: 200
-  mobile-sidenav-logo-width: 125
-  footer-logo-width: 250
+  navbar-logo-width: 250
+  desktop-sidenav-logo-width: 300
+  mobile-sidenav-logo-width: 250
+  footer-logo-width: 300
 site_colors:
   brand_color: '#0c0c0c'
   theme_color: '#999999'
