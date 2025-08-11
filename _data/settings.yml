@@ -177,7 +177,7 @@ hero:
 blog:
   CTA_main_box:
     sync_with_CTA_1: true
-    custom_markdown: >
+    custom_markdown: >-
       **Primary Call to Action Here.** There is where you can explain your
       primary call to action again so they see it when the website loads on
       mobile.
@@ -187,10 +187,11 @@ blog:
   author:
     name: John Schuster
     name_link: mailto:john@johnschustergroup.com
-    image: /img/john-doe.png
+    image: /uploads/john-schuster-author-img.webp
     bio: >-
-      This is where you have 1-2 sentences to explain why someone should listen
-      to you.
+      John has sold over 4,300 homes over his career and is a 9-year recipient
+      of #1 Listing Agent with Coldwell Banker Realty statewide and ranks in the
+      Top 1% agents in sales nationally.
   CTA_content_box:
     sync_with_CTAs: true
     title_markdown: |
