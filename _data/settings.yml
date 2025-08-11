@@ -13,7 +13,7 @@ REQUIRED_bottom_mobile:
   button_color: '#286090'
   font_color: '#ffffff'
   CTAs:
-    cta_1_text: 'Call to Action #1'
+    cta_1_text: Free Selling Strategy Call
     cta_1_link: '#'
     cta_2_text: Newsletter Signup
     cta_2_link: https://signup.e2ma.net/signup/1998681/1808265/
