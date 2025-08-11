@@ -311,12 +311,15 @@ testimonials:
       image: /img/16x9-placeholder.png
       link: '#'
     - text: >-
-        "You'll put a client testimonial here of one of your best customers that
-        shares the problem they had before they hired you and the benefits of
-        you solving it."
-      name: John Doe
+        "My husband and I worked with The John Schuster Group over the past
+        month looking for our first home. We had a great experience working with
+        them. They were very knowledgeable and answered all of our questions
+        throughout the process. It was intimidating being first-time buyers in
+        the current market, but The John Schuster Group put us at ease and
+        ensured we found a great home. Thanks for all the help!"
+      name: Kimberly A.
       video:
-        enabled: true
+        enabled: false
         path: /uploads/testimonial-2.mp4
       image: /img/16x9-placeholder.png
       link: '#'
