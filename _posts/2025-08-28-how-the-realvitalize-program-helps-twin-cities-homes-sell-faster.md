@@ -26,14 +26,15 @@ pullquote: Select the improvements you want, with no upfront cost.
 enclosure_type: video/mp4
 enclosure_time: '11993177'
 use_youtube_image: false
-youtube_alternate_image: /uploads/how-the-realvitalize-program-helps-twin-cities-homes-sell-faster.jpg
+youtube_alternate_image: >-
+  /uploads/how-the-realvitalize-program-helps-twin-cities-homes-sell-faster-1.jpg
 youtube_code: OgI4FjSAH1U
 ---
 {% include author-box.html %} {% include cta-main-box.html %}
 
 One of the most common questions sellers ask is: *“Should I make updates before selling?”* It’s a fair concern. Strategic updates can help your home sell faster and for a higher price. Buyers are more likely to act quickly and offer top dollar on a home that looks move-in ready. But the challenge lies in balancing time, cost, and knowing which improvements actually matter to buyers.
 
-**That’s where the** [Coldwell Banker Exclusive RealVitalize Program](https://coldwellbankerelite.com/realvitalize) **comes in.** This program takes the stress out of pre-sale improvements by fronting the costs for you. That means you can refresh your home without paying anything until closing. Here’s how the RealVitalize Program works:
+**That’s where the** [Coldwell Banker Exclusive RealVitalize Program](https://coldwellbankerelite.com/realvitalize){: target="_blank" rel="noopener"} **comes in.** This program takes the stress out of pre-sale improvements by fronting the costs for you. That means you can refresh your home without paying anything until closing. Here’s how the RealVitalize Program works:
 
 {% include pullquote.html %}
 
