@@ -28,7 +28,7 @@ enclosure_time: '11993177'
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/how-the-realvitalize-program-helps-twin-cities-homes-sell-faster-1.jpg
-youtube_code: OgI4FjSAH1U
+youtube_code: j-mmhxFGR4M
 ---
 {% include author-box.html %} {% include cta-main-box.html %}
 
