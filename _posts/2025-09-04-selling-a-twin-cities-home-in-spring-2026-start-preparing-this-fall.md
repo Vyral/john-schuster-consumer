@@ -55,4 +55,4 @@ Do these, and your home feels turnkey without breaking the bank. On top of that,
 
 This market can feel uncertain, but preparation makes all the difference. If you’re planning to sell next year, take photos now, make a few affordable updates, and take care of maintenance while you have the time.
 
-The spring market will be strong, and if you’re ready, you can take full advantage. And when you’re ready to take the next step, reach out at [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} or visit[**<u>JohnSchusterGroup.com</u>**](http://johnschustergroup.com?utm_source=chatgpt.com){: target="_blank" rel="noopener"}. I’m here to help guide you through it.
+The spring market will be strong, and if you’re ready, you can take full advantage. And when you’re ready to take the next step, reach out at [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} or visit [**<u>JohnSchusterGroup.com</u>**](http://johnschustergroup.com?utm_source=chatgpt.com){: target="_blank" rel="noopener"}. I’m here to help guide you through it.
