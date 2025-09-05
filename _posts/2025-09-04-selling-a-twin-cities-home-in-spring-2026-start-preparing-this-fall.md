@@ -16,10 +16,11 @@ tags:
   - Home Seller Tips
 subtitle:
 excerpt:
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/Selling%20a%20Twin%20Cities%20Home%20in%20Spring%202026_%20Start%20Preparing%20This%20Fall.mp4
 pullquote:
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '53702269'
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/selling-a-twin-cities-home-in-spring-2026-start-preparing-this-fall.jpg
