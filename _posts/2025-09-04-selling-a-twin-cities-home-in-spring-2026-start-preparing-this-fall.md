@@ -23,7 +23,7 @@ enclosure_type: video/mp4
 enclosure_time: '53702269'
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/selling-a-twin-cities-home-in-spring-2026-start-preparing-this-fall.jpg
+  /uploads/selling-a-twin-cities-home-in-spring-2026-start-preparing-this-fall-1.jpg
 youtube_code: MdSICLp6D7c
 ---
 {% include author-box.html %} {% include cta-main-box.html %}
