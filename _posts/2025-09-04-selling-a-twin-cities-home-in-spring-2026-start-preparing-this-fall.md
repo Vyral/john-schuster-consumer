@@ -36,7 +36,7 @@ When I sat down with Vinita Sarkar on WCCO radio at the Minnesota State Fair, I 
 
 But here’s the catch: even with rates keeping some people on the sidelines, prices are still climbing. In July, the average sale price in our market hit over $475,000, nearly a peak. I believe rates will continue to ease a little over the next six months, and if they do, prices will likely keep rising.
 
-**Turnkey homes are selling fast.** Currently, the homes that sell quickly are the turnkey, move-in-ready single-family homes in the first- and second-tier suburbs. We’re still seeing multiple offers on those. On the other hand, homes that aren’t updated or aren't “market-ready” tend to sit on the market longer. In July, the average days on market was 40, compared to 49 for the year overall. I expect we’ll see days on market creep up more as we move into fall and winter.
+**Turnkey homes are selling fast.** Currently, the homes that sell quickly are the turnkey, move-in-ready single-family homes in the first- and second-tier suburbs. We’re still seeing multiple offers on those. On the other hand, homes that aren’t updated or aren’t “market-ready” tend to sit on the market longer. In July, the average days on market was 40, compared to 49 for the year overall. I expect we’ll see days on market creep up more as we move into fall and winter.
 
 {% include pullquote.html %}
 
