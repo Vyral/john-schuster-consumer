@@ -29,8 +29,8 @@ enclosure_time: '18886469'
 use_youtube_image: false
 youtube_alternate_image: /uploads/you-re-invited-to-our-free-twin-cities-home-seller-seminar.jpg
 youtube_code: VEidpMEyfto
-CTA_button_title: 
-CTA_button_link: 
+CTA_button_title: Register Here
+CTA_button_link: https://www.johnschustergroup.com/home_seller_forum
 ---
 {% include author-box.html %} {% include cta-main-box.html %}
 
