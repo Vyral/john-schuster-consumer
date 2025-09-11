@@ -29,6 +29,8 @@ enclosure_time: '18886469'
 use_youtube_image: false
 youtube_alternate_image: /uploads/you-re-invited-to-our-free-twin-cities-home-seller-seminar.jpg
 youtube_code: VEidpMEyfto
+CTA_button_title: 
+CTA_button_link: 
 ---
 {% include author-box.html %} {% include cta-main-box.html %}
 
