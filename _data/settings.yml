@@ -27,7 +27,7 @@ client:
   city: Minneapolis
   state: Minnesota
   zip: '55344'
-  phone: 1-999-555-1234
+  phone: (952) 222-9000
   email: john@johnschustergroup.com
   url: www.johnschustergroup.com
 CTAS:
@@ -189,7 +189,9 @@ blog:
     name_link: mailto:john@johnschustergroup.com
     image: /uploads/john-schuster-aboutme-img.webp
     bio: >-
-      The John Schuster Group has sold over 5,000+ homes and has been the 10-year recipient of #1 Listing Agent with Coldwell Banker Realty statewide.
+      The John Schuster Group has sold over 5,000+ homes and has been the
+      10-year recipient of #1 Listing Agent with Coldwell Banker Realty
+      statewide.
   CTA_content_box:
     sync_with_CTAs: true
     title_markdown: |
@@ -221,14 +223,20 @@ about_me:
   headline: Hello! I'm John Schuster!
   subheadline: Realtor & Team Leader
   markdown: >-
-    The John Schuster Group has sold over 5,000+ homes and has been the 10-year recipient of #1 Listing Agent with Coldwell Banker Realty statewide.
-    
-    John and his team sell more homes than 99.9% of all other agents while striving to be the best real estate team in the Twin Cities. Let our success become your success!
-    
-    Endorsed by the by Twin Cities local celebrities including KQRS Morning Show's Steve Gorman; and WCCO's Morning Show Host, Vineeta Sawkar and LOVE105's Chris OConnor. Frequent guest on CNBC's Power House showcasing the Twin Cities real estate marketplace.
-    
-    Mission Statement
-    To Inspire, educate and deliver exceptional service to our clients, while achieving their real estate goals.
+    The John Schuster Group has sold over 5,000+ homes and has been the 10-year
+    recipient of #1 Listing Agent with Coldwell Banker Realty statewide.
+
+    John and his team sell more homes than 99.9% of all other agents while
+    striving to be the best real estate team in the Twin Cities. Let our success
+    become your success!
+
+    Endorsed by the by Twin Cities local celebrities including KQRS Morning
+    Show's Steve Gorman; and WCCO's Morning Show Host, Vineeta Sawkar and
+    LOVE105's Chris OConnor. Frequent guest on CNBC's Power House showcasing the
+    Twin Cities real estate marketplace.
+
+    Mission Statement To Inspire, educate and deliver exceptional service to our
+    clients, while achieving their real estate goals.
   button:
     text: Connect With Me
     link: https://www.linkedin.com/in/johnschustergroup/
