@@ -15,20 +15,37 @@ date: 2025-09-10 00:00:00
 hidden: false
 tags:
   - Home Seller Tips
-subtitle:
-excerpt:
-enclosure:
-pullquote:
+subtitle: >-
+  Get first-hand insights and proven strategies from trusted experts so you can
+  sell successfully and confidently in any market.
+excerpt: >-
+  Get first-hand insights and proven strategies from trusted experts so you can
+  sell successfully and confidently in any market.
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/You%E2%80%99re%20Invited%20to%20Our%20Free%20Twin%20Cities%20Home%20Seller%20Seminar.mp4
+pullquote: Preparation today means stronger offers tomorrow.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '18886469'
 use_youtube_image: false
 youtube_alternate_image: /uploads/you-re-invited-to-our-free-twin-cities-home-seller-seminar.jpg
 youtube_code: VEidpMEyfto
 ---
 {% include author-box.html %} {% include cta-main-box.html %}
 
-First half of blog post
+How do you protect the equity in your home when the market is shifting? ** ** Interest rates are moving, the economy is uncertain, and the balance is leaning toward buyers.
+
+That’s why we’re hosting a **free 45-minute online seminar to help homeowners prepare and answer questions about selling in today’s changing market.** Seats are limited — ** ** secure your spot at [**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"}**.**
+
+Choose from these two events that will fit your schedule best:
+
+*•* Tuesday, October 7, from 11 a.m. and 6 p.m.<br>*•* Thursday, October 9, from 11 a.m. and 6 p.m.
 
 {% include pullquote.html %}
 
-Second half of blog post
+This session is designed for anyone even considering selling their home in the near future. You’ll learn:
+
+*•* Five mistakes most homeowners make when trying to sell<br>*•* How to properly market a home in a balanced market<br>*•* Five things you can do right now to make the most money on your home
+
+Housing inventory in the Twin Cities is starting to grow, and some homes are taking longer to sell. As the market shifts, being prepared is more important than ever.
+
+If you have questions about selling your home or simply want to know how this market could affect you, reach out to [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} or visit[](http://johnschustergroup.com?utm_source=chatgpt.com)[**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"}. I’m happy to help.
