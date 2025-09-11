@@ -17,6 +17,8 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: vjEcQ3plUvM
+CTA_button_title: 
+CTA_button_link: 
 ---
 
 {% include author-box.html %}

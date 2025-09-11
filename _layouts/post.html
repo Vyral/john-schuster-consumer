@@ -30,6 +30,14 @@
 								{% include youtube.html %}
 							{% endif %}	
 
+							{% if page.CTA_button_title != null %}
+								<div class="cta-button" style="text-align: center">
+									<a href="{{ page.CTA_button_link }}" target="_blank" rel="noreferrer noopener">
+										<button>{{ page.CTA_button_title }}</button>
+									</a>
+								</div>
+							{% endif%}
+
 							{{ content }}
 							
 							{% include cta-content-box.html %}
