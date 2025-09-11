@@ -30,6 +30,8 @@
 								{% include youtube.html %}
 							{% endif %}	
 
+							{{ content }}
+
 							{% if page.CTA_button_title != null %}
 								<div class="cta-button" style="text-align: center">
 									<a href="{{ page.CTA_button_link }}" target="_blank" rel="noreferrer noopener">
@@ -37,8 +39,6 @@
 									</a>
 								</div>
 							{% endif%}
-
-							{{ content }}
 							
 							{% include cta-content-box.html %}
 							{% include more-posts.html %}
