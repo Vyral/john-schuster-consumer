@@ -52,4 +52,4 @@ This session is designed for anyone even considering selling their home in the n
 
 Housing inventory in the Twin Cities is starting to grow, and some homes are taking longer to sell. As the market shifts, being prepared is more important than ever.
 
-If you have questions about selling your home or simply want to know how this market could affect you, reach out to [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} or visit [**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"}. I’m happy to help.
+If you have questions about selling your home or simply want to know how this market could affect you, reach out to [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} or visit [**JohnSchusterGroup.com**](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"}. I’m happy to help.
