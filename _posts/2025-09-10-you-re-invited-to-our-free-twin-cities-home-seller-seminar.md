@@ -34,7 +34,7 @@ youtube_code: VEidpMEyfto
 
 How do you protect the equity in your home when the market is shifting? Interest rates are moving, the economy is uncertain, and the balance is leaning toward buyers.
 
-That’s why we’re hosting a **free 45-minute online seminar to help homeowners prepare and answer questions about selling in today’s changing market.** Seats are limited — secure your spot at [**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"}**.**
+That’s why we’re hosting a **free 45-minute online seminar to help homeowners prepare and answer questions about selling in today’s changing market.** Seats are limited — secure your spot at [**JohnSchusterGroup.com/home\_seller\_forum**](https://www.johnschustergroup.com/home_seller_forum)**.**
 
 Choose from these two events that will fit your schedule best:
 
