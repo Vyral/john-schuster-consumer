@@ -32,7 +32,13 @@ youtube_code: VEidpMEyfto
 CTA_button_title: Register Here
 CTA_button_link: https://www.johnschustergroup.com/home_seller_forum
 ---
-> [![Register Here](/uploads/you-re-invited-to-our-free-twin-cities-home-seller-seminar-btn.jpg)](https://www.johnschustergroup.com/home_seller_forum){: target="_blank" rel="noopener"}
+&nbsp;
+
+<div style="text-align:center;">
+  <a href="https://www.johnschustergroup.com/home_seller_forum" target="_blank">
+    <img src="/uploads/you-re-invited-to-our-free-twin-cities-home-seller-seminar-btn.jpg" alt="Register Here" width="350">
+  </a>
+</div>
 
 {% include author-box.html %}
 
