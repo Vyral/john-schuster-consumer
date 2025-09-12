@@ -39,8 +39,6 @@ CTA_button_link: https://www.johnschustergroup.com/home_seller_forum
   </a>
 </div>
 
-&nbsp;
-
 {% include author-box.html %}
 
 {% include cta-main-box.html %}
