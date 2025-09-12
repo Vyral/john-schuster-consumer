@@ -36,7 +36,7 @@ CTA_button_link: https://www.johnschustergroup.com/home_seller_forum
 
 <div style="text-align:center;">
   <a href="https://www.johnschustergroup.com/home_seller_forum" target="_blank">
-    <img src="/uploads/you-re-invited-to-our-free-twin-cities-home-seller-seminar-btn.jpg" alt="Register Here" width="350">
+    <img src="/uploads/free-twin-cities-home-seller-seminar-btn-1.jpg" alt="Register Here" width="350" />
   </a>
 </div>
 
