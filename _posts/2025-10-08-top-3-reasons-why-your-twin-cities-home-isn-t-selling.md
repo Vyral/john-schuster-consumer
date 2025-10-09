@@ -43,7 +43,9 @@ To help you out, here are the three main reasons homes sit on the market and how
 
 **2\. The presentation isn’t connecting with buyers.** Today’s buyers want move-in-ready homes. If a property feels dated or cluttered, it loses appeal fast. A clean, well-prepared home helps buyers picture themselves living there, and that emotional connection can make all the difference.
 
-{% include pullquote.html %}<br>**3\. The promotion isn’t reaching the right audience.** Just putting a sign in the yard isn’t enough. You need a strong marketing strategy that gets your home in front of the right buyers, both online and offline. The broader and smarter the exposure, the faster the results.
+{% include pullquote.html %}
+
+**3\. The promotion isn’t reaching the right audience.** Just putting a sign in the yard isn’t enough. You need a strong marketing strategy that gets your home in front of the right buyers, both online and offline. The broader and smarter the exposure, the faster the results.
 
 These challenges are completely fixable. With the right pricing strategy, professional preparation, and aggressive marketing, even a stale listing can turn into a sold one.
 
