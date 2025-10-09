@@ -47,4 +47,4 @@ To help you out, here are the three main reasons homes sit on the market and how
 
 These challenges are completely fixable. With the right pricing strategy, professional preparation, and aggressive marketing, even a stale listing can turn into a sold one.
 
-If your home isn’t getting traction, or if you’re planning to sell soon, let’s talk about how to position it to sell quickly and for top dollar. Contact me at [(952) 222-9000](tel:&#40;952&#41;%20222-9000) or visit[](http://johnschustergroup.com?utm_source=chatgpt.com)[JohnSchusterGroup.com](http://johnschustergroup.com)**.** Let’s get your home moving and sold.
+If your home isn’t getting traction, or if you’re planning to sell soon, let’s talk about how to position it to sell quickly and for top dollar. Contact me at [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} or visit[**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"}**.** Let’s get your home moving and sold.
