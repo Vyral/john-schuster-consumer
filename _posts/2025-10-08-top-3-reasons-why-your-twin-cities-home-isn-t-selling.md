@@ -29,7 +29,7 @@ enclosure_type: video/mp4
 enclosure_time: '13559220'
 use_youtube_image: false
 youtube_alternate_image: /uploads/top-3-reasons-why-your-twin-cities-home-isn-t-selling.jpg
-youtube_code: 8cFM9Zn47LU
+youtube_code: GHgaxG0tcM8
 CTA_button_title:
 CTA_button_link:
 ---
