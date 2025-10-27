@@ -63,7 +63,7 @@ sidebar_CTAs:
       prices in your neighborhood? We can help you
     button_text: Free Twin Cities Home Value Report
     url: >-
-      https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369
+      https://johnschustergroup.hifello.com/lp/0e8edd4e-bf94-4c4c-b34d-d94485d77369?utm_source=vyral
     open_in_new_tab: true
     show_sidenav_link: true
     show_footer_link: true
@@ -76,7 +76,7 @@ sidebar_CTAs:
     text: Search the entire MLS for your Twin Cities home
     button_text: Search the MLS
     url: >-
-      https://www.johnschustergroup.com/search#?q_limit=36&q_prioritize=agents.0.id=502019815&mlsId=117&price=50000:&status=1|3&q_sort=featured&q_offset=0
+      https://www.johnschustergroup.com/search#?q_limit=36&q_prioritize=agents.0.id=502019815&mlsId=117&price=50000:&status=1|3&q_sort=featured&q_offset=0&utm_source=vyral
     open_in_new_tab: true
     show_sidenav_link: true
     show_footer_link: true
