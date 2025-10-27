@@ -19,9 +19,9 @@
     <div class="cta-new-button">
 
       {% if item.open_in_new_tab == true %}
-      <a href="{{ item.url }}" target="_blank" rel="noreferrer noopener">{{ item.button_text }}</a>
+      <a href="{{ item.url }}?utm_source=vyral" target="_blank" rel="noreferrer noopener">{{ item.button_text }}</a>
       {% else %}
-      <a href="{{ item.url }}">{{ item.button_text }}</a>
+      <a href="{{ item.url }}?utm_source=vyral">{{ item.button_text }}</a>
       {% endif %}
 
     </div>
