@@ -30,3 +30,8 @@ _snippets:
               - ''
             forbidden_tokens:
               - '%'
+
+collections_config:
+  blog:
+    path: content/blog
+    url: /[slug].html?utm_source=vyral
