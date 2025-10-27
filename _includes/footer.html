@@ -11,7 +11,7 @@
 
 			{% if site.data.settings.hero.show_footer_link %}
 			<div class="link">
-				<a href="{{ site.data.settings.hero.button_link }}"
+				<a href="{{ site.data.settings.hero.button_link }}?utm_source=vyral"
 					aria-label="{{ site.data.settings.hero.button_text }}" target="_blank">
 					<p>{{ site.data.settings.hero.button_text }}</p>
 				</a>
@@ -21,7 +21,7 @@
 			{% for item in site.data.settings.sidebar_CTAs %}
 			{% if item.show_footer_link %}
 			<div class="link">
-				<a href="{{ site.baseurl }}{{ item.url}}" aria-label="{{ item.title }}" target="_blank">
+				<a href="{{ site.baseurl }}{{ item.url}}?utm_source=vyral" aria-label="{{ item.title }}" target="_blank">
 					<p>{{ item.title}}</p>
 				</a>
 			</div>
@@ -35,14 +35,14 @@
 					{% assign target = "_self" %}
 				{% endif %}
 			<div class="link">
-				<a href="{{ site.baseurl }}{{ site.data.settings.about_me.button.link }}" aria-label="{{ site.data.settings.about_me.button.text }}" target="{{ target }}">{{ site.data.settings.about_me.button.text }}</a>
+				<a href="{{ site.baseurl }}{{ site.data.settings.about_me.button.link }}?utm_source=vyral" aria-label="{{ site.data.settings.about_me.button.text }}" target="{{ target }}">{{ site.data.settings.about_me.button.text }}</a>
 			</div>
 			{% endif %}
 
 			{% for item in site.data.settings.CTAS %}
 			{% if item.show_footer_link %}
 			<div class="link">
-				<a href="{{ site.baseurl }}{{ item.url}}" aria-label="{{ item.title }}" target="_blank">
+				<a href="{{ site.baseurl }}{{ item.url}}?utm_source=vyral" aria-label="{{ item.title }}" target="_blank">
 					<p>{{ item.title}}</p>
 				</a>
 			</div>
@@ -52,7 +52,7 @@
 			{% for page in site.custom_pages %}
 			{% if page.has_footer_link == true %}
 			<div class="link">
-				<a href="{{ site.baseurl }}{{ page.url }}" aria-label="{{ page.title }}" target="_blank">
+				<a href="{{ site.baseurl }}{{ page.url }}?utm_source=vyral" aria-label="{{ page.title }}" target="_blank">
 					<p>{{ page.title }}</p>
 				</a>
 			</div>
@@ -126,7 +126,7 @@
 				<div class="icons">
 					{% for social in site.data.settings.footer.socials %}
 					{% if social.url %}
-					<a href="{{ social.url }}" aria-label="Link to {{ social.url }}" target="_blank">
+					<a href="{{ social.url }}?utm_source=vyral" aria-label="Link to {{ social.url }}" target="_blank">
 						<img src="{{ site.baseurl }}{{ social.icon }}" alt="" width="35" height="35" loading="lazy" />
 					</a>
 					{% endif %}
