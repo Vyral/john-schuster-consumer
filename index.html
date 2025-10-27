@@ -35,9 +35,9 @@ layout: default
 			<div class="col-lg-6">
 				{{ post.excerpt | strip_html | prepend: "<p class='excerpt'>" | append: "</p>" | truncate: 220 }}
 				{% if post.youtube_code != null %}
-					<p class="readlink"><a href="{{ site.baseurl }}{{post.url}}" aria-label="Watch More">Watch More</a></p>
+					<p class="readlink"><a href="{{ site.baseurl }}{{post.url}}?utm_source=vyral" aria-label="Watch More">Watch More</a></p>
 				{% else %}
-					<p class="readlink"><a href="{{ site.baseurl }}{{post.url}}" aria-label="Read More">Read More</a></p>
+					<p class="readlink"><a href="{{ site.baseurl }}{{post.url}}?utm_source=vyral" aria-label="Read More">Read More</a></p>
 				{% endif %}
 			</div>
 		</li>
