@@ -25,7 +25,7 @@ enclosure_type: video/mp4
 enclosure_time: '10065265 '
 use_youtube_image: false
 youtube_alternate_image: /uploads/should-you-buy-a-home-in-minnesota-now-or-wait-for-spring.jpg
-youtube_code: m0KaGOhx2xs
+youtube_code: pz8IHLvoQO0
 CTA_button_title:
 CTA_button_link:
 ---
