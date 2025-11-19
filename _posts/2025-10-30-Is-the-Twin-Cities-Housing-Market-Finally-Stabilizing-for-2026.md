@@ -36,4 +36,4 @@ The closer we get to 2026, the louder the questions become: *Is the market final
 
 **A balanced 2026 market.** Taken together, these trends point toward a balanced market ahead. It won’t resemble the high-pressure atmosphere of previous years, but it won’t slow down either. Instead, 2026 is shaping up to deliver steady, healthy activity.
 
-Success in 2026, whether buying or selling, comes down to smart strategy and preparation. To see what your home could sell for next year, get an instant online evaluation at [JohnSchusterGroup.com](http://johnschustergroup.com), or call [(952) 222-9000](tel:&#40;952&#41;%20222-9000) for expert guidance. I’ll help you build a smart plan that fits your goals.
+Success in 2026, whether buying or selling, comes down to smart strategy and preparation. To see what your home could sell for next year, get an instant online evaluation at [**JohnSchusterGroup.com**](http://johnschustergroup.com), or call [**(952) 222-9000**](tel:&#40;952&#41;%20222-9000) for expert guidance. I’ll help you build a smart plan that fits your goals.
