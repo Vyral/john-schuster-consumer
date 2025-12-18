@@ -34,4 +34,4 @@ The holidays are all about gratitude, connection, and looking forward to new beg
 
 Happy Holidays, Merry Christmas, and a wonderful New Year ahead!
 
-**John Schuster** <br>[(952) 222-9000](tel:&#40;952&#41;%20222-9000) <br>[JohnSchusterGroup.com](http://johnschustergroup.com?utm_source=chatgpt.com)
+**John Schuster** <br>[**(952) 222-9000**](tel:&#40;952&#41;%20222-9000) **<br>**[**JohnSchusterGroup.com**](http://johnschustergroup.com?utm_source=chatgpt.com)
