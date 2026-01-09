@@ -50,4 +50,4 @@ With peak home-buying time right around the corner, timing and preparation matte
 
 There are no gimmicks and no cheesy sales pitches. This free Home Seller Forum is about clarity and practical information you can actually use as you think about selling your home, now or in the near future. Even if you decide not to work with our team, you’ll leave with valuable insights.
 
-If you have any questions about the forum or need expert guidance, reach out at [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} ** ** or visit [**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"}. I’d be glad to help.
+If you have any questions about the forum or need expert guidance, reach out at [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} \*\* \*\* or visit [**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"}. I’d be glad to help.
