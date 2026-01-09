@@ -1,7 +1,7 @@
 ---
 publish_as_a_podcast: true
 layout: post
-title: You’re invited to our Free Virtual Home Seller Forum
+title: You’re Invited to Our Free Virtual Home Seller Forum
 episode_description: >-
   Thinking about selling your home? Learn what buyers are paying a premium for
   right now and the small changes that can boost your home’s value. Join our
