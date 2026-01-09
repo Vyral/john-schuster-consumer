@@ -15,10 +15,11 @@ tags:
   - Home Seller Tips
 subtitle:
 excerpt:
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/You%E2%80%99re%20invited%20to%20our%20Free%20Virtual%20Home%20Seller%20Forum.mp4
 pullquote:
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '22556107'
 use_youtube_image: false
 youtube_alternate_image: /uploads/you-re-invited-to-our-free-virtual-home-seller-forum.jpg
 youtube_code: uvLyZGIK6po
