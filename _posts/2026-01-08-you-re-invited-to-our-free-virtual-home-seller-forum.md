@@ -26,7 +26,7 @@ enclosure_type: video/mp4
 enclosure_time: '22556107'
 use_youtube_image: false
 youtube_alternate_image: /uploads/you-re-invited-to-our-free-virtual-home-seller-forum.jpg
-youtube_code: uvLyZGIK6po
+youtube_code: C5070C6tJWY
 CTA_button_title:
 CTA_button_link:
 ---
