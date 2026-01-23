@@ -44,4 +44,4 @@ Here’s what you need to understand before choosing to wait.
 
 Deciding between spring and summer means weighing these trade-offs carefully. Timing can directly impact urgency, negotiation, and your overall results.
 
-If you need help or guidance, just reach out to [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} ** ** or visit [**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"}. I can walk you through the trade-offs so you know the timing that will work best for your sale.
+If you need help or guidance, just reach out to [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"} or visit [**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"}. I can walk you through the trade-offs so you know the timing that will work best for your sale.
