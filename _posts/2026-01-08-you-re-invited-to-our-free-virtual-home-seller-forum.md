@@ -10,7 +10,7 @@ episode_description: >-
   make the selling process easier. Sign up now and be ready for peak home-buying
   season.
 date: 2026-01-08 00:00:00
-hidden: false
+hidden: true
 tags:
   - Home Seller Tips
 subtitle: >-
