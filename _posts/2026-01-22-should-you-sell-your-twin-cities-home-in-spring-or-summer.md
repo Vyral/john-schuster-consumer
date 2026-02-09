@@ -18,10 +18,11 @@ subtitle: >-
 excerpt: >-
   Many sellers assume summer is best, but buyer behavior and market conditions
   tell a different story. Here’s why timing matters.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/Should%20You%20Sell%20Your%20Twin%20Cities%20Home%20in%20Spring%20or%20Summer_.mp4
 pullquote:
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '10499738'
 use_youtube_image: false
 youtube_alternate_image: /uploads/should-you-sell-your-twin-cities-home-in-spring-or-summer.jpg
 youtube_code: o7kjrn-VAYQ
