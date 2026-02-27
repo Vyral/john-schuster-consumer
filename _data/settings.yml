@@ -23,10 +23,10 @@ client:
   market: Twin Cities
   license_number:
   brokerage: Coldwell Banker Realty
-  address: 11455 Viking Dr, Suite 325
-  city: Minneapolis
+  address: '6625 W 78th Street, #250B'
+  city: Edina
   state: Minnesota
-  zip: '55344'
+  zip: '55439'
   phone: (952) 222-9000
   email: john@johnschustergroup.com
   url: www.johnschustergroup.com
