@@ -35,4 +35,4 @@ Before you invest in upgrades, let’s discuss what actually matters to buyers.
 
 **Focus on what brings real value.** Before you spend money on home improvements, it’s important to talk to someone who knows where the real return on investment actually exists.
 
-At the John Schuster Group, we guide sellers to focus on updates that attract buyers and make a real difference. You can reach out to [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"}, email [**john@johnschustergroup.com**](mailto:john@johnschustergroup.com){: target="_blank" rel="noopener"}, or visit [**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"} ** ** to connect with us today.
+At the John Schuster Group, we guide sellers to focus on updates that attract buyers and make a real difference. You can reach out to [**(952) 222-9000**](tel:9522229000){: target="_blank" rel="noopener"}, email [**john@johnschustergroup.com**](mailto:john@johnschustergroup.com){: target="_blank" rel="noopener"}, or visit [**JohnSchusterGroup.com**](http://johnschustergroup.com){: target="_blank" rel="noopener"} to connect with us today.
