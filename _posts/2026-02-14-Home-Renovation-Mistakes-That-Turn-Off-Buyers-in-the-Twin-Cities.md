@@ -19,7 +19,7 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: >-
   /uploads/home-renovation-mistakes-that-turn-off-buyers-in-the-twin-cities-2.jpg
-youtube_code: o0qtxJ-yTFE
+youtube_code: ftXY1ygWy5w
 CTA_button_title:
 CTA_button_link:
 ---
