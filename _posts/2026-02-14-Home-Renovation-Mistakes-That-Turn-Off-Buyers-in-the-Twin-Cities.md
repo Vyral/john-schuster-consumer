@@ -1,8 +1,13 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: Home Renovation Mistakes That Turn Off Buyers in the Twin Cities
-episode_description:
+episode_description: >-
+  Before you invest in that expensive home upgrade, stop and ask yourself: Will
+  buyers even care? Many sellers make costly mistakes that don’t improve resale
+  value. In this video, I’ll share the updates that actually attract buyers and
+  the ones that don’t. Click the link below to learn how to make your home move
+  faster and sell smarter.
 date: 2026-03-03 05:00:00
 hidden: false
 tags:
@@ -12,10 +17,11 @@ subtitle: >-
 excerpt: >-
   Expensive remodels don’t always guarantee higher offers. See the practical
   updates that consistently appeal to buyers.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/Home%20Renovation%20Mistakes%20That%20Turn%20Off%20Buyers%20in%20the%20Twin%20Cities.mp4
 pullquote:
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '12261365'
 use_youtube_image: true
 youtube_alternate_image: >-
   /uploads/home-renovation-mistakes-that-turn-off-buyers-in-the-twin-cities-2.jpg
