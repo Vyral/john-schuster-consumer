@@ -17,7 +17,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/the-risks-of-overpricing-your-home-in-the-twin-cities-2.jpg
 youtube_code: w2E4VXI0aEc
 CTA_button_title:
 CTA_button_link:
