@@ -1,8 +1,13 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: The Risks of Overpricing Your Home in the Twin Cities
-episode_description:
+episode_description: >-
+  Most homeowners think selling a home is as simple as putting up a sign and
+  waiting for offers. But there’s one critical thing that can make or break your
+  sale. I’ll show you what buyers notice right away and how you can make the
+  most of the first window of your home sale. Check out my video to see what top
+  sellers do differently.
 date: 2026-03-23 05:00:00
 hidden: false
 tags:
@@ -12,10 +17,11 @@ subtitle: >-
 excerpt: >-
   Getting the price wrong from the start can cause your home to sit on the
   market longer than you’d expect.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/The%20Risks%20of%20Overpricing%20Your%20Home%20in%20the%20Twin%20Cities.mp4
 pullquote:
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '9341367'
 use_youtube_image: true
 youtube_alternate_image: /uploads/the-risks-of-overpricing-your-home-in-the-twin-cities-2-1.jpg
 youtube_code: w2E4VXI0aEc
