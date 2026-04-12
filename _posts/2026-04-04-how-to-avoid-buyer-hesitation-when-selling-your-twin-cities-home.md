@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: >-
-  /uploads/how-to-avoid-buyer-hesitation-when-selling-your-twin-cities-home-2.jpg
+  /uploads/how-to-avoid-buyer-hesitation-when-selling-your-twin-cities-home-2-1.jpg
 youtube_code: pMlrwGARk2Q
 CTA_button_title:
 CTA_button_link:
