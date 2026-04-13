@@ -1,8 +1,14 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: How to Avoid Buyer Hesitation When Selling Your Twin Cities Home
-episode_description:
+episode_description: >-
+  Why are buyers backing out at the last minute? It’s not the price, and it’s
+  not always obvious what issues are making them second-guess the home. In this
+  video, I’ll show what buyers worry about the most and what you can do to keep
+  them interested. The key is understanding what creates doubt before it becomes
+  a deal-breaker. Click the link below to find out what buyers are noticing
+  before they decide.
 date: 2026-04-04 05:00:00
 hidden: false
 tags:
@@ -12,10 +18,11 @@ subtitle: >-
 excerpt: >-
   Avoid last-minute buyer doubts. Smart preparation can save your home sale and
   profit.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/How%20to%20Avoid%20Buyer%20Hesitation%20When%20Selling%20Your%20Twin%20Cities%20Home.mp4
 pullquote:
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '6419123'
 use_youtube_image: true
 youtube_alternate_image: >-
   /uploads/how-to-avoid-buyer-hesitation-when-selling-your-twin-cities-home-2-1.jpg
