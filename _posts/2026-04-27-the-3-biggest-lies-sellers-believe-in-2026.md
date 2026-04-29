@@ -1,8 +1,15 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: 'The 3 Biggest Lies Sellers Believe in 2026 '
-episode_description:
+episode_description: >-
+  If your agent told you to overprice your home to leave room to negotiate, you
+  could be setting yourself up to lose tens of thousands of dollars. And that's
+  just one of three things sellers are being told right now that sound smart but
+  end up costing them. In this video, I break down the three biggest lies
+  sellers are hearing in 2026 and what actually works when it comes to pricing,
+  preparation, and positioning your home to sell. Watch my video before your
+  next listing conversation.
 date: 2026-04-27 05:00:00
 hidden: false
 tags:
@@ -12,12 +19,13 @@ subtitle: >-
 excerpt: >-
   Overpricing, timing the market, and expecting buyers to waive everything.
   These are the myths that cost sellers real money in the Twin Cities.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/The%203%20Biggest%20Lies%20Sellers%20Believe%20in%202026.mp4
 pullquote: >-
   Smart sellers win by controlling the price, preparation, and positioning, not
   by hoping.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: 8,373,244
 use_youtube_image: true
 youtube_alternate_image: /uploads/the-3-biggest-lies-sellers-believe-in-2026-2-1.jpg
 youtube_code: cdZlk8MzuoY
