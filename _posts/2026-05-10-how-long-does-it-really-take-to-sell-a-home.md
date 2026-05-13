@@ -1,8 +1,13 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: How Long Does It Really Take to Sell a Home?
-episode_description:
+episode_description: >-
+  How long will it take to sell your home? It's one of the first questions
+  sellers ask, but it's the wrong place to start. The real timeline begins weeks
+  before your listing goes live, and the sellers who skip that part are usually
+  the ones who pay for it. Watch my video to see what the timeline really looks
+  like.
 date: 2026-05-10 05:00:00
 hidden: false
 tags:
@@ -12,10 +17,11 @@ subtitle: >-
 excerpt: >-
   The real timeline starts weeks before your listing goes live. Here's why prep,
   pricing, and positioning matter more than days on market. 
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/How%20Long%20Does%20It%20Really%20Take%20to%20Sell%20a%20Home_.mp4
 pullquote: Homes that rush to market usually sit longer and sell for less.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '7090772'
 use_youtube_image: true
 youtube_alternate_image: /uploads/how-long-does-it-really-take-to-sell-a-home-2-1.jpg
 youtube_code: I67q5MACtAg
