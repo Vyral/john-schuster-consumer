@@ -41,7 +41,6 @@ Ali helped the vet utilize a VA loan to consolidate all of his debt, ultimately 
 
 Clearly, this lender knows what he’s doing\! But how will he fare in our lightning round? Here’s Ali’s answers:&nbsp;
 
-* **Music or podcast?&nbsp;***Podcast. 888-Barbara is always a good one.&nbsp;*
 * **Iced coffee or hot coffee?** *Actually, no coffee…* (absolutely crazy, considering that Ali gets up just before 5 a.m. and works out at 5:30).&nbsp;
 * **Movies at home or movies at the theater?&nbsp;***At home, if I’m with my little man. Otherwise, I like the theater experience.&nbsp;*
 * **Mornings or evenings?** *Definitely a morning guy.&nbsp;*
