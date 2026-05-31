@@ -12,12 +12,13 @@ subtitle: >-
 excerpt: >-
   Pre-qualification isn't just a price range. It's your real monthly payment,
   including taxes, insurance, and HOA fees, and it changes how you shop.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/What%20Pre-Qualification%20Really%20Means%20for%20Twin%20Cities%20Buyers.mp4
 pullquote: >-
   Pre-qualification isn't just a price range; it's your real monthly payment
   with everything included.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '6905346'
 use_youtube_image: true
 youtube_alternate_image: /uploads/what-pre-qualification-really-means-for-twin-cities-buyers-2.jpg
 youtube_code: VLZODwF5FzU
