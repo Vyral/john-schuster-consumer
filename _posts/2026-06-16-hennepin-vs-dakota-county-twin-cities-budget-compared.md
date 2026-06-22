@@ -1,8 +1,16 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: 'Hennepin vs. Dakota County: Twin Cities Budget Compared'
-episode_description:
+episode_description: >-
+  If you're weighing a move in the Twin Cities, two of the metro's most popular
+  counties pull buyers in completely different directions. Hennepin brings the
+  established neighborhoods, the prestige, and some of the highest-rated schools
+  in the state, while Dakota draws more interest every year with newer
+  construction, bigger lots, and more square footage for the money. In my video,
+  I break down Hennepin against Dakota side by side and show you what your exact
+  budget actually buys in each one. Watch my video before you decide where in
+  the metro to make your move.
 date: 2026-06-16 05:00:00
 hidden: false
 tags:
@@ -12,10 +20,11 @@ subtitle: >-
 excerpt: >-
   The same budget buys two very different homes depending on which county you
   choose. Here's how Hennepin and Dakota actually compare.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/Hennepin%20vs.%20Dakota%20County_%20Twin%20Cities%20Budget%20Compared.mp4
 pullquote: There's only one winner, and it's the one that fits you.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '20671057 '
 use_youtube_image: true
 youtube_alternate_image: /uploads/hennepin-vs-dakota-county-twin-cities-budget-compared-2.jpg
 youtube_code: cxNwkPUO0gs
