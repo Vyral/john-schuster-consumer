@@ -20,7 +20,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/is-the-twin-cities-housing-market-crashing-2.jpg
-youtube_code: qOF1-0BipCQ
+youtube_code: J3F9G5Yz-7Q
 CTA_button_title:
 CTA_button_link:
 ---
