@@ -1,8 +1,17 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: Is the Twin Cities Housing Market Crashing?
-episode_description:
+episode_description: >
+  If you've been hearing that the Twin Cities housing market is crashing, the
+  actual numbers might stop you in your tracks. Inventory is up more than 7%
+  over last year, and homes are taking longer to sell, which sounds like bad
+  news until you see what sellers are still getting at closing. In this video, I
+  walk through the one number that tells you this is a balanced market and not a
+  broken one, and what it means for communities where well-priced homes are
+  still moving fast. I also point out where the activity is strongest right now
+  if you're thinking about a move. Watch my video to see whether your home fits
+  that picture.
 date: 2026-07-06 05:00:00
 hidden: false
 tags:
@@ -12,12 +21,13 @@ subtitle: >-
 excerpt: >-
   Inventory is up, and homes are sitting longer, yet sellers are still getting
   nearly their full asking price. Here's what that actually means for you.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/Is%20the%20Twin%20Cities%20Housing%20Market%20Crashing_.mp4
 pullquote: >-
   Sellers are still getting 99.3% of the asking price. That’s not what a
   crashing market looks like.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '8188767'
 use_youtube_image: true
 youtube_alternate_image: /uploads/is-the-twin-cities-housing-market-crashing-2.jpg
 youtube_code: J3F9G5Yz-7Q
