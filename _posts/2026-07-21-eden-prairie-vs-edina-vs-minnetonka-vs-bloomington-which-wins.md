@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/eden-prairie-vs-edina-vs-minnetonka-vs-bloomington-which-wins-2.jpg
-youtube_code: 2_45xvP8r2Y
+youtube_code: z4DF2lK_3GY
 CTA_button_title:
 CTA_button_link:
 ---
