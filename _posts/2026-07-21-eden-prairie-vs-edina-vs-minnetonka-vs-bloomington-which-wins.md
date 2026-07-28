@@ -17,7 +17,7 @@ pullquote: The best city depends on your goals, your budget, and your lifestyle.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/eden-prairie-vs-edina-vs-minnetonka-vs-bloomington-which-wins-2.jpg
+youtube_alternate_image: /uploads/eden-prairie-vs-edina-vs-minnetonka-vs-bloomington-which-wins-2-1.jpg
 youtube_code: z4DF2lK_3GY
 CTA_button_title:
 CTA_button_link:
