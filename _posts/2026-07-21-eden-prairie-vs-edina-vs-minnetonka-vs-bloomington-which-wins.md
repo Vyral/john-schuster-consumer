@@ -1,8 +1,16 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: 'Eden Prairie vs. Edina vs. Minnetonka vs. Bloomington: Which Wins?'
-episode_description:
+episode_description: >-
+  If you're thinking about moving to the southwest Twin Cities, there's one
+  question I get more than almost any other: Eden Prairie, Minnetonka, Edina, or
+  Bloomington, which city is actually the best? Each of these communities has
+  real strengths, and the right answer depends a lot more on you than on any
+  ranking. In my latest video, I break all four down across the things that
+  actually matter, then give you my honest pick for each type of buyer. Watch my
+  video to see which suburb lines up with your goals, your budget, and the way
+  you want to live.
 date: 2026-07-21 05:00:00
 hidden: false
 tags:
@@ -12,10 +20,11 @@ subtitle: >-
 excerpt: >-
   I break down appreciation, shopping, and property taxes across Eden Prairie,
   Edina, Minnetonka, and Bloomington so you can find your best fit.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/Eden%20Prairie%20vs.%20Edina%20vs.%20Minnetonka%20vs.%20Bloomington_%20Which%20Wins_.mp4
 pullquote: The best city depends on your goals, your budget, and your lifestyle.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '18682260'
 use_youtube_image: true
 youtube_alternate_image: /uploads/eden-prairie-vs-edina-vs-minnetonka-vs-bloomington-which-wins-2-1.jpg
 youtube_code: z4DF2lK_3GY
