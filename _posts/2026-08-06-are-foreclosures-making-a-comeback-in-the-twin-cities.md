@@ -21,7 +21,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/are-foreclosures-making-a-comeback-in-the-twin-cities-2.jpg
+youtube_alternate_image: /uploads/are-foreclosures-making-a-comeback-in-the-twin-cities-2-1.jpg
 youtube_code: cQYHPEceU7A
 CTA_button_title:
 CTA_button_link:
