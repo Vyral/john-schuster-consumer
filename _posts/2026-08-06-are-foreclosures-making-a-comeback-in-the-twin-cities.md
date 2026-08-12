@@ -1,8 +1,17 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: Are Foreclosures Making a Comeback in the Twin Cities?
-episode_description:
+episode_description: >-
+  If you’ve been hearing that foreclosures and short sales are staging a
+  comeback in the Twin Cities, it’s worth looking at the actual numbers before
+  you worry. In April, more than 7,400 new listings hit the metro, and only a
+  tiny sliver of them were distressed properties. In this video, I break down
+  exactly what April's Twin Cities listing data shows about short sales and
+  foreclosures, and why today's market looks nothing like the one I sold through
+  in 2008. You’ll see why one attention-grabbing percentage is far less alarming
+  once you know the real count behind it. Watch my video to get the full picture
+  before the rumors get the better of you.
 date: 2026-08-06 05:00:00
 hidden: false
 tags:
@@ -14,12 +23,13 @@ excerpt: >-
   I pulled the actual April listing numbers for the Twin Cities metro, and the
   reality behind the foreclosure rumors is very different from what you might
   expect.
-enclosure:
+enclosure: >-
+  https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/Are%20Foreclosures%20Making%20a%20Comeback%20in%20the%20Twin%20Cities_.mp4
 pullquote: >-
   When the starting number is 26 homes, even a big percentage jump is a tiny
   story.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '6981009'
 use_youtube_image: true
 youtube_alternate_image: /uploads/are-foreclosures-making-a-comeback-in-the-twin-cities-2-1.jpg
 youtube_code: cQYHPEceU7A
