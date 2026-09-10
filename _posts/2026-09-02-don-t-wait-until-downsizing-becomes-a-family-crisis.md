@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/don-t-wait-until-downsizing-becomes-a-family-crisis-2.jpg
-youtube_code: QtdEGeI6hoI
+youtube_code: 8OiZ9A3geoE
 CTA_button_title:
 CTA_button_link:
 ---
