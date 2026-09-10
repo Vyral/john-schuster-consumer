@@ -22,7 +22,7 @@ CTA_button_link:
 ---
 {% include author-box.html %} {% include cta-main-box.html %}
 
-[**Reserve your spot**](https://docs.google.com/forms/d/e/1FAIpQLSdWJLHuFOxvkfe4cNvhxDOPGhIER5g2o1iCCKFvsgj7kTYxSg/viewform)
+[**Reserve your spot**](https://docs.google.com/forms/d/e/1FAIpQLSdWJLHuFOxvkfe4cNvhxDOPGhIER5g2o1iCCKFvsgj7kTYxSg/viewform)**<br /><br />**[**Visit Downsizing Minnesota**](https://www.downsizingminnesota.com/){: target="_blank" rel="noopener"}
 
 Most families don’t call me about downsizing a parent’s home until it’s already an emergency, and by then the calm version of every decision is off the table. A parent has a fall or a diagnosis, and adult children are suddenly standing in a full house with no idea what to do first. The move itself is hard enough, but what actually overwhelms families is everything attached to it, so it helps to see the whole map before you’re standing in it.
 
