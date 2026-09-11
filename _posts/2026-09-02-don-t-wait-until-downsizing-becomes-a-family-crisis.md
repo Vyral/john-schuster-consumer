@@ -1,8 +1,21 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: Don't Wait Until Downsizing Becomes a Family Crisis
-episode_description:
+episode_description: >
+  Most families don't reach out for help with downsizing until they're already
+  in a crisis, a parent has a fall or a diagnosis, and the adult children are
+  suddenly left with a whole house, no plan, and no idea where to start. In this
+  video, I share the most common situation my team sees: adult kids trying to
+  help a parent move with no will, no plan, and nothing in place, and why the
+  real crisis was never the emergency itself but the missing plan when it hit. I
+  also explain why downsizing is so much bigger than selling a house, and why I
+  helped create the Downsizing Senior Expo: a free community event bringing real
+  estate, legal, financial, moving, home staging, estate sale, and senior living
+  resources all into one room. Join us Friday, October 9, 2026, from 11:00 AM to
+  2:00 PM at Braemar Golf Course in Edina, MN. Reserve your spot at
+  DownsizingMinnesota.com. And if a move is coming soon, call my team; let's
+  make a plan together.
 date: 2026-09-02T05:00:00Z
 hidden: false
 tags:
@@ -10,10 +23,10 @@ subtitle: The most common call I get is from adult children with no plan and no
   time. Here's how to get ahead of it, and a free event that can help.
 excerpt: The most common call I get is from adult children with no plan and no
   time. Here's how to get ahead of it, and a free event that can help.
-enclosure:
+enclosure: https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/Don't%20Wait%20Until%20Downsizing%20Becomes%20a%20Family%20Crisis.mp4
 pullquote: The real crisis was never the emergency; it was having no plan when it hit.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '23425626'
 use_youtube_image: true
 youtube_alternate_image: /uploads/don-t-wait-until-downsizing-becomes-a-family-crisis-2.jpg
 youtube_code: 8OiZ9A3geoE
