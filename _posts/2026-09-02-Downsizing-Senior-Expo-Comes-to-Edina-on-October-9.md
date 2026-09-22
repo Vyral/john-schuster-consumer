@@ -19,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/downsizing-senior-expo-comes-to-edina-on-october-9-2.jpg
-youtube_code: Z5cyVY5nETM
+youtube_code: VDRE2PFyjGo
 CTA_button_title:
 CTA_button_link:
 ---
