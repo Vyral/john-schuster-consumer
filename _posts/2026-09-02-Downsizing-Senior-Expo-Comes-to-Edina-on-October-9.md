@@ -1,8 +1,13 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: Downsizing Senior Expo Comes to Edina on October 9
-episode_description:
+episode_description: Do you or your parents know downsizing is coming, but have
+  no idea where to begin or who to call first? On Friday, October 9, the
+  DownsizingMinnesota.com Downsizing Senior Expo brings the right professionals
+  together at Braemar Golf Course in Edina. In this video, we share who you'll
+  meet and why one afternoon can replace dozens of phone calls and online
+  searches. Watch our video to see how to get your free tickets.
 date: 2026-09-21T05:00:00Z
 hidden: false
 tags:
@@ -12,11 +17,11 @@ subtitle: On October 9 at Braemar Golf Course, seniors and their adult children
 excerpt: On October 9 at Braemar Golf Course, seniors and their adult children
   can meet the professionals they need and start building a complete downsizing
   plan.
-enclosure:
+enclosure: https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/Downsizing%20Senior%20Expo%20Comes%20to%20Edina%20on%20October%209.mp4
 pullquote: Even if you're years away from moving, this is the perfect time to
   learn what your choices are.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '13898929'
 use_youtube_image: true
 youtube_alternate_image: /uploads/downsizing-senior-expo-comes-to-edina-on-october-9-2.jpg
 youtube_code: VDRE2PFyjGo
