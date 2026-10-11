@@ -1,8 +1,15 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: New Condo Rules Could Delay Your Twin Cities Sale
-episode_description:
+episode_description: If you own a condo in Minnesota, a rule change that took
+  effect this August can decide whether your next buyer gets approved for a
+  conventional mortgage. Fannie Mae and Freddie Mac retired the limited condo
+  review, so lenders now examine your association's budget, reserves, insurance,
+  and delinquencies, not just your buyer. In this video, I walk through what the
+  change means for sellers and the documents you should order before you list.
+  Sellers who get caught off guard are the ones who wait until an offer is
+  accepted to find out. Watch the video to see what to pull together first.
 date: 2026-10-04T05:00:00Z
 hidden: false
 tags:
@@ -12,11 +19,11 @@ subtitle: Fannie Mae and Freddie Mac retired the limited condo review, so
 excerpt: Fannie Mae and Freddie Mac retired the limited condo review, so lenders
   now dig into your association's finances. Here's what to gather before you
   list.
-enclosure:
+enclosure: https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/New%20Condo%20Rules%20Could%20Delay%20Your%20Twin%20Cities%20Sale.mp4
 pullquote: Sellers need to treat the association's financial health as part of
   the property.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '13609687'
 use_youtube_image: true
 youtube_alternate_image: /uploads/new-condo-rules-could-delay-your-twin-cities-sale-2.jpg
 youtube_code: 5uwfU_c9vcY
