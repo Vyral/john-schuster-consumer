@@ -1,8 +1,14 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: 3 Numbers That Decide When to Sell in the Twin Cities
-episode_description:
+episode_description: National forecasts can’t tell you whether January will be a
+  good time to sell your home in Eden Prairie, Edina, Lakeville, or anywhere
+  else in the Twin Cities. In the same week, a Lakeville starter home, a
+  Bloomington condo, and a Minnetonka luxury home can perform very differently.
+  In this video, I break down the three numbers I’d watch for your specific home
+  and what they reveal about when to list. Watch the video to see which numbers
+  apply to you.
 date: 2026-10-21T05:00:00Z
 hidden: false
 tags:
@@ -10,10 +16,10 @@ subtitle: National forecasts can’t tell you when to sell in Eden Prairie or
   Lakeville, but your local competition, offer pace, and personal net can.
 excerpt: National forecasts can’t tell you when to sell in Eden Prairie or
   Lakeville, but your local competition, offer pace, and personal net can.
-enclosure:
+enclosure: https://storage.googleapis.com/podcast-shows/John%20Schuster/2026/3%20Numbers%20That%20Decide%20When%20to%20Sell%20in%20the%20Twin%20Cities.mp4
 pullquote: The best time to sell your home isn’t a month printed on the calendar.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '21097197'
 use_youtube_image: true
 youtube_alternate_image: /uploads/3-numbers-that-decide-when-to-sell-in-the-twin-cities-2.jpg
 youtube_code: Dc7tAM1Ad_w
