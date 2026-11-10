@@ -23,6 +23,8 @@ CTA_button_link:
 ---
 {% include author-box.html %} {% include cta-main-box.html %}
 
+[**See Your Updated Current Estimated Market Value**](https://johnschustergroup.hifello.com/lp/63f6468dc99fbc0019916d5a){: target="_blank" rel="noopener"}
+
 If your home is still on the market as Thanksgiving gets closer, you’ve probably wondered whether to pull it and try again in January. Sometimes that’s the right call. More often, taking a listing down just because the holidays arrived costs sellers their best opportunity.
 
 **Holiday buyers usually have a deadline.** Fewer buyers are out in late November and December, but [holiday buyers tend to be more serious](https://www.hgtv.com/lifestyle/real-estate/top-10-tips-for-selling-your-home-during-the-holidays#:~:text=holiday%20buyers%20tend%20to%20be%20more%20serious), and many are highly motivated. [A job change](https://www.johnschustergroup.com/relocation-services), a lease that’s ending, a family move, or a financial reason to close usually drives them to book showings this time of year.
