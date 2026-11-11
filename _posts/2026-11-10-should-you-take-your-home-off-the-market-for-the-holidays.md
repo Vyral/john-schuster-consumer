@@ -1,8 +1,15 @@
 ---
-publish_as_a_podcast: false
+publish_as_a_podcast: true
 layout: post
 title: Should You Take Your Home Off the Market for the Holidays?
-episode_description:
+episode_description: >
+  Pulling your home off the market for Thanksgiving and Christmas can seem like
+  the obvious move, but it often costs sellers their best opportunity. A job
+  change, a lease ending, or a family move usually brings buyers to showings in
+  late November and December. In this video, I walk through the three questions
+  that tell you whether your home should stay active through the holidays or
+  take a short, planned break. Watch the video to see which path fits your
+  listing before the calendar makes the decision for you.
 date: 2026-11-10T05:00:00Z
 hidden: false
 tags:
@@ -10,11 +17,11 @@ subtitle: Holiday buyers are often working against a real deadline, and three
   questions can tell you whether to stay active or relaunch in January.
 excerpt: Holiday buyers are often working against a real deadline, and three
   questions can tell you whether to stay active or relaunch in January.
-enclosure:
+enclosure: https://storage.googleapis.com/podcast-shows/John%20Salkowski/Consumer/2026/Should%20You%20Take%20Your%20Home%20Off%20the%20Market%20for%20the%20Holidays_.mp4
 pullquote: What you should not do is withdraw automatically because the calendar
   has changed.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: '14257016'
 use_youtube_image: true
 youtube_alternate_image: /uploads/should-you-take-your-home-off-the-market-for-the-holidays-2.jpg
 youtube_code: _sTv24KqoaM
