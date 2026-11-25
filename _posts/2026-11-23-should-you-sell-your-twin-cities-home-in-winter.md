@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/should-you-take-your-home-off-the-market-for-the-holidays-2-1.jpg
-youtube_code: 0ZLN27tzF5M
+youtube_code: aBXXtuueGa0
 CTA_button_title:
 CTA_button_link:
 ---
